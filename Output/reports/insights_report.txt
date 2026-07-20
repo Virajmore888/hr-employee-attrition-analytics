@@ -1,0 +1,40 @@
+======================================================================
+HR INSIGHTS REPORT
+======================================================================
+
+Q1. What is the overall attrition rate?
+-> 15.96% of employees have left the company.
+
+Q2. Which department has the highest attrition rate?
+-> Research & Development has the highest attrition rate at 19.20%.
+
+Q3. Is there a salary gap between active and exited employees?
+-> Active employees earn 452 on average higher than exited employees.
+   Active: mean=61,338, median=61,116
+   Exited: mean=60,886, median=60,506
+
+Q4. What is the average employee tenure?
+-> On average, employees stay 8.13 years.
+   Employees who left stayed 6.18 years on average before leaving.
+
+Q5. Is attrition different between genders?
+   Male: 16.75% attrition rate
+   Female: 15.27% attrition rate
+-> Male employees leave more often, at 16.75%.
+
+Q6. Are happier employees also better performers?
+-> The correlation between job satisfaction and performance rating is 0.00.
+   This means there is almost no link between the two.
+
+Q7. Which job title earns the most on average?
+-> IT Manager has the highest average salary at 78,599.
+
+Q8. Do employees who work more overtime leave more often?
+-> Active employees: 1.08 avg overtime hours.
+   Exited employees: 1.15 avg overtime hours.
+   Employees who left worked more overtime on average. This suggests overwork may be linked to attrition.
+
+
+======================================================================
+Report generated from 915 employee records.
+======================================================================
