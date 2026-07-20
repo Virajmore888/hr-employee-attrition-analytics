@@ -1,0 +1,401 @@
+employee_id,employee_name,department_name,latest_attendance_date,latest_attendance_status,overtime_hours
+1001,Vivaan Verma,Marketing,2026-07-10,Present,3.0
+1003,Kavya Iyer,Finance,2026-07-10,Present,1.5
+1004,Preeti Sharma,Human Resources,2026-07-10,Present,0.0
+1007,Gaurav Iyer,Sales,2026-07-10,Present,1.0
+1008,Riya Singh,Human Resources,2026-07-10,Leave,0.0
+1012,Rohan Kapoor,Human Resources,2026-07-10,Present,0.0
+1013,Vikram Nair,Human Resources,2026-07-10,Present,0.0
+1014,Amit Patel,Customer Support,2026-07-10,Present,0.0
+1015,Suresh Reddy,Marketing,2026-07-10,Present,2.0
+1016,Amit Patel,Human Resources,2026-07-10,Present,3.0
+1019,Ashok Tiwari,Finance,2026-07-10,Present,2.0
+1020,Sanjay Agarwal,IT,2026-07-10,Present,1.5
+1025,Manish Kumar,Customer Support,2026-07-10,Present,1.0
+1026,Sneha Gupta,Sales,2026-07-10,Present,1.0
+1028,Suresh Saxena,Operations,2026-07-10,Present,1.0
+1029,Nisha Malhotra,Finance,2026-07-10,Present,0.0
+1030,Preeti Sharma,Marketing,2026-07-10,Present,0.0
+1034,Kirti Malhotra,Finance,2026-07-10,Leave,1.5
+1036,Nisha Singh,Customer Support,2026-07-10,Work From Home,3.0
+1038,Shreya Chopra,Sales,2026-07-10,Absent,0.0
+1042,Kavya Bansal,Sales,2026-07-10,Present,0.0
+1046,Priya Chopra,Finance,2026-07-10,Leave,1.5
+1047,Aditya Verma,Finance,2026-07-10,Work From Home,0.0
+1048,Shreya Mehta,Human Resources,2026-07-10,Present,0.0
+1055,Nisha Agarwal,Operations,2026-07-10,Present,1.0
+1057,Sanjay Yadav,Finance,2026-07-10,Present,1.0
+1071,Kavya Kumar,Sales,2026-07-10,Present,0.0
+1074,Swati Patel,Research & Development,2026-07-10,Present,3.0
+1075,Rajesh Nair,Human Resources,2026-07-10,Present,1.5
+1076,Vivaan Mehta,Finance,2026-07-10,Present,2.0
+1077,Rohan Kumar,Customer Support,2026-07-10,Present,0.0
+1081,Aditya Agarwal,Research & Development,2026-07-10,Present,0.0
+1084,Sneha Kumar,Human Resources,2026-07-10,Present,0.0
+1085,Arjun Tiwari,IT,2026-07-10,Present,1.5
+1086,Neha Chopra,Customer Support,2026-07-10,Present,0.0
+1090,Preeti Mehta,IT,2026-07-10,Present,1.5
+1091,Pooja Tiwari,Operations,2026-07-10,Work From Home,0.0
+1092,Aditya Yadav,Marketing,2026-07-10,Present,1.5
+1094,Rohan Rao,Human Resources,2026-07-10,Present,2.0
+1095,Kirti Reddy,Research & Development,2026-07-10,Absent,2.0
+1097,Kavita Saxena,Customer Support,2026-07-10,P,1.5
+1098,Karan Mehta,Customer Support,2026-07-10,Work From Home,2.0
+1100,Suresh Singh,Research & Development,2026-07-10,Present,1.5
+1101,Aarav Malhotra,Sales,2026-07-10,Leave,0.0
+1106,Rohan Nair,Operations,2026-07-10,Present,1.5
+1107,Isha Saxena,Sales,2026-07-10,Present,0.0
+1109,Divya Chopra,Human Resources,2026-07-10,Present,0.0
+1116,Kirti Iyer,IT,2026-07-10,Present,0.0
+1118,Anjali Malhotra,Human Resources,2026-07-10,Present,0.0
+1119,Vikram Joshi,Finance,2026-07-10,Absent,1.5
+1121,Suresh Mehta,Marketing,2026-07-10,Present,1.0
+1122,Vikram Mehta,Human Resources,2026-07-10,Present,0.0
+1124,Preeti Agarwal,Human Resources,2026-07-10,Leave,2.0
+1125,Pooja Iyer,Marketing,2026-07-10,Present,3.0
+1126,Vikram Malhotra,Sales,2026-07-10,Present,1.5
+1131,Riya Kumar,Operations,2026-07-10,Present,0.0
+1132,Sanjay Reddy,Marketing,2026-07-10,Present,3.0
+1133,Nikhil Gupta,Sales,2026-07-10,Present,0.0
+1134,Siddharth Reddy,Research & Development,2026-07-10,Present,1.0
+1137,Varun Malhotra,Marketing,2026-07-10,Wfh,1.0
+1140,Siddharth Kumar,Operations,2026-07-10,Present,0.0
+1143,Gaurav Tiwari,Finance,2026-07-10,Present,1.5
+1146,Aditya Iyer,Marketing,2026-07-10,Leave,0.0
+1158,Meera Sharma,IT,2026-07-10,Present,0.0
+1159,Swati Agarwal,IT,2026-07-10,Present,2.0
+1161,Rahul Iyer,Marketing,2026-07-10,Present,3.0
+1163,Rajesh Nair,IT,2026-07-10,Work From Home,2.0
+1165,Preeti Patel,IT,2026-07-10,Work From Home,0.0
+1166,Ritu Rao,Operations,2026-07-10,Present,3.0
+1169,Priya Iyer,Marketing,2026-07-10,Work From Home,0.0
+1171,Ashok Reddy,Finance,2026-07-10,Present,0.0
+1172,Aditya Nair,Marketing,2026-07-10,Absent,0.0
+1182,Isha Rao,Finance,2026-07-10,Present,1.0
+1184,Nisha Patel,Human Resources,2026-07-10,Present,0.0
+1186,Preeti Sharma,Human Resources,2026-07-10,Present,0.0
+1187,Ananya Rao,Marketing,2026-07-10,Present,1.5
+1188,Neha Kumar,Sales,2026-07-10,Work From Home,1.0
+1191,Gaurav Verma,Customer Support,2026-07-10,Present,1.5
+1192,Gaurav Tiwari,IT,2026-07-10,Present,1.5
+1195,Sneha Verma,Marketing,2026-07-10,Leave,2.0
+1197,Rahul Malhotra,IT,2026-07-10,P,0.0
+1199,Sakshi Tiwari,Human Resources,2026-07-10,Present,1.5
+1203,Karan Chopra,Sales,2026-07-10,Present,2.0
+1204,Nikhil Kapoor,Sales,2026-07-10,Present,0.0
+1206,Siddharth Nair,Finance,2026-07-10,Present,0.0
+1208,Rahul Nair,Marketing,2026-07-10,Present,0.0
+1210,Anil Tiwari,Human Resources,2026-07-10,Leave,3.0
+1211,Aditya Nair,Marketing,2026-07-10,Present,0.0
+1212,Aarav Reddy,Finance,2026-07-10,Present,0.0
+1213,Sanjay Joshi,IT,2026-07-10,Present,1.0
+1214,Anjali Rao,Finance,2026-07-10,Present,2.0
+1215,Vivaan Bansal,Sales,2026-07-10,Present,0.0
+1216,Swati Kapoor,Finance,2026-07-10,Present,3.0
+1218,Karan Chopra,Operations,2026-07-10,Present,2.0
+1219,Divya Yadav,Customer Support,2026-07-10,Present,3.0
+1220,Nisha Verma,IT,2026-07-10,Present,1.0
+1221,Siddharth Reddy,Customer Support,2026-07-10,Present,2.0
+1223,Nikhil Iyer,IT,2026-07-10,Present,1.0
+1224,Sakshi Saxena,Research & Development,2026-07-10,Present,1.0
+1225,Riya Agarwal,Customer Support,2026-07-10,Present,0.0
+1226,Swati Agarwal,Finance,2026-07-10,Present,0.0
+1227,Ritu Verma,Human Resources,2026-07-10,Present,0.0
+1230,Deepak Joshi,Research & Development,2026-07-10,Present,0.0
+1231,Ashok Rao,Sales,2026-07-10,Present,1.0
+1232,Preeti Tiwari,Research & Development,2026-07-10,Present,2.0
+1233,Divya Gupta,Operations,2026-07-10,Present,2.0
+1235,Sanjay Sharma,IT,2026-07-10,Present,3.0
+1236,Sanjay Reddy,Finance,2026-07-10,Present,0.0
+1238,Varun Nair,Marketing,2026-07-10,Present,0.0
+1241,Kavya Agarwal,Customer Support,2026-07-10,Present,2.0
+1249,Sanjay Bansal,Research & Development,2026-07-10,Work From Home,0.0
+1253,Neha Kumar,Finance,2026-07-10,Present,1.0
+1256,Preeti Mehta,Customer Support,2026-07-10,Leave,0.0
+1257,Ananya Kumar,Sales,2026-07-10,Work From Home,1.0
+1258,Deepak Tiwari,Research & Development,2026-07-10,Present,1.0
+1259,Nisha Bansal,Sales,2026-07-10,Present,0.0
+1262,Sunita Yadav,Customer Support,2026-07-10,Present,0.0
+1264,Kavya Rao,Research & Development,2026-07-10,Work From Home,1.0
+1265,Sunita Joshi,Marketing,2026-07-10,Present,1.0
+1268,Swati Gupta,Research & Development,2026-07-10,Present,1.5
+1269,Rajesh Gupta,Research & Development,2026-07-10,Leave,3.0
+1270,Anil Chopra,Customer Support,2026-07-10,Present,0.0
+1271,Pooja Nair,Operations,2026-07-10,Present,0.0
+1278,Arjun Agarwal,Customer Support,2026-07-10,Work From Home,3.0
+1280,Isha Joshi,Research & Development,2026-07-10,Present,3.0
+1284,Anil Iyer,Human Resources,2026-07-10,Work From Home,0.0
+1285,Nisha Malhotra,Research & Development,2026-07-10,Present,2.0
+1290,Ritu Malhotra,Finance,2026-07-10,Leave,0.0
+1294,Varun Verma,IT,2026-07-10,Leave,0.0
+1296,Vivaan Saxena,Customer Support,2026-07-10,Work From Home,3.0
+1297,Preeti Gupta,Marketing,2026-07-10,Present,0.0
+1302,Arjun Kumar,Marketing,2026-07-10,Work From Home,0.0
+1303,Sakshi Agarwal,IT,2026-07-10,Present,1.0
+1305,Meera Patel,Marketing,2026-07-10,Present,0.0
+1307,Sneha Saxena,Operations,2026-07-10,Present,0.0
+1309,Kavya Kapoor,Human Resources,2026-07-10,Present,1.0
+1310,Nisha Reddy,Finance,2026-07-10,Present,0.0
+1314,Rajesh Bansal,IT,2026-07-10,Work From Home,3.0
+1315,Gaurav Mehta,Finance,2026-07-10,Work From Home,1.5
+1316,Rohan Agarwal,Research & Development,2026-07-10,Present,1.0
+1317,Kavita Malhotra,IT,2026-07-10,Present,0.0
+1318,Arjun Patel,Finance,2026-07-10,Present,2.0
+1320,Manish Reddy,Research & Development,2026-07-10,Present,3.0
+1321,Swati Joshi,Finance,2026-07-10,Absent,0.0
+1329,Sakshi Nair,IT,2026-07-10,Leave,0.0
+1330,Nikhil Verma,Customer Support,2026-07-10,Present,0.0
+1340,Nikhil Chopra,Customer Support,2026-07-10,Present,1.0
+1343,Vivaan Mehta,Operations,2026-07-10,Present,1.0
+1345,Kavita Sharma,Marketing,2026-07-10,Present,0.0
+1347,Kavita Chopra,Finance,2026-07-10,Work From Home,1.0
+1349,Aarav Joshi,Finance,2026-07-10,Present,0.0
+1351,Divya Tiwari,Customer Support,2026-07-10,Present,2.0
+1355,Gaurav Agarwal,Marketing,2026-07-10,Present,1.0
+1359,Preeti Kapoor,Sales,2026-07-10,Present,0.0
+1360,Sanjay Gupta,Operations,2026-07-10,Work From Home,2.0
+1361,Priya Kumar,Sales,2026-07-10,Work From Home,1.5
+1362,Sakshi Joshi,Operations,2026-07-10,Work From Home,3.0
+1365,Swati Joshi,Sales,2026-07-10,Present,1.5
+1369,Gaurav Kumar,Finance,2026-07-10,Present,1.0
+1370,Shreya Joshi,Sales,2026-07-10,Work From Home,0.0
+1371,Kirti Tiwari,IT,2026-07-10,Present,1.5
+1372,Sunita Reddy,Operations,2026-07-10,Present,1.5
+1373,Karan Reddy,Sales,2026-07-10,Present,0.0
+1374,Neha Singh,Research & Development,2026-07-10,Absent,0.0
+1375,Kavya Agarwal,Customer Support,2026-07-10,Leave,0.0
+1376,Swati Nair,Operations,2026-07-10,Present,1.0
+1381,Anjali Tiwari,Sales,2026-07-10,Present,2.0
+1382,Shreya Gupta,Research & Development,2026-07-10,Present,2.0
+1386,Kavita Saxena,Human Resources,2026-07-10,Leave,2.0
+1387,Pooja Kumar,IT,2026-07-10,Present,0.0
+1388,Rohan Nair,Research & Development,2026-07-10,Present,1.0
+1389,Riya Iyer,IT,2026-07-10,Present,0.0
+1391,Pooja Saxena,Research & Development,2026-07-10,Work From Home,0.0
+1392,Siddharth Tiwari,Sales,2026-07-10,Present,1.5
+1394,Isha Kapoor,Sales,2026-07-10,Present,0.0
+1395,Rahul Malhotra,Research & Development,2026-07-10,A,3.0
+1397,Swati Chopra,Operations,2026-07-10,Work From Home,1.0
+1399,Vivaan Chopra,Operations,2026-07-10,Leave,2.0
+1400,Riya Chopra,Finance,2026-07-10,Present,3.0
+1404,Riya Sharma,IT,2026-07-10,Present,1.0
+1406,Manish Sharma,Research & Development,2026-07-10,Present,0.0
+1407,Sunita Saxena,Operations,2026-07-10,Present,0.0
+1410,Sunita Rao,Research & Development,2026-07-10,Present,0.0
+1411,Sanjay Kapoor,Research & Development,2026-07-10,Present,1.5
+1412,Swati Patel,Sales,2026-07-10,Present,2.0
+1413,Priya Singh,Human Resources,2026-07-10,Wfh,0.0
+1414,Varun Patel,Operations,2026-07-10,Present,3.0
+1416,Kavya Tiwari,Customer Support,2026-07-10,Present,2.0
+1420,Swati Tiwari,Research & Development,2026-07-10,Present,0.0
+1421,Ritu Rao,Finance,2026-07-10,Present,0.0
+1423,Ashok Kapoor,Research & Development,2026-07-10,Present,3.0
+1424,Divya Reddy,Sales,2026-07-10,Present,1.5
+1426,Pooja Kapoor,Customer Support,2026-07-10,Present,2.0
+1436,Varun Nair,Research & Development,2026-07-10,Present,1.5
+1437,Deepak Iyer,IT,2026-07-10,Present,1.0
+1438,Sanjay Sharma,Finance,2026-07-10,Present,2.0
+1442,Meera Singh,Finance,2026-07-10,Present,2.0
+1443,Divya Kumar,Human Resources,2026-07-10,Work From Home,0.0
+1444,Anil Gupta,Operations,2026-07-10,P,1.0
+1446,Gaurav Malhotra,Research & Development,2026-07-10,Present,1.0
+1448,Deepak Bansal,IT,2026-07-10,Present,1.5
+1450,Aditya Mehta,Operations,2026-07-10,Present,2.0
+1451,Siddharth Agarwal,IT,2026-07-10,Present,3.0
+1452,Sanjay Saxena,Human Resources,2026-07-10,Present,0.0
+1458,Anjali Sharma,Research & Development,2026-07-10,Present,1.0
+1461,Sakshi Saxena,Human Resources,2026-07-10,Present,0.0
+1462,Siddharth Rao,Finance,2026-07-10,Present,1.5
+1466,Meera Reddy,Operations,2026-07-10,Present,1.5
+1468,Swati Reddy,Human Resources,2026-07-10,Present,0.0
+1471,Shreya Yadav,Marketing,2026-07-10,Present,3.0
+1472,Pooja Singh,Customer Support,2026-07-10,Present,0.0
+1473,Manish Rao,Finance,2026-07-10,Present,1.0
+1475,Divya Patel,Research & Development,2026-07-10,Work From Home,0.0
+1479,Anil Malhotra,Marketing,2026-07-10,Present,0.0
+1483,Pooja Nair,Sales,2026-07-10,Present,3.0
+1484,Amit Joshi,IT,2026-07-10,Work From Home,3.0
+1485,Siddharth Rao,Research & Development,2026-07-10,Present,0.0
+1486,Vivaan Nair,Research & Development,2026-07-10,Leave,2.0
+1488,Meera Malhotra,Customer Support,2026-07-10,Present,1.0
+1491,Nikhil Sharma,Customer Support,2026-07-10,Absent,0.0
+1493,Ananya Yadav,Customer Support,2026-07-10,Present,0.0
+1498,Sakshi Saxena,Research & Development,2026-07-10,P,1.5
+1500,Vikram Reddy,IT,2026-07-10,Present,0.0
+1501,Aarav Bansal,Marketing,2026-07-10,Present,1.5
+1502,Sunita Kumar,Operations,2026-07-10,Absent,1.5
+1503,Rohan Iyer,Sales,2026-07-10,Absent,3.0
+1504,Sneha Kapoor,Finance,2026-07-10,Present,1.0
+1505,Sanjay Saxena,Marketing,2026-07-10,Present,1.0
+1508,Kirti Chopra,Sales,2026-07-10,Present,0.0
+1509,Preeti Reddy,Operations,2026-07-10,Present,3.0
+1512,Riya Chopra,Sales,2026-07-10,Leave,3.0
+1513,Riya Tiwari,Finance,2026-07-10,Present,0.0
+1516,Kavya Chopra,Marketing,2026-07-10,Present,0.0
+1519,Divya Yadav,Human Resources,2026-07-10,Present,0.0
+1524,Kavita Kapoor,IT,2026-07-10,Present,3.0
+1525,Ananya Saxena,IT,2026-07-10,Work From Home,1.0
+1528,Aarav Nair,Human Resources,2026-07-10,Present,1.0
+1533,Manish Rao,Finance,2026-07-10,Present,0.0
+1534,Priya Mehta,Operations,2026-07-10,Present,2.0
+1537,Rahul Saxena,Operations,2026-07-10,Present,3.0
+1538,Varun Malhotra,IT,2026-07-10,Present,1.0
+1539,Suresh Nair,Sales,2026-07-10,Present,1.5
+1540,Aarav Joshi,Sales,2026-07-10,Present,0.0
+1542,Sanjay Nair,IT,2026-07-10,Present,3.0
+1544,Isha Verma,Operations,2026-07-10,Present,3.0
+1545,Nikhil Kumar,Customer Support,2026-07-10,Present,2.0
+1546,Isha Kapoor,Research & Development,2026-07-10,Present,0.0
+1548,Deepak Sharma,Research & Development,2026-07-10,Present,0.0
+1550,Rahul Yadav,Research & Development,2026-07-10,Present,2.0
+1551,Shreya Chopra,Customer Support,2026-07-10,Work From Home,1.0
+1552,Nikhil Chopra,Operations,2026-07-10,Present,1.0
+1554,Isha Rao,IT,2026-07-10,Present,2.0
+1556,Manish Singh,Marketing,2026-07-10,Present,0.0
+1557,Divya Sharma,Operations,2026-07-10,Present,3.0
+1558,Preeti Chopra,Customer Support,2026-07-10,Present,0.0
+1560,Sakshi Singh,Human Resources,2026-07-10,Present,2.0
+1561,Ritu Saxena,Operations,2026-07-10,Present,0.0
+1563,Sneha Patel,Customer Support,2026-07-10,Leave,2.0
+1565,Suresh Chopra,Customer Support,2026-07-10,Work From Home,0.0
+1566,Swati Iyer,Finance,2026-07-10,Work From Home,3.0
+1568,Suresh Kumar,IT,2026-07-10,Present,3.0
+1569,Suresh Bansal,Customer Support,2026-07-10,Work From Home,0.0
+1571,Ananya Reddy,Marketing,2026-07-10,Absent,1.5
+1573,Preeti Iyer,IT,2026-07-10,Leave,1.0
+1574,Aditya Iyer,Marketing,2026-07-10,Leave,1.5
+1576,Kavya Kapoor,Finance,2026-07-10,Present,2.0
+1582,Rajesh Malhotra,Research & Development,2026-07-10,Present,1.5
+1584,Anil Verma,Customer Support,2026-07-10,Present,0.0
+1587,Karan Joshi,Human Resources,2026-07-10,Present,1.5
+1588,Karan Singh,Sales,2026-07-10,Present,0.0
+1591,Priya Tiwari,Customer Support,2026-07-10,Present,1.5
+1593,Preeti Gupta,Research & Development,2026-07-10,Work From Home,1.5
+1594,Suresh Patel,Human Resources,2026-07-10,Present,0.0
+1595,Riya Yadav,Human Resources,2026-07-10,Present,0.0
+1596,Anil Singh,Research & Development,2026-07-10,Present,2.0
+1598,Kavita Verma,Human Resources,2026-07-10,Present,1.5
+1599,Preeti Yadav,Operations,2026-07-10,Present,0.0
+1601,Meera Iyer,Finance,2026-07-10,Present,0.0
+1603,Preeti Saxena,Research & Development,2026-07-10,Leave,1.5
+1605,Ashok Bansal,Customer Support,2026-07-10,Present,1.0
+1606,Neha Kumar,IT,2026-07-10,Work From Home,3.0
+1610,Swati Kumar,IT,2026-07-10,Present,1.5
+1612,Ashok Joshi,Research & Development,2026-07-10,Present,1.5
+1614,Siddharth Gupta,IT,2026-07-10,Present,0.0
+1615,Ananya Agarwal,Sales,2026-07-10,Present,2.0
+1617,Isha Chopra,Marketing,2026-07-10,Present,0.0
+1619,Shreya Saxena,Finance,2026-07-10,Present,1.5
+1622,Manish Agarwal,Sales,2026-07-10,Present,3.0
+1628,Rajesh Joshi,Marketing,2026-07-10,Present,0.0
+1631,Priya Yadav,Operations,2026-07-10,Present,0.0
+1634,Vivaan Gupta,Sales,2026-07-10,Work From Home,0.0
+1638,Swati Joshi,Customer Support,2026-07-10,P,1.0
+1639,Vikram Mehta,Operations,2026-07-10,Present,0.0
+1641,Rajesh Rao,Operations,2026-07-10,P,0.0
+1642,Divya Saxena,IT,2026-07-10,Present,1.5
+1646,Shreya Patel,Research & Development,2026-07-10,Present,1.0
+1649,Siddharth Mehta,IT,2026-07-10,Present,0.0
+1650,Ritu Patel,Operations,2026-07-10,Absent,1.5
+1651,Riya Patel,Human Resources,2026-07-10,Present,0.0
+1653,Amit Sharma,Finance,2026-07-10,Present,2.0
+1658,Gaurav Kumar,Marketing,2026-07-10,Leave,2.0
+1660,Shreya Reddy,Human Resources,2026-07-10,Present,1.5
+1661,Sakshi Tiwari,Sales,2026-07-10,Present,1.0
+1663,Siddharth Kapoor,Human Resources,2026-07-10,Present,1.5
+1671,Nikhil Mehta,Human Resources,2026-07-10,Leave,0.0
+1672,Divya Nair,Operations,2026-07-10,Present,0.0
+1673,Arjun Yadav,IT,2026-07-10,Leave,0.0
+1675,Aditya Malhotra,Marketing,2026-07-10,Present,3.0
+1679,Vivaan Kapoor,Sales,2026-07-10,P,0.0
+1681,Ashok Verma,Research & Development,2026-07-10,Present,1.0
+1682,Varun Patel,Marketing,2026-07-10,Present,0.0
+1689,Preeti Tiwari,Finance,2026-07-10,Present,2.0
+1692,Ashok Bansal,Human Resources,2026-07-10,Present,0.0
+1693,Rajesh Patel,IT,2026-07-10,Present,1.0
+1700,Preeti Kapoor,Sales,2026-07-10,Leave,0.0
+1701,Gaurav Nair,Operations,2026-07-10,Present,1.5
+1703,Amit Patel,Finance,2026-07-10,Present,1.0
+1705,Vivaan Patel,Research & Development,2026-07-10,Present,0.0
+1709,Amit Mehta,IT,2026-07-10,Present,3.0
+1713,Gaurav Singh,Marketing,2026-07-10,Present,0.0
+1714,Aditya Joshi,IT,2026-07-10,Present,0.0
+1715,Aarav Verma,Customer Support,2026-07-10,Present,3.0
+1718,Kirti Mehta,Sales,2026-07-10,Present,0.0
+1722,Rohan Singh,Sales,2026-07-10,Present,0.0
+1724,Nisha Patel,Marketing,2026-07-10,Present,2.0
+1725,Vikram Verma,Marketing,2026-07-10,Present,2.0
+1726,Rajesh Agarwal,Human Resources,2026-07-10,Present,1.5
+1727,Nisha Patel,Finance,2026-07-10,Present,1.0
+1728,Ananya Yadav,Sales,2026-07-10,Present,0.0
+1729,Karan Rao,Sales,2026-07-10,Work From Home,0.0
+1731,Sakshi Joshi,Sales,2026-07-10,Present,0.0
+1732,Swati Iyer,Marketing,2026-07-10,Present,0.0
+1734,Anil Iyer,IT,2026-07-10,Present,3.0
+1735,Aditya Joshi,Marketing,2026-07-10,Present,3.0
+1739,Manish Sharma,Marketing,2026-07-10,Present,0.0
+1741,Rajesh Iyer,Customer Support,2026-07-10,Present,0.0
+1746,Sanjay Sharma,Finance,2026-07-10,Present,3.0
+1752,Amit Nair,Sales,2026-07-10,Present,3.0
+1753,Sunita Verma,Research & Development,2026-07-10,Present,0.0
+1754,Pooja Kapoor,Human Resources,2026-07-10,Present,3.0
+1755,Neha Saxena,Finance,2026-07-10,Work From Home,0.0
+1757,Isha Tiwari,IT,2026-07-10,Present,1.0
+1760,Kirti Chopra,Customer Support,2026-07-10,Present,0.0
+1765,Isha Iyer,Research & Development,2026-07-10,Present,1.0
+1769,Rahul Malhotra,Customer Support,2026-07-10,Present,0.0
+1770,Preeti Verma,Research & Development,2026-07-10,Work From Home,0.0
+1777,Sunita Saxena,Marketing,2026-07-10,Work From Home,0.0
+1780,Karan Kapoor,Customer Support,2026-07-10,Present,3.0
+1782,Ritu Joshi,Research & Development,2026-07-10,Present,0.0
+1784,Aarav Yadav,Marketing,2026-07-10,Present,0.0
+1790,Manish Iyer,Research & Development,2026-07-10,Present,1.5
+1791,Swati Tiwari,Customer Support,2026-07-10,Present,2.0
+1792,Aarav Saxena,Sales,2026-07-10,Present,1.5
+1795,Arjun Yadav,Operations,2026-07-10,Present,0.0
+1796,Vivaan Singh,Sales,2026-07-10,Present,1.5
+1797,Kirti Sharma,IT,2026-07-10,Present,3.0
+1799,Kirti Tiwari,Human Resources,2026-07-10,Work From Home,2.0
+1801,Ritu Sharma,Human Resources,2026-07-10,Leave,1.0
+1802,Manish Bansal,IT,2026-07-10,Work From Home,3.0
+1803,Preeti Agarwal,Research & Development,2026-07-10,Present,3.0
+1804,Preeti Iyer,Research & Development,2026-07-10,Present,0.0
+1807,Sanjay Gupta,Marketing,2026-07-10,Present,2.0
+1808,Preeti Agarwal,Human Resources,2026-07-10,Present,0.0
+1810,Anil Chopra,Finance,2026-07-10,Present,1.5
+1811,Anjali Verma,Human Resources,2026-07-10,Present,0.0
+1814,Sneha Reddy,Sales,2026-07-10,Present,1.5
+1815,Rohan Malhotra,Research & Development,2026-07-10,Present,0.0
+1819,Anjali Kumar,Marketing,2026-07-10,Present,3.0
+1820,Isha Bansal,Research & Development,2026-07-10,Present,1.5
+1822,Manish Joshi,Research & Development,2026-07-10,Present,0.0
+1825,Siddharth Iyer,Marketing,2026-07-10,Present,3.0
+1829,Divya Gupta,Human Resources,2026-07-10,Present,0.0
+1832,Nisha Agarwal,Research & Development,2026-07-10,Present,1.5
+1838,Kirti Mehta,Sales,2026-07-10,Absent,2.0
+1839,Meera Kumar,Finance,2026-07-10,Present,1.0
+1842,Anjali Verma,Customer Support,2026-07-10,Present,1.5
+1844,Rohan Chopra,IT,2026-07-10,Present,0.0
+1846,Kirti Joshi,Sales,2026-07-10,P,1.0
+1848,Neha Verma,Sales,2026-07-10,Present,1.0
+1850,Nikhil Reddy,Operations,2026-07-10,Present,0.0
+1852,Anjali Kapoor,IT,2026-07-10,Present,0.0
+1855,Kirti Kapoor,Customer Support,2026-07-10,Present,1.5
+1856,Isha Agarwal,Finance,2026-07-10,Present,3.0
+1861,Kavya Gupta,Operations,2026-07-10,Absent,0.0
+1862,Isha Kapoor,Marketing,2026-07-10,Present,3.0
+1863,Varun Bansal,Human Resources,2026-07-10,Present,2.0
+1865,Sunita Tiwari,Finance,2026-07-10,Present,2.0
+1866,Neha Malhotra,Marketing,2026-07-10,Present,3.0
+1869,Isha Kumar,Human Resources,2026-07-10,Present,0.0
+1881,Aarav Bansal,Sales,2026-07-10,Work From Home,3.0
+1883,Preeti Malhotra,IT,2026-07-10,Present,0.0
+1885,Sunita Rao,Finance,2026-07-10,Leave,2.0
+1889,Divya Tiwari,Customer Support,2026-07-10,Present,0.0
+1897,Arjun Reddy,Sales,2026-07-10,Present,0.0
+1902,Preeti Agarwal,Human Resources,2026-07-10,Present,0.0
+1906,Isha Verma,Human Resources,2026-07-10,Present,0.0
+1909,Shreya Patel,Finance,2026-07-10,Present,2.0
+1910,Pooja Saxena,Operations,2026-07-10,P,2.0
+1911,Swati Tiwari,IT,2026-07-10,Present,2.0
+1915,Kavya Bansal,Sales,2026-07-10,Present,0.0

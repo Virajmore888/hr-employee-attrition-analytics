@@ -1,0 +1,916 @@
+employee_id,employee_name,gender,department_name,job_title,city,state,country,manager_name,hire_date,tenure_years,salary,education_level,business_travel,distance_from_home_km,performance_rating,job_satisfaction,work_life_balance,latest_attendance_status,overtime_hours,exit_date,exit_reason,is_active
+1001,Vivaan Verma,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,,2015-03-23,8.37,68938.0,Bachelor'S,Travel_Frequently,41,1.0,3,1.0,Present,3.0,2023-08-06,Not Specified,False
+1002,Divya Saxena,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,,2011-04-04,15.29,69813.0,Bachelor'S,Travel_Frequently,32,3.0,5,,,,,,True
+1003,Kavya Iyer,Female,Finance,Auditor,Mumbai,Maharashtra,India,,2018-12-16,7.59,71540.0,Diploma,Travel_Frequently,5,,2,5.0,Present,1.5,,,True
+1004,Preeti Sharma,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,,2024-05-17,0.69,57410.0,Diploma,Non-Travel,41,2.0,3,5.0,Present,0.0,2025-01-24,Better Opportunity,False
+1005,Suresh Patel,Male,Sales,Territory Manager,Bangalore,Karnataka,India,,2010-06-09,16.11,67274.0,High School,Travel_Frequently,32,4.0,2,5.0,,,,,True
+1006,Vikram Bansal,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,,2023-08-10,2.94,62507.0,Bachelor'S,Travel_Frequently,29,3.0,4,5.0,,,,,True
+1007,Gaurav Iyer,Male,Sales,Sales Executive,Bangalore,Karnataka,India,,2024-02-26,2.39,61192.0,Phd,Travel_Frequently,37,4.0,5,4.0,Present,1.0,,,True
+1008,Riya Singh,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,,2019-03-22,7.33,59103.0,High School,Non-Travel,13,4.0,3,,Leave,0.0,,,True
+1009,Sneha Gupta,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2011-02-19,12.3,54344.0,Master'S,Travel_Rarely,4,,2,1.0,,,2023-06-09,Retirement,False
+1010,Shreya Malhotra,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,,2016-08-27,9.89,54155.0,Phd,Non-Travel,4,,1,1.0,,,,,True
+1011,Rahul Chopra,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,,2023-05-03,3.21,43080.0,Bachelor'S,Travel_Rarely,26,5.0,2,1.0,,,,,True
+1012,Rohan Kapoor,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,,2015-12-13,10.6,54149.0,Bachelor'S,Travel_Frequently,34,2.0,5,1.0,Present,0.0,,,True
+1013,Vikram Nair,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,,2016-04-27,10.23,59252.0,High School,Travel_Frequently,28,3.0,2,2.0,Present,0.0,,,True
+1014,Amit Patel,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2019-08-05,4.99,30099.0,Phd,Non-Travel,28,4.0,1,2.0,Present,0.0,2024-07-31,Relocation,False
+1015,Suresh Reddy,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,,2022-07-23,3.99,40155.0,Diploma,Non-Travel,12,2.0,3,5.0,Present,2.0,,,True
+1016,Amit Patel,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,,2014-12-28,11.56,54815.0,Diploma,Travel_Rarely,18,4.0,4,3.0,Present,3.0,,,True
+1017,Preeti Mehta,Female,Sales,Sales Executive,Bangalore,Karnataka,India,,2014-01-02,12.54,55690.0,Phd,Travel_Rarely,37,,4,5.0,,,,,True
+1018,Suresh Malhotra,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,,2017-01-15,9.51,58749.0,Bachelor'S,Non-Travel,13,1.0,1,3.0,,,,,True
+1019,Ashok Tiwari,Male,Finance,Auditor,Mumbai,Maharashtra,India,,2010-01-04,16.54,72524.0,Diploma,Travel_Rarely,51,4.0,3,1.0,Present,2.0,,,True
+1020,Sanjay Agarwal,Male,IT,Software Engineer,Jaipur,Rajasthan,India,,2015-04-09,11.28,70596.0,High School,Travel_Rarely,41,3.0,2,4.0,Present,1.5,,,True
+1021,Sneha Kumar,Female,Sales,Sales Executive,Bangalore,Karnataka,India,,2019-07-15,4.15,67216.0,Master'S,Travel_Frequently,39,4.0,2,1.0,,,2023-09-06,Personal Reasons,False
+1022,Preeti Kapoor,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,,2015-10-25,9.22,74270.0,High School,Non-Travel,18,5.0,3,4.0,,,2025-01-13,Not Specified,False
+1023,Rahul Chopra,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,,2019-04-22,7.24,71377.0,High School,Travel_Rarely,31,,5,1.0,,,,,True
+1024,Preeti Saxena,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,,2016-02-14,10.43,62848.5,Diploma,Travel_Frequently,2,,4,1.0,,,,,True
+1025,Manish Kumar,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,,2015-11-02,10.71,46688.0,Master'S,Non-Travel,31,5.0,5,1.0,Present,1.0,,,True
+1026,Sneha Gupta,Female,Sales,Sales Executive,Bangalore,Karnataka,India,,2014-06-22,12.07,63977.0,Bachelor'S,Non-Travel,39,,4,4.0,Present,1.0,,,True
+1027,Sanjay Singh,Male,Sales,Territory Manager,Bangalore,Karnataka,India,,2025-03-11,1.36,37793.0,High School,Travel_Frequently,39,2.0,2,2.0,,,,,True
+1028,Suresh Saxena,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,,2024-07-10,2.02,46009.0,Master'S,Travel_Rarely,12,2.0,1,2.0,Present,1.0,,,True
+1029,Nisha Malhotra,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,,2011-12-11,14.6,72082.0,Bachelor'S,Travel_Rarely,14,1.0,5,1.0,Present,0.0,,,True
+1030,Preeti Sharma,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,,2019-02-12,7.43,56786.0,Bachelor'S,Travel_Rarely,45,3.0,5,3.0,Present,0.0,,,True
+1031,Kavita Saxena,Female,IT,IT Manager,Jaipur,Rajasthan,India,,2020-03-06,6.37,69712.0,Diploma,Travel_Frequently,31,2.0,1,5.0,,,,,True
+1032,Pooja Reddy,Female,Finance,Accountant,Mumbai,Maharashtra,India,,2014-01-09,12.52,80000.0,Master'S,Non-Travel,37,2.0,1,3.0,,,,,True
+1033,Amit Bansal,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,,2011-08-30,14.89,64202.0,Phd,Travel_Frequently,15,4.0,3,4.0,,,,,True
+1034,Kirti Malhotra,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,,2012-03-23,14.32,68002.0,Diploma,Travel_Rarely,29,5.0,2,1.0,Leave,1.5,,,True
+1035,Shreya Kapoor,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,,2024-01-08,2.53,52340.0,High School,Non-Travel,51,1.0,1,3.0,,,,,True
+1036,Nisha Singh,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2025-09-11,0.31,27000.0,Phd,Non-Travel,6,5.0,2,5.0,Work From Home,3.0,2026-01-04,Better Opportunity,False
+1037,Amit Tiwari,Male,Sales,Sales Manager,Bangalore,Karnataka,India,,2021-08-22,4.91,54002.0,Master'S,Travel_Rarely,43,4.0,2,4.0,,,,,True
+1038,Shreya Chopra,Female,Sales,Sales Associate,Bangalore,Karnataka,India,,2017-01-20,9.49,43537.0,Phd,Travel_Rarely,4,4.0,1,5.0,Absent,0.0,,,True
+1039,Ananya Reddy,Female,Finance,Accountant,Mumbai,Maharashtra,India,,2019-10-30,6.72,54426.0,High School,Non-Travel,30,5.0,3,1.0,,,,,True
+1040,Ritu Nair,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,,2020-03-30,6.3,51002.0,Master'S,Travel_Frequently,18,3.0,5,3.0,,,,,True
+1041,Kavya Kapoor,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,,2022-05-19,3.76,47129.0,Diploma,Non-Travel,21,3.0,2,5.0,,,2026-02-19,Health Reasons,False
+1042,Kavya Bansal,Female,Sales,Sales Manager,Bangalore,Karnataka,India,,2023-03-28,3.31,51306.0,Master'S,Non-Travel,31,3.0,2,2.0,Present,0.0,,,True
+1043,Neha Mehta,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,,2020-12-11,5.6,47450.0,High School,Non-Travel,45,,3,2.0,,,,,True
+1044,Sanjay Joshi,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,,2015-06-24,11.07,79173.0,Diploma,Travel_Frequently,10,1.0,3,2.0,,,,,True
+1045,Deepak Rao,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,,2017-10-01,8.8,61343.0,Master'S,Non-Travel,16,1.0,2,4.0,,,,,True
+1046,Priya Chopra,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,,2025-05-20,1.16,50954.0,Diploma,Travel_Rarely,15,,3,3.0,Leave,1.5,,,True
+1047,Aditya Verma,Male,Finance,Auditor,Mumbai,Maharashtra,India,,2022-12-31,3.55,56608.0,Phd,Travel_Frequently,33,4.0,3,4.0,Work From Home,0.0,,,True
+1048,Shreya Mehta,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,,2015-01-23,11.49,67000.0,Master'S,Travel_Rarely,35,4.0,3,4.0,Present,0.0,,,True
+1049,Kirti Chopra,Female,IT,Software Engineer,Jaipur,Rajasthan,India,,2015-03-31,11.3,84680.0,Master'S,Travel_Frequently,27,4.0,1,2.0,,,,,True
+1050,Pooja Singh,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,,2020-03-05,6.37,43425.0,Master'S,Travel_Rarely,40,,3,5.0,,,,,True
+1051,Riya Kapoor,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,,2012-03-24,14.32,59052.0,High School,Non-Travel,43,3.0,1,3.0,,,,,True
+1052,Rajesh Iyer,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,,2022-06-07,4.11,63063.0,Diploma,Travel_Frequently,17,2.0,4,1.0,,,,,True
+1053,Rohan Joshi,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,,2013-11-28,12.64,61521.0,Phd,Non-Travel,29,3.0,5,2.0,,,,,True
+1054,Nisha Sharma,Female,Sales,Sales Associate,Bangalore,Karnataka,India,,2019-07-25,6.98,60344.0,Diploma,Travel_Frequently,41,5.0,4,1.0,,,,,True
+1055,Nisha Agarwal,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,,2024-09-07,1.86,51009.0,Master'S,Travel_Rarely,47,4.0,2,4.0,Present,1.0,,,True
+1056,Kavya Bansal,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,,2019-09-08,6.86,59715.0,High School,Travel_Rarely,43,2.0,3,5.0,,,,,True
+1057,Sanjay Yadav,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,,2022-12-18,3.58,53632.0,Bachelor'S,Non-Travel,52,,3,5.0,Present,1.0,,,True
+1058,Ashok Nair,Male,Sales,Sales Manager,Bangalore,Karnataka,India,,2025-10-05,0.79,43672.0,Diploma,Non-Travel,48,4.0,3,,,,,,True
+1059,Suresh Rao,Male,IT,Software Engineer,Jaipur,Rajasthan,India,,2013-06-28,13.06,87215.0,Master'S,Non-Travel,49,1.0,2,3.0,,,,,True
+1060,Ritu Rao,Female,Sales,Sales Manager,Bangalore,Karnataka,India,,2023-06-11,3.1,57431.0,High School,Travel_Frequently,28,4.0,2,4.0,,,,,True
+1061,Neha Chopra,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Sneha Kumar,2020-04-24,6.23,50491.0,Diploma,Travel_Rarely,54,3.0,5,2.0,,,,,True
+1062,Rahul Malhotra,Male,Operations,Operations Manager,Chennai,Tamil Nadu,India,Rohan Joshi,2017-08-13,8.93,51887.0,Diploma,Non-Travel,10,4.0,4,,,,,,True
+1063,Karan Bansal,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Kavita Saxena,2022-12-31,3.55,31442.0,Master'S,Travel_Rarely,38,2.0,5,1.0,,,,,True
+1064,Ananya Verma,Female,IT,IT Manager,Jaipur,Rajasthan,India,Kavya Iyer,2024-06-17,1.4,58528.0,Master'S,Travel_Frequently,13,2.0,2,2.0,,,2025-11-11,Career Growth,False
+1065,Deepak Singh,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Manish Kumar,2024-06-29,2.05,74549.0,Master'S,Travel_Frequently,39,3.0,4,1.0,,,,,True
+1066,Pooja Saxena,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Ananya Reddy,2023-07-09,3.03,55362.0,High School,Travel_Frequently,25,1.0,4,1.0,,,,,True
+1067,Manish Agarwal,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Riya Kapoor,2016-12-05,9.62,78828.0,High School,Travel_Frequently,54,1.0,1,3.0,,,,,True
+1068,Ashok Chopra,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Nisha Malhotra,2025-07-16,1.01,69507.0,Phd,Travel_Frequently,51,,2,5.0,,,,,True
+1069,Riya Joshi,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Kavya Bansal,2016-04-27,10.23,53209.0,Master'S,Travel_Frequently,7,1.0,4,5.0,,,,,True
+1070,Karan Nair,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Amit Patel,2019-10-24,6.74,39915.0,Master'S,Travel_Rarely,15,1.0,4,2.0,,,,,True
+1071,Kavya Kumar,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Shreya Malhotra,2020-08-06,5.95,56788.0,Phd,Travel_Frequently,28,4.0,1,4.0,Present,0.0,,,True
+1072,Rahul Malhotra,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Amit Tiwari,2021-03-18,1.59,49879.0,Master'S,Travel_Frequently,43,5.0,5,1.0,,,2022-10-18,Career Growth,False
+1073,Anil Bansal,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Sneha Gupta,2015-09-09,10.86,60979.0,High School,Travel_Frequently,22,4.0,2,3.0,,,,,True
+1074,Swati Patel,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Shreya Kapoor,2020-04-07,6.28,81911.0,Master'S,Non-Travel,49,2.0,2,,Present,3.0,,,True
+1075,Rajesh Nair,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Aditya Verma,2019-11-12,2.45,34000.0,Master'S,Travel_Rarely,39,5.0,1,3.0,Present,1.5,2022-04-26,Retirement,False
+1076,Vivaan Mehta,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Kavya Kapoor,2023-07-08,3.03,66091.0,High School,Travel_Frequently,41,3.0,4,3.0,Present,2.0,,,True
+1077,Rohan Kumar,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Preeti Saxena,2011-07-05,15.04,58237.0,Master'S,Travel_Frequently,9,1.0,3,4.0,Present,0.0,,,True
+1078,Aditya Sharma,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Pooja Reddy,2018-09-06,7.87,69381.0,Diploma,Non-Travel,55,4.0,5,4.0,,,,,True
+1079,Rajesh Joshi,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Amit Patel,2013-07-14,13.01,62234.0,Master'S,Travel_Rarely,36,4.0,1,2.0,,,,,True
+1080,Ashok Gupta,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Nisha Sharma,2019-03-20,7.33,37072.0,Phd,Non-Travel,50,3.0,3,2.0,,,,,True
+1081,Aditya Agarwal,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Nisha Singh,2013-08-19,12.91,77594.0,Bachelor'S,Travel_Frequently,20,5.0,4,,Present,0.0,,,True
+1082,Karan Yadav,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Pooja Reddy,2010-08-21,15.91,90000.0,Phd,Travel_Frequently,20,2.0,5,4.0,,,,,True
+1083,Nisha Gupta,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Sneha Gupta,2019-04-28,7.23,67635.0,Diploma,Travel_Frequently,36,3.0,4,,,,,,True
+1084,Sneha Kumar,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Amit Bansal,2019-05-19,7.17,48579.0,Master'S,Travel_Rarely,32,2.0,4,2.0,Present,0.0,,,True
+1085,Arjun Tiwari,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Aditya Verma,2016-04-23,6.03,73864.0,Bachelor'S,Travel_Rarely,3,3.0,1,2.0,Present,1.5,2022-05-04,Not Specified,False
+1086,Neha Chopra,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Shreya Malhotra,2023-12-24,2.57,34807.0,Diploma,Travel_Frequently,26,1.0,4,4.0,Present,0.0,,,True
+1087,Swati Agarwal,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Amit Bansal,2021-07-25,4.98,49769.0,Phd,Travel_Frequently,37,5.0,5,5.0,,,,,True
+1088,Manish Tiwari,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Kavya Kapoor,2020-08-23,2.23,66457.0,Phd,Non-Travel,53,2.0,2,5.0,,,2022-11-16,Health Reasons,False
+1089,Arjun Sharma,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Kirti Malhotra,2013-05-25,13.15,50467.0,Diploma,Travel_Rarely,43,3.0,4,5.0,,,,,True
+1090,Preeti Mehta,Female,IT,IT Manager,Jaipur,Rajasthan,India,Deepak Rao,2020-11-10,1.93,77608.0,Master'S,Travel_Rarely,23,4.0,2,1.0,Present,1.5,2022-10-17,Relocation,False
+1091,Pooja Tiwari,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Shreya Mehta,2017-09-28,8.8,53960.0,Master'S,Non-Travel,53,3.0,2,5.0,Work From Home,0.0,,,True
+1092,Aditya Yadav,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Vivaan Verma,2025-01-09,1.53,58001.0,Phd,Travel_Rarely,42,4.0,3,1.0,Present,1.5,2026-07-21,Better Opportunity,False
+1093,Sanjay Mehta,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Ritu Rao,2012-01-03,14.18,71176.0,High School,Travel_Rarely,12,2.0,5,3.0,,,2026-03-09,Retirement,False
+1094,Rohan Rao,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Preeti Kapoor,2020-03-11,6.35,48884.0,Diploma,Travel_Frequently,17,1.0,1,2.0,Present,2.0,,,True
+1095,Kirti Reddy,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,,2019-08-05,6.95,67268.0,Master'S,Travel_Rarely,49,4.0,3,3.0,Absent,2.0,,,True
+1096,Amit Joshi,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Suresh Rao,2012-08-26,13.89,57115.0,Bachelor'S,Travel_Frequently,15,5.0,3,5.0,,,,,True
+1097,Kavita Saxena,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Suresh Patel,2024-11-23,1.65,39814.0,Phd,Non-Travel,54,1.0,2,5.0,P,1.5,,,True
+1098,Karan Mehta,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Preeti Sharma,2014-08-10,11.94,54977.0,Phd,Travel_Frequently,52,3.0,1,5.0,Work From Home,2.0,,,True
+1099,Arjun Tiwari,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Pooja Singh,2011-06-07,15.12,64697.0,Master'S,Travel_Rarely,29,,3,3.0,,,,,True
+1100,Suresh Singh,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Rohan Joshi,2012-11-09,13.69,78638.0,Diploma,Travel_Rarely,23,3.0,2,,Present,1.5,,,True
+1101,Aarav Malhotra,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Shreya Kapoor,2011-07-06,15.04,56214.0,Diploma,Non-Travel,33,4.0,5,1.0,Leave,0.0,,,True
+1102,Kirti Yadav,Female,IT,System Admin,Jaipur,Rajasthan,India,Kavya Kapoor,2013-03-19,13.33,81615.0,Master'S,Travel_Rarely,4,4.0,4,1.0,,,,,True
+1103,Kavita Malhotra,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Sanjay Singh,2014-02-15,12.42,75870.0,Master'S,Travel_Frequently,9,,3,3.0,,,,,True
+1104,Deepak Joshi,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Amit Patel,2016-01-09,10.52,51346.0,Bachelor'S,Non-Travel,14,2.0,2,5.0,,,,,True
+1105,Sneha Yadav,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Gaurav Iyer,2022-05-20,1.23,52927.0,Master'S,Non-Travel,24,1.0,2,2.0,,,2023-08-13,Better Opportunity,False
+1106,Rohan Nair,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Aditya Verma,2015-02-28,11.39,60291.0,Master'S,Non-Travel,47,4.0,4,,Present,1.5,,,True
+1107,Isha Saxena,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Amit Patel,2011-09-01,14.88,70000.0,Phd,Travel_Rarely,4,4.0,2,5.0,Present,0.0,,,True
+1108,Swati Sharma,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Suresh Rao,2010-05-18,16.17,70000.0,Diploma,Non-Travel,34,5.0,5,5.0,,,,,True
+1109,Divya Chopra,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Manish Kumar,2022-09-03,3.87,49842.0,Master'S,Travel_Rarely,4,4.0,4,4.0,Present,0.0,,,True
+1110,Anjali Tiwari,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Amit Tiwari,2014-09-28,11.81,59092.0,High School,Travel_Rarely,2,5.0,2,1.0,,,,,True
+1111,Neha Rao,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Rahul Chopra,2018-09-23,7.82,56353.0,High School,Travel_Rarely,15,3.0,5,4.0,,,,,True
+1112,Anjali Sharma,Female,Finance,Auditor,Mumbai,Maharashtra,India,Amit Patel,2015-02-12,11.43,71912.0,High School,Travel_Rarely,10,3.0,1,5.0,,,,,True
+1113,Anjali Joshi,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Nisha Singh,2018-01-27,8.47,55168.0,High School,Travel_Frequently,51,,4,5.0,,,,,True
+1114,Neha Saxena,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Suresh Patel,2018-07-16,8.01,73000.0,Bachelor'S,Non-Travel,47,,1,2.0,,,,,True
+1115,Vikram Rao,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Sneha Kumar,2023-11-29,2.64,47385.0,Phd,Travel_Rarely,21,1.0,4,4.0,,,,,True
+1116,Kirti Iyer,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Nisha Malhotra,2018-10-24,7.73,78989.0,Bachelor'S,Travel_Rarely,44,3.0,5,1.0,Present,0.0,,,True
+1117,Manish Chopra,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Ananya Reddy,2018-12-28,7.56,53031.0,High School,Non-Travel,43,,2,1.0,,,,,True
+1118,Anjali Malhotra,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Amit Bansal,2021-06-15,5.09,40261.0,Diploma,Non-Travel,31,3.0,3,3.0,Present,0.0,,,True
+1119,Vikram Joshi,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,,2014-08-22,11.91,80000.0,Bachelor'S,Travel_Frequently,52,3.0,4,1.0,Absent,1.5,,,True
+1120,Varun Patel,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Vivaan Verma,2015-03-15,9.19,88012.0,Diploma,Travel_Rarely,49,,1,5.0,,,2024-05-21,Career Growth,False
+1121,Suresh Mehta,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Nisha Agarwal,2015-11-20,10.66,70298.0,Master'S,Non-Travel,53,5.0,2,1.0,Present,1.0,,,True
+1122,Vikram Mehta,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Suresh Rao,2018-05-17,8.17,46959.0,Diploma,Non-Travel,32,3.0,3,1.0,Present,0.0,,,True
+1123,Suresh Sharma,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Divya Saxena,2018-08-12,7.93,58099.0,Diploma,Non-Travel,18,5.0,4,,,,,,True
+1124,Preeti Agarwal,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Suresh Saxena,2022-03-08,4.36,37302.0,High School,Travel_Rarely,3,1.0,3,5.0,Leave,2.0,,,True
+1125,Pooja Iyer,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Shreya Kapoor,2023-09-09,2.86,56952.0,Diploma,Travel_Frequently,19,3.0,5,3.0,Present,3.0,,,True
+1126,Vikram Malhotra,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Kavya Kapoor,2012-11-05,13.7,70000.0,Bachelor'S,Travel_Rarely,29,4.0,2,1.0,Present,1.5,,,True
+1127,Ritu Nair,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Suresh Patel,2017-05-05,9.2,70859.0,Phd,Non-Travel,28,,3,2.0,,,,,True
+1128,Anjali Saxena,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,,2017-09-16,8.84,68702.0,Master'S,Travel_Frequently,9,1.0,4,5.0,,,,,True
+1129,Neha Joshi,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Gaurav Iyer,2024-11-26,1.64,58230.0,High School,Travel_Rarely,5,1.0,5,1.0,,,,,True
+1130,Rohan Mehta,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Kirti Chopra,2012-12-18,13.58,58326.0,Diploma,Non-Travel,34,4.0,5,3.0,,,,,True
+1131,Riya Kumar,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Vikram Bansal,2011-12-12,14.6,49478.0,Diploma,Travel_Frequently,39,4.0,4,3.0,Present,0.0,,,True
+1132,Sanjay Reddy,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Sanjay Yadav,2024-06-29,2.05,51597.0,High School,Travel_Rarely,9,5.0,4,2.0,Present,3.0,,,True
+1133,Nikhil Gupta,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Deepak Rao,2015-11-18,10.67,52479.0,Master'S,Travel_Frequently,35,4.0,5,4.0,Present,0.0,,,True
+1134,Siddharth Reddy,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Amit Patel,2023-02-26,3.39,68847.0,High School,Non-Travel,30,4.0,5,,Present,1.0,,,True
+1135,Aditya Sharma,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Aditya Verma,2021-02-18,5.41,60736.0,High School,Travel_Rarely,52,2.0,5,1.0,,,,,True
+1136,Nikhil Kapoor,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Kavya Iyer,2022-09-18,3.83,83120.0,High School,Non-Travel,31,,4,3.0,,,,,True
+1137,Varun Malhotra,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2019-05-03,7.52,52525.0,Phd,Travel_Rarely,5,2.0,4,,Wfh,1.0,2026-11-09,Personal Reasons,False
+1138,Anjali Gupta,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Aditya Verma,2014-07-02,12.05,50472.0,Phd,Non-Travel,1,2.0,3,4.0,,,,,True
+1139,Rajesh Sharma,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Suresh Rao,2012-05-01,14.21,65000.0,Diploma,Travel_Rarely,45,3.0,3,5.0,,,,,True
+1140,Siddharth Kumar,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Sneha Kumar,2019-10-04,3.46,40311.0,Master'S,Non-Travel,5,5.0,2,3.0,Present,0.0,2023-03-20,Career Growth,False
+1141,Vikram Singh,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Rajesh Iyer,2017-01-16,9.5,76051.0,Bachelor'S,Non-Travel,14,5.0,5,3.0,,,,,True
+1142,Suresh Chopra,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Riya Singh,2013-11-25,12.65,70000.0,High School,Non-Travel,9,1.0,1,2.0,,,,,True
+1143,Gaurav Tiwari,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Preeti Sharma,2011-06-13,15.1,64771.0,High School,Travel_Frequently,28,1.0,1,2.0,Present,1.5,,,True
+1144,Isha Joshi,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Preeti Sharma,2016-04-11,10.27,64859.0,High School,Travel_Rarely,9,3.0,1,1.0,,,,,True
+1145,Varun Sharma,Male,Operations,Operations Manager,Chennai,Tamil Nadu,India,Ashok Nair,2022-03-19,4.33,48551.0,Bachelor'S,Travel_Rarely,34,4.0,5,3.0,,,,,True
+1146,Aditya Iyer,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2011-04-04,15.29,73000.0,Bachelor'S,Non-Travel,46,2.0,1,3.0,Leave,0.0,,,True
+1147,Nikhil Saxena,Male,Finance,Accountant,Mumbai,Maharashtra,India,Priya Chopra,2010-11-07,15.7,68631.0,Diploma,Non-Travel,2,4.0,4,3.0,,,,,True
+1148,Siddharth Joshi,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Rohan Kapoor,2012-04-07,14.09,52839.0,Phd,Travel_Rarely,15,3.0,4,4.0,,,2026-05-12,Career Growth,False
+1149,Kavya Patel,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Preeti Kapoor,2022-09-23,3.82,54875.0,High School,Travel_Rarely,21,4.0,1,1.0,,,,,True
+1150,Nisha Sharma,Female,Finance,Accountant,Mumbai,Maharashtra,India,Sanjay Yadav,2025-07-19,1.0,58843.0,Master'S,Travel_Rarely,23,4.0,3,2.0,,,,,True
+1151,Karan Kapoor,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Vikram Bansal,2010-06-14,16.1,67000.0,Bachelor'S,Travel_Frequently,31,1.0,2,5.0,,,,,True
+1152,Isha Verma,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Nisha Sharma,2025-08-21,0.79,46103.0,Master'S,Non-Travel,24,4.0,2,2.0,,,2026-06-06,Not Specified,False
+1153,Riya Singh,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Kavya Bansal,2024-04-25,2.23,42876.0,Phd,Non-Travel,24,5.0,2,,,,,,True
+1154,Nisha Kapoor,Female,Finance,Accountant,Mumbai,Maharashtra,India,Shreya Chopra,2016-01-10,10.52,72618.0,Diploma,Non-Travel,54,5.0,3,,,,,,True
+1155,Kirti Iyer,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Kirti Chopra,2018-11-09,7.69,48855.0,Master'S,Non-Travel,14,1.0,4,3.0,,,,,True
+1156,Riya Kumar,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Kirti Malhotra,2011-07-03,12.48,71834.0,Master'S,Travel_Rarely,10,2.0,2,2.0,,,2023-12-26,Personal Reasons,False
+1157,Aditya Tiwari,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Sanjay Joshi,2015-12-04,10.62,67000.0,Master'S,Travel_Rarely,22,5.0,3,1.0,,,,,True
+1158,Meera Sharma,Female,IT,IT Manager,Jaipur,Rajasthan,India,Rohan Joshi,2016-04-15,9.99,84156.0,Bachelor'S,Travel_Frequently,27,4.0,5,3.0,Present,0.0,2026-04-11,Personal Reasons,False
+1159,Swati Agarwal,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Nisha Sharma,2013-07-26,12.11,74920.0,Diploma,Non-Travel,3,4.0,4,3.0,Present,2.0,2025-09-04,Better Opportunity,False
+1160,Meera Kapoor,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Ashok Nair,2010-09-08,15.86,65000.0,Bachelor'S,Travel_Rarely,2,2.0,2,1.0,,,,,True
+1161,Rahul Iyer,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Vivaan Verma,2019-03-09,4.85,51220.0,Diploma,Travel_Frequently,52,1.0,5,4.0,Present,3.0,2024-01-15,Better Opportunity,False
+1162,Kavita Chopra,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Nisha Sharma,2014-11-23,11.65,88754.0,Bachelor'S,Travel_Frequently,39,5.0,3,5.0,,,,,True
+1163,Rajesh Nair,Male,IT,IT Manager,Jaipur,Rajasthan,India,Ananya Reddy,2024-09-18,1.83,76985.0,Master'S,Travel_Frequently,9,4.0,5,2.0,Work From Home,2.0,,,True
+1164,Kavita Chopra,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Amit Bansal,2022-10-31,3.72,38978.0,Bachelor'S,Travel_Frequently,36,1.0,2,4.0,,,,,True
+1165,Preeti Patel,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Kavita Saxena,2017-12-20,6.15,85549.0,High School,Travel_Frequently,40,5.0,2,3.0,Work From Home,0.0,2024-02-12,Personal Reasons,False
+1166,Ritu Rao,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Preeti Kapoor,2014-06-29,9.43,61363.0,Diploma,Travel_Frequently,4,2.0,1,4.0,Present,3.0,2023-12-04,Career Growth,False
+1167,Gaurav Patel,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Vivaan Verma,2023-10-13,2.77,45694.0,Bachelor'S,Non-Travel,2,5.0,1,3.0,,,,,True
+1168,Shreya Kumar,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Sneha Gupta,2011-06-19,15.08,67000.0,Bachelor'S,Travel_Rarely,49,3.0,2,4.0,,,,,True
+1169,Priya Iyer,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Preeti Sharma,2010-06-29,12.84,70102.0,Phd,Travel_Frequently,7,5.0,2,1.0,Work From Home,0.0,2023-04-30,Better Opportunity,False
+1170,Nisha Chopra,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Sanjay Singh,2013-06-08,13.11,55618.0,High School,Travel_Frequently,40,3.0,4,3.0,,,,,True
+1171,Ashok Reddy,Male,Finance,Accountant,Mumbai,Maharashtra,India,,2025-10-11,0.77,49005.0,High School,Travel_Frequently,43,4.0,3,2.0,Present,0.0,,,True
+1172,Aditya Nair,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Gaurav Iyer,2015-12-04,10.05,57385.0,High School,Non-Travel,43,5.0,1,3.0,Absent,0.0,2025-12-20,Health Reasons,False
+1173,Neha Joshi,Female,IT,System Admin,Jaipur,Rajasthan,India,Riya Singh,2018-12-28,7.56,75692.0,Diploma,Non-Travel,7,3.0,3,5.0,,,,,True
+1174,Isha Yadav,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Kavya Bansal,2025-05-09,1.19,44488.0,Bachelor'S,Travel_Frequently,44,1.0,1,2.0,,,,,True
+1175,Rajesh Agarwal,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Pooja Reddy,2017-10-03,8.79,57376.0,Diploma,Travel_Rarely,21,,2,3.0,,,,,True
+1176,Varun Chopra,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,,2019-12-18,6.58,56468.0,Master'S,Non-Travel,36,5.0,3,3.0,,,,,True
+1177,Ritu Saxena,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Priya Chopra,2018-02-24,8.4,60675.0,Master'S,Non-Travel,49,,5,4.0,,,,,True
+1178,Preeti Agarwal,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Sneha Gupta,2013-09-06,12.87,90000.0,Diploma,Non-Travel,46,2.0,3,4.0,,,,,True
+1179,Deepak Kapoor,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Shreya Chopra,2021-11-23,0.43,64832.0,Diploma,Non-Travel,25,1.0,5,4.0,,,2022-04-29,Retirement,False
+1180,Kavita Yadav,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Kavya Bansal,2017-09-09,8.86,73000.0,Bachelor'S,Travel_Frequently,14,1.0,3,5.0,,,,,True
+1181,Kavya Patel,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Rajesh Iyer,2017-11-25,8.65,82950.0,High School,Non-Travel,2,1.0,4,5.0,,,,,True
+1182,Isha Rao,Female,Finance,Accountant,Mumbai,Maharashtra,India,Sanjay Joshi,2011-05-24,15.15,70856.0,Phd,Travel_Frequently,42,,2,4.0,Present,1.0,,,True
+1183,Ananya Chopra,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Priya Chopra,2022-05-21,4.16,37646.0,Bachelor'S,Travel_Frequently,48,5.0,2,2.0,,,,,True
+1184,Nisha Patel,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Ritu Rao,2021-07-11,5.02,53363.0,Diploma,Non-Travel,21,1.0,5,3.0,Present,0.0,,,True
+1185,Swati Tiwari,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Suresh Reddy,2025-11-15,0.67,64190.0,Diploma,Travel_Rarely,24,1.0,4,4.0,,,,,True
+1186,Preeti Sharma,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Shreya Kapoor,2024-05-28,2.14,50892.0,Bachelor'S,Travel_Frequently,53,1.0,4,5.0,Present,0.0,,,True
+1187,Ananya Rao,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Amit Patel,2011-11-06,14.7,73000.0,Master'S,Non-Travel,35,5.0,3,2.0,Present,1.5,,,True
+1188,Neha Kumar,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Nisha Malhotra,2017-06-10,9.11,58052.0,Master'S,Travel_Rarely,2,4.0,2,,Work From Home,1.0,,,True
+1189,Gaurav Verma,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Suresh Reddy,2025-05-20,1.16,36939.0,Diploma,Travel_Frequently,19,4.0,3,5.0,,,,,True
+1190,Priya Saxena,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Sanjay Singh,2010-02-11,16.43,72514.0,Phd,Non-Travel,12,4.0,4,3.0,,,,,True
+1191,Gaurav Verma,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Ritu Nair,2011-08-23,14.9,53767.0,High School,Travel_Rarely,32,2.0,3,1.0,Present,1.5,,,True
+1192,Gaurav Tiwari,Male,IT,IT Manager,Jaipur,Rajasthan,India,Sanjay Yadav,2013-10-13,12.76,90000.0,Master'S,Travel_Rarely,23,,5,5.0,Present,1.5,,,True
+1193,Amit Kumar,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Nisha Singh,2024-01-21,2.49,53419.0,Bachelor'S,Travel_Frequently,31,4.0,1,2.0,,,,,True
+1194,Kavya Kapoor,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Amit Tiwari,2015-05-11,11.19,48797.0,Diploma,Travel_Rarely,3,,4,5.0,,,,,True
+1195,Sneha Verma,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Preeti Mehta,2020-07-14,6.01,58377.0,Phd,Travel_Frequently,12,4.0,5,2.0,Leave,2.0,,,True
+1196,Siddharth Nair,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Suresh Reddy,2019-02-07,7.44,54223.0,High School,Travel_Frequently,18,5.0,1,4.0,,,,,True
+1197,Rahul Malhotra,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Sneha Gupta,2025-02-22,1.4,60000.0,Phd,Travel_Frequently,10,3.0,4,,P,0.0,,,True
+1198,Sakshi Tiwari,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Pooja Singh,2014-11-10,11.69,63740.0,Diploma,Travel_Frequently,33,3.0,4,1.0,,,,,True
+1199,Sakshi Tiwari,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Ritu Nair,2012-06-08,14.11,63613.0,Phd,Travel_Frequently,33,3.0,5,3.0,Present,1.5,,,True
+1200,Manish Agarwal,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Deepak Rao,2021-11-19,4.66,37821.0,Phd,Travel_Rarely,9,1.0,1,2.0,,,,,True
+1201,Sanjay Yadav,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Shreya Chopra,2010-02-28,16.39,65000.0,Bachelor'S,Travel_Frequently,28,4.0,5,4.0,,,,,True
+1202,Riya Malhotra,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Riya Singh,2022-07-17,4.01,45465.0,Diploma,Travel_Frequently,11,3.0,5,3.0,,,,,True
+1203,Karan Chopra,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Sneha Gupta,2013-04-05,13.29,70000.0,Phd,Travel_Rarely,46,1.0,4,2.0,Present,2.0,,,True
+1204,Nikhil Kapoor,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Kavya Bansal,2021-08-15,4.93,60790.0,High School,Non-Travel,18,4.0,1,4.0,Present,0.0,,,True
+1205,Siddharth Sharma,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Vivaan Verma,2022-07-17,4.01,36958.0,Bachelor'S,Travel_Rarely,33,2.0,5,2.0,,,,,True
+1206,Siddharth Nair,Male,Finance,Auditor,Mumbai,Maharashtra,India,Preeti Mehta,2022-08-19,4.19,53341.0,High School,Travel_Frequently,51,,3,3.0,Present,0.0,2026-10-29,Career Growth,False
+1207,Kavita Joshi,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Amit Tiwari,2016-06-11,8.52,64251.0,Bachelor'S,Travel_Frequently,44,2.0,2,,,,2024-12-17,Not Specified,False
+1208,Rahul Nair,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,,2015-08-08,7.7,68507.0,Phd,Travel_Rarely,24,1.0,2,,Present,0.0,2023-04-20,Better Opportunity,False
+1209,Swati Patel,Female,Finance,Auditor,Mumbai,Maharashtra,India,Rohan Kapoor,2022-12-08,3.61,64508.0,Master'S,Travel_Frequently,34,5.0,3,4.0,,,,,True
+1210,Anil Tiwari,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Preeti Saxena,2022-04-21,4.24,67000.0,Bachelor'S,Travel_Rarely,29,2.0,4,3.0,Leave,3.0,,,True
+1211,Aditya Nair,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Riya Kapoor,2014-05-26,9.55,70768.0,Master'S,Travel_Rarely,36,1.0,4,3.0,Present,0.0,2023-12-12,Retirement,False
+1212,Aarav Reddy,Male,Finance,Auditor,Mumbai,Maharashtra,India,,2024-02-16,2.42,67684.0,High School,Travel_Frequently,39,1.0,4,2.0,Present,0.0,,,True
+1213,Sanjay Joshi,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Sanjay Singh,2020-01-10,4.8,82388.0,Phd,Travel_Rarely,55,5.0,1,4.0,Present,1.0,2024-10-29,Not Specified,False
+1214,Anjali Rao,Female,Finance,Auditor,Mumbai,Maharashtra,India,,2019-12-24,6.57,70037.0,Diploma,Travel_Frequently,45,3.0,2,2.0,Present,2.0,,,True
+1215,Vivaan Bansal,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Ashok Tiwari,2018-11-27,7.64,53914.0,Master'S,Non-Travel,34,2.0,1,2.0,Present,0.0,,,True
+1216,Swati Kapoor,Female,Finance,Auditor,Mumbai,Maharashtra,India,Sanjay Agarwal,2025-08-24,0.75,62390.0,Bachelor'S,Travel_Frequently,15,4.0,4,5.0,Present,3.0,2026-05-24,Not Specified,False
+1217,Kavya Rao,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Ananya Reddy,2013-01-21,13.49,59032.0,Diploma,Travel_Frequently,24,5.0,5,1.0,,,,,True
+1218,Karan Chopra,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Suresh Malhotra,2024-01-10,2.52,41857.0,Master'S,Non-Travel,12,4.0,3,4.0,Present,2.0,,,True
+1219,Divya Yadav,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Shreya Malhotra,2010-06-08,16.11,55269.0,High School,Non-Travel,22,4.0,4,1.0,Present,3.0,,,True
+1220,Nisha Verma,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Riya Singh,2013-04-11,13.27,85541.0,Diploma,Travel_Rarely,16,4.0,4,5.0,Present,1.0,,,True
+1221,Siddharth Reddy,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Vikram Nair,2016-12-31,9.55,60000.0,Bachelor'S,Travel_Frequently,14,3.0,4,2.0,Present,2.0,,,True
+1222,Karan Nair,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Ritu Nair,2010-12-11,15.6,50449.0,Bachelor'S,Non-Travel,23,1.0,3,2.0,,,,,True
+1223,Nikhil Iyer,Male,IT,IT Manager,Jaipur,Rajasthan,India,Ashok Tiwari,2019-11-03,6.71,79623.0,Phd,Non-Travel,37,2.0,2,3.0,Present,1.0,,,True
+1224,Sakshi Saxena,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Divya Saxena,2013-06-23,13.07,66684.0,Phd,Travel_Frequently,16,1.0,3,1.0,Present,1.0,,,True
+1225,Riya Agarwal,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Kavya Bansal,2023-10-02,2.8,35387.0,High School,Non-Travel,32,4.0,2,4.0,Present,0.0,,,True
+1226,Swati Agarwal,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Preeti Sharma,2014-12-14,11.59,80000.0,Bachelor'S,Travel_Frequently,27,5.0,5,5.0,Present,0.0,,,True
+1227,Ritu Verma,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Nisha Singh,2021-08-26,4.9,49829.0,Phd,Travel_Frequently,7,1.0,2,4.0,Present,0.0,,,True
+1228,Pooja Patel,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Preeti Saxena,2017-07-27,8.98,64820.0,Master'S,Travel_Frequently,21,,3,5.0,,,,,True
+1229,Meera Kapoor,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Sneha Kumar,2010-10-11,15.77,52915.0,High School,Travel_Frequently,33,5.0,5,1.0,,,,,True
+1230,Deepak Joshi,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Aditya Verma,2018-03-27,8.31,77880.0,Bachelor'S,Non-Travel,32,5.0,1,3.0,Present,0.0,,,True
+1231,Ashok Rao,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Kavya Bansal,2011-04-04,14.52,62076.0,Phd,Travel_Frequently,50,3.0,1,1.0,Present,1.0,2025-10-12,Career Growth,False
+1232,Preeti Tiwari,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Suresh Saxena,2025-08-26,0.9,63042.0,Bachelor'S,Non-Travel,9,4.0,2,2.0,Present,2.0,,,True
+1233,Divya Gupta,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Suresh Malhotra,2013-01-09,12.61,60628.0,Master'S,Travel_Frequently,37,2.0,2,,Present,2.0,2025-08-19,Personal Reasons,False
+1234,Riya Mehta,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Vikram Nair,2016-11-02,9.71,74326.0,Bachelor'S,Travel_Frequently,55,2.0,2,,,,,,True
+1235,Sanjay Sharma,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Aditya Verma,2020-02-04,6.45,90000.0,Diploma,Travel_Rarely,38,2.0,2,5.0,Present,3.0,,,True
+1236,Sanjay Reddy,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,,2024-09-07,1.86,62832.0,Master'S,Travel_Rarely,33,2.0,3,3.0,Present,0.0,,,True
+1237,Karan Reddy,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Kavya Kapoor,2010-06-26,16.06,42876.0,Bachelor'S,Travel_Frequently,18,5.0,4,1.0,,,,,True
+1238,Varun Nair,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Amit Tiwari,2018-10-24,7.73,61068.0,Diploma,Travel_Rarely,39,2.0,2,1.0,Present,0.0,,,True
+1239,Gaurav Saxena,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Aditya Verma,2025-06-11,1.1,44328.0,High School,Travel_Rarely,54,5.0,2,3.0,,,,,True
+1240,Kavita Rao,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Ananya Reddy,2024-04-14,2.26,45181.0,Phd,Non-Travel,39,4.0,1,3.0,,,,,True
+1241,Kavya Agarwal,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2018-05-22,8.16,40873.0,Bachelor'S,Non-Travel,48,4.0,4,3.0,Present,2.0,,,True
+1242,Deepak Yadav,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Shreya Mehta,2020-04-06,6.28,43480.0,Phd,Travel_Frequently,34,3.0,2,3.0,,,,,True
+1243,Deepak Kapoor,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Sanjay Yadav,2022-01-24,4.48,55734.0,Bachelor'S,Travel_Rarely,11,3.0,2,2.0,,,,,True
+1244,Deepak Kapoor,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Vikram Nair,2023-02-17,1.93,54021.0,Master'S,Travel_Rarely,21,1.0,5,5.0,,,2025-01-23,Career Growth,False
+1245,Vivaan Singh,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Rahul Chopra,2011-11-30,10.67,47330.0,Bachelor'S,Travel_Frequently,10,1.0,1,2.0,,,2022-07-31,Not Specified,False
+1246,Manish Rao,Male,Finance,Auditor,Mumbai,Maharashtra,India,Nisha Agarwal,2024-01-19,2.5,56039.0,Master'S,Non-Travel,39,,1,2.0,,,,,True
+1247,Nisha Malhotra,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Kavya Bansal,2023-06-18,3.09,60000.0,Bachelor'S,Non-Travel,55,2.0,5,1.0,,,,,True
+1248,Neha Verma,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Kavya Iyer,2025-01-27,1.47,38951.0,High School,Travel_Rarely,24,4.0,1,5.0,,,,,True
+1249,Sanjay Bansal,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Vikram Bansal,2016-02-27,10.39,85000.0,Master'S,Travel_Frequently,19,4.0,4,5.0,Work From Home,0.0,,,True
+1250,Kavya Yadav,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2024-03-04,2.37,41769.0,High School,Travel_Frequently,27,1.0,1,5.0,,,,,True
+1251,Rohan Reddy,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Amit Tiwari,2011-07-10,15.03,67433.0,Phd,Non-Travel,13,4.0,1,4.0,,,,,True
+1252,Ananya Kumar,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Amit Tiwari,2020-05-01,6.21,51638.0,Bachelor'S,Travel_Frequently,2,2.0,2,,,,,,True
+1253,Neha Kumar,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Sneha Kumar,2018-06-01,8.13,80000.0,High School,Travel_Rarely,6,2.0,4,3.0,Present,1.0,,,True
+1254,Riya Agarwal,Female,Finance,Accountant,Mumbai,Maharashtra,India,Preeti Kapoor,2018-05-24,8.15,75465.0,Master'S,Travel_Rarely,50,5.0,1,3.0,,,,,True
+1255,Arjun Verma,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Sanjay Agarwal,2021-09-19,1.49,30061.0,High School,Travel_Rarely,41,4.0,5,1.0,,,2023-03-18,Retirement,False
+1256,Preeti Mehta,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Rajesh Iyer,2016-02-12,10.43,46750.0,Bachelor'S,Non-Travel,11,3.0,2,2.0,Leave,0.0,,,True
+1257,Ananya Kumar,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Nisha Malhotra,2011-02-18,15.41,70000.0,Phd,Travel_Rarely,22,3.0,3,2.0,Work From Home,1.0,,,True
+1258,Deepak Tiwari,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Ashok Nair,2025-09-01,0.88,55624.0,Phd,Travel_Rarely,26,3.0,1,1.0,Present,1.0,,,True
+1259,Nisha Bansal,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Gaurav Iyer,2012-07-13,14.02,69554.0,Bachelor'S,Travel_Frequently,5,2.0,1,1.0,Present,0.0,,,True
+1260,Sneha Yadav,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Amit Patel,2018-08-11,7.94,66077.0,Diploma,Travel_Frequently,46,3.0,5,1.0,,,,,True
+1261,Anjali Saxena,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Amit Patel,2019-02-07,7.44,45725.0,Diploma,Travel_Frequently,52,1.0,4,1.0,,,,,True
+1262,Sunita Yadav,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Vikram Bansal,2025-04-14,1.26,36385.0,Phd,Travel_Frequently,33,3.0,5,2.0,Present,0.0,,,True
+1263,Preeti Verma,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Amit Patel,2016-04-30,9.59,37000.0,Diploma,Non-Travel,13,5.0,1,2.0,,,2025-11-30,Health Reasons,False
+1264,Kavya Rao,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Sanjay Singh,2011-08-11,14.94,74193.0,Master'S,Travel_Rarely,40,2.0,2,4.0,Work From Home,1.0,,,True
+1265,Sunita Joshi,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,,2023-07-24,3.11,73000.0,High School,Travel_Rarely,46,1.0,2,3.0,Present,1.0,2026-09-02,Better Opportunity,False
+1266,Vikram Agarwal,Male,Finance,Auditor,Mumbai,Maharashtra,India,Rajesh Iyer,2011-10-03,14.79,67188.0,Phd,Travel_Frequently,4,3.0,5,1.0,,,,,True
+1267,Ritu Bansal,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Shreya Chopra,2016-08-10,9.94,90000.0,Diploma,Non-Travel,43,5.0,4,3.0,,,,,True
+1268,Swati Gupta,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Shreya Malhotra,2016-03-26,10.31,64006.0,Master'S,Non-Travel,17,3.0,5,4.0,Present,1.5,,,True
+1269,Rajesh Gupta,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Rahul Chopra,2021-02-14,5.42,64587.0,High School,Non-Travel,4,4.0,3,3.0,Leave,3.0,,,True
+1270,Anil Chopra,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Suresh Rao,2021-11-24,1.0,47215.0,Phd,Travel_Rarely,40,,2,4.0,Present,0.0,2022-11-23,Not Specified,False
+1271,Pooja Nair,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Nisha Sharma,2015-06-04,11.12,65000.0,High School,Travel_Rarely,7,1.0,1,5.0,Present,0.0,,,True
+1272,Divya Reddy,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Nisha Agarwal,2012-01-24,14.48,55219.0,Phd,Travel_Rarely,43,4.0,2,,,,,,True
+1273,Aditya Patel,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Rahul Chopra,2024-10-24,1.73,66873.0,High School,Non-Travel,25,5.0,2,1.0,,,,,True
+1274,Isha Kapoor,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Suresh Patel,2018-10-22,7.74,53666.0,High School,Travel_Frequently,17,2.0,3,2.0,,,,,True
+1275,Aarav Chopra,Male,Finance,Accountant,Mumbai,Maharashtra,India,Rajesh Iyer,2017-05-25,9.15,60849.0,High School,Non-Travel,1,5.0,2,3.0,,,,,True
+1276,Gaurav Saxena,Male,IT,IT Manager,Jaipur,Rajasthan,India,Pooja Singh,2016-10-16,9.75,83306.0,Bachelor'S,Non-Travel,36,5.0,1,,,,,,True
+1277,Pooja Joshi,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Nisha Sharma,2019-10-28,6.72,46652.0,Master'S,Non-Travel,22,2.0,5,4.0,,,,,True
+1278,Arjun Agarwal,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Sneha Gupta,2013-05-05,13.2,49985.0,High School,Travel_Frequently,4,2.0,3,1.0,Work From Home,3.0,,,True
+1279,Gaurav Gupta,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Nisha Sharma,2014-07-19,12.0,60537.0,Diploma,Travel_Frequently,12,3.0,2,3.0,,,,,True
+1280,Isha Joshi,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Vivaan Verma,2023-01-20,3.49,62128.0,Diploma,Travel_Frequently,42,1.0,1,2.0,Present,3.0,,,True
+1281,Kavya Reddy,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Vikram Bansal,2020-02-07,6.44,70549.0,Bachelor'S,Travel_Rarely,1,2.0,5,2.0,,,,,True
+1282,Ashok Joshi,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Ritu Rao,2024-01-19,2.5,57012.0,High School,Travel_Frequently,24,5.0,3,2.0,,,,,True
+1283,Ananya Singh,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Ashok Nair,2010-08-27,15.89,70000.0,Bachelor'S,Non-Travel,21,1.0,5,3.0,,,,,True
+1284,Anil Iyer,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Suresh Malhotra,2019-10-11,6.77,42227.0,Diploma,Non-Travel,3,,3,1.0,Work From Home,0.0,,,True
+1285,Nisha Malhotra,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Nisha Agarwal,2016-08-14,7.11,85000.0,Phd,Non-Travel,38,5.0,1,1.0,Present,2.0,2023-09-24,Health Reasons,False
+1286,Sneha Iyer,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Suresh Saxena,2014-12-27,11.56,66701.0,Phd,Travel_Rarely,52,4.0,2,3.0,,,,,True
+1287,Vivaan Saxena,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Nisha Agarwal,2012-12-23,13.57,64119.0,Phd,Non-Travel,30,2.0,1,2.0,,,,,True
+1288,Suresh Kapoor,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Sanjay Joshi,2025-06-29,1.05,51255.0,High School,Travel_Rarely,48,3.0,2,5.0,,,,,True
+1289,Ananya Singh,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Riya Singh,2018-03-14,8.35,54745.0,Master'S,Travel_Frequently,14,3.0,1,3.0,,,,,True
+1290,Ritu Malhotra,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Nisha Malhotra,2018-05-13,8.18,62269.0,Phd,Travel_Frequently,45,,2,2.0,Leave,0.0,,,True
+1291,Neha Gupta,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Sanjay Joshi,2012-06-14,14.09,59458.0,Phd,Travel_Rarely,23,5.0,3,4.0,,,,,True
+1292,Vivaan Sharma,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Sneha Gupta,2022-12-24,3.57,49377.0,Bachelor'S,Travel_Rarely,15,2.0,1,4.0,,,,,True
+1293,Vikram Joshi,Male,Finance,Auditor,Mumbai,Maharashtra,India,Rahul Chopra,2023-11-16,0.5,54263.0,Diploma,Non-Travel,21,1.0,3,2.0,,,2024-05-15,Relocation,False
+1294,Varun Verma,Male,IT,IT Manager,Jaipur,Rajasthan,India,Ritu Rao,2018-05-13,8.18,84047.0,Bachelor'S,Non-Travel,48,1.0,1,5.0,Leave,0.0,,,True
+1295,Swati Rao,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Preeti Sharma,2025-06-16,1.09,64458.0,Phd,Travel_Frequently,34,1.0,1,3.0,,,,,True
+1296,Vivaan Saxena,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Shreya Malhotra,2011-12-17,11.59,51319.0,Master'S,Travel_Rarely,24,,4,4.0,Work From Home,3.0,2023-07-20,Compensation,False
+1297,Preeti Gupta,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Vikram Bansal,2019-04-28,7.23,66009.0,Diploma,Travel_Rarely,31,5.0,4,1.0,Present,0.0,,,True
+1298,Neha Sharma,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Rohan Joshi,2013-12-03,12.62,61374.0,Bachelor'S,Travel_Rarely,32,4.0,4,3.0,,,,,True
+1299,Vikram Nair,Male,Finance,Auditor,Mumbai,Maharashtra,India,Suresh Patel,2024-08-31,1.88,64293.0,Phd,Travel_Frequently,31,3.0,5,1.0,,,,,True
+1300,Pooja Joshi,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Rahul Chopra,2023-01-17,3.5,55260.0,High School,Travel_Rarely,34,2.0,4,1.0,,,,,True
+1301,Aditya Yadav,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,,2025-05-13,1.18,55110.0,Phd,Travel_Rarely,50,2.0,1,2.0,,,,,True
+1302,Arjun Kumar,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Suresh Rao,2022-07-13,4.02,49514.0,High School,Non-Travel,2,,2,2.0,Work From Home,0.0,,,True
+1303,Sakshi Agarwal,Female,IT,System Admin,Jaipur,Rajasthan,India,Vikram Bansal,2016-10-31,7.76,85526.0,Master'S,Non-Travel,2,2.0,4,3.0,Present,1.0,2024-08-04,Career Growth,False
+1304,Aarav Agarwal,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Neha Mehta,2015-09-04,10.87,66169.0,Bachelor'S,Non-Travel,10,2.0,3,,,,,,True
+1305,Meera Patel,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Gaurav Iyer,2022-12-20,3.58,53171.0,Diploma,Travel_Frequently,31,1.0,4,3.0,Present,0.0,,,True
+1306,Karan Joshi,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Kavya Iyer,2019-02-21,7.41,52022.0,High School,Travel_Rarely,8,3.0,3,4.0,,,,,True
+1307,Sneha Saxena,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Nisha Malhotra,2011-07-25,14.98,65000.0,Phd,Non-Travel,10,4.0,5,,Present,0.0,,,True
+1308,Vivaan Joshi,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Suresh Malhotra,2023-05-06,3.2,48042.0,Master'S,Travel_Rarely,43,5.0,1,4.0,,,,,True
+1309,Kavya Kapoor,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Sanjay Joshi,2015-03-06,11.37,63411.0,Bachelor'S,Travel_Rarely,40,1.0,4,2.0,Present,1.0,,,True
+1310,Nisha Reddy,Female,Finance,Auditor,Mumbai,Maharashtra,India,Riya Singh,2021-04-28,5.22,61190.0,Master'S,Travel_Rarely,55,5.0,5,3.0,Present,0.0,,,True
+1311,Isha Bansal,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Amit Bansal,2020-12-07,5.61,46650.0,High School,Travel_Rarely,32,3.0,2,3.0,,,,,True
+1312,Anjali Verma,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Amit Patel,2018-03-21,8.33,66258.0,Diploma,Travel_Frequently,20,1.0,2,3.0,,,,,True
+1313,Pooja Mehta,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Sneha Kumar,2017-04-25,9.23,80427.0,Master'S,Travel_Rarely,21,5.0,2,1.0,,,,,True
+1314,Rajesh Bansal,Male,IT,System Admin,Jaipur,Rajasthan,India,Sanjay Agarwal,2016-09-19,9.83,86228.0,Phd,Non-Travel,40,1.0,1,4.0,Work From Home,3.0,,,True
+1315,Gaurav Mehta,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Sneha Kumar,2021-11-29,4.64,72368.0,Diploma,Travel_Rarely,17,2.0,4,2.0,Work From Home,1.5,,,True
+1316,Rohan Agarwal,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Ritu Rao,2024-10-27,1.79,62724.0,Phd,Travel_Frequently,13,5.0,5,3.0,Present,1.0,2026-08-11,Better Opportunity,False
+1317,Kavita Malhotra,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Vikram Nair,2014-07-26,7.97,88406.0,High School,Travel_Rarely,30,2.0,5,2.0,Present,0.0,2022-07-14,Personal Reasons,False
+1318,Arjun Patel,Male,Finance,Accountant,Mumbai,Maharashtra,India,,2015-10-18,10.75,68623.0,High School,Travel_Frequently,20,1.0,4,5.0,Present,2.0,,,True
+1319,Neha Chopra,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Amit Patel,2022-10-22,3.74,68174.0,Phd,Travel_Rarely,22,3.0,4,5.0,,,,,True
+1320,Manish Reddy,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Shreya Kapoor,2014-10-20,11.75,76556.0,Master'S,Travel_Frequently,16,,4,3.0,Present,3.0,,,True
+1321,Swati Joshi,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Manish Kumar,2023-08-03,2.96,60185.0,Bachelor'S,Travel_Frequently,8,5.0,2,1.0,Absent,0.0,,,True
+1322,Anil Nair,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Suresh Malhotra,2015-04-13,11.27,76639.0,High School,Travel_Rarely,48,4.0,3,5.0,,,,,True
+1323,Karan Nair,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Sanjay Agarwal,2025-08-05,0.95,36851.0,Bachelor'S,Non-Travel,8,5.0,4,1.0,,,,,True
+1324,Ashok Malhotra,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Manish Kumar,2012-12-29,13.55,90000.0,Phd,Non-Travel,2,1.0,4,4.0,,,,,True
+1325,Deepak Reddy,Male,Finance,Accountant,Mumbai,Maharashtra,India,Suresh Rao,2018-12-30,7.55,58253.0,Master'S,Non-Travel,15,,4,4.0,,,,,True
+1326,Shreya Bansal,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Amit Patel,2014-11-01,11.71,47834.0,Phd,Non-Travel,24,1.0,5,5.0,,,,,True
+1327,Kavya Mehta,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Ananya Reddy,2025-11-21,0.66,50218.0,Phd,Non-Travel,17,5.0,2,5.0,,,,,True
+1328,Kavya Saxena,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Sneha Kumar,2013-10-23,12.74,70000.0,High School,Travel_Rarely,54,3.0,2,2.0,,,,,True
+1329,Sakshi Nair,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Shreya Malhotra,2017-01-28,9.47,84175.0,High School,Non-Travel,3,2.0,3,2.0,Leave,0.0,,,True
+1330,Nikhil Verma,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Nisha Sharma,2022-07-31,0.63,45948.0,Diploma,Travel_Rarely,37,2.0,2,3.0,Present,0.0,2023-03-18,Career Growth,False
+1331,Siddharth Tiwari,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Preeti Saxena,2015-07-10,11.03,76418.0,Phd,Travel_Rarely,10,4.0,3,5.0,,,,,True
+1332,Nisha Nair,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Preeti Sharma,2024-09-19,1.83,40534.0,Bachelor'S,Non-Travel,48,2.0,1,3.0,,,,,True
+1333,Divya Patel,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2010-06-18,12.26,72717.0,Master'S,Travel_Frequently,39,4.0,3,1.0,,,2022-09-22,Retirement,False
+1334,Nikhil Kapoor,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Preeti Sharma,2019-06-28,7.06,45144.0,Diploma,Travel_Rarely,34,3.0,2,4.0,,,,,True
+1335,Neha Bansal,Female,Finance,Accountant,Mumbai,Maharashtra,India,Amit Bansal,2025-05-07,1.2,64568.0,Master'S,Non-Travel,30,,1,4.0,,,,,True
+1336,Kirti Gupta,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Shreya Chopra,2024-11-02,1.31,46355.0,Master'S,Travel_Frequently,52,2.0,3,3.0,,,2026-02-25,Compensation,False
+1337,Arjun Patel,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Kavya Bansal,2012-05-21,14.32,56172.0,Phd,Travel_Rarely,40,2.0,4,1.0,,,2026-09-16,Career Growth,False
+1338,Shreya Gupta,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Nisha Sharma,2014-04-13,12.27,72495.0,Phd,Non-Travel,20,4.0,4,4.0,,,,,True
+1339,Karan Kumar,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Nisha Agarwal,2010-06-10,16.11,60000.0,Master'S,Travel_Rarely,48,2.0,2,,,,,,True
+1340,Nikhil Chopra,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Suresh Patel,2023-09-19,2.83,34706.0,Bachelor'S,Travel_Rarely,8,3.0,2,4.0,Present,1.0,,,True
+1341,Priya Patel,Female,Finance,Accountant,Mumbai,Maharashtra,India,Ashok Tiwari,2017-09-17,8.84,61651.0,Master'S,Travel_Frequently,42,5.0,5,2.0,,,,,True
+1342,Ashok Reddy,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Preeti Sharma,2020-10-30,5.72,65497.0,High School,Travel_Rarely,23,3.0,1,4.0,,,,,True
+1343,Vivaan Mehta,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Deepak Rao,2022-08-09,3.98,47844.0,Phd,Travel_Frequently,7,3.0,1,5.0,Present,1.0,2026-07-31,Better Opportunity,False
+1344,Pooja Singh,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Aditya Verma,2012-05-13,14.18,59199.0,High School,Travel_Frequently,24,,5,1.0,,,,,True
+1345,Kavita Sharma,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Kirti Malhotra,2016-06-07,10.11,59379.0,Master'S,Non-Travel,52,5.0,5,2.0,Present,0.0,,,True
+1346,Priya Kapoor,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,,2021-08-09,4.94,69241.0,Diploma,Non-Travel,41,1.0,3,4.0,,,,,True
+1347,Kavita Chopra,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Riya Kapoor,2010-03-06,16.37,67953.0,Phd,Travel_Frequently,23,2.0,3,5.0,Work From Home,1.0,,,True
+1348,Sanjay Gupta,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Divya Saxena,2012-10-29,13.72,54300.0,Phd,Travel_Rarely,16,2.0,4,5.0,,,,,True
+1349,Aarav Joshi,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Shreya Chopra,2011-01-27,15.47,72446.0,Phd,Travel_Frequently,15,2.0,2,4.0,Present,0.0,,,True
+1350,Anil Agarwal,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Suresh Saxena,2021-08-01,4.96,53710.0,Diploma,Non-Travel,29,1.0,4,2.0,,,,,True
+1351,Divya Tiwari,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Sneha Gupta,2019-11-15,6.67,47473.0,Phd,Non-Travel,45,4.0,5,1.0,Present,2.0,,,True
+1352,Pooja Yadav,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Riya Kapoor,2016-06-30,10.05,65000.0,Phd,Non-Travel,20,,1,4.0,,,,,True
+1353,Priya Singh,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Kirti Chopra,2019-05-14,7.18,82607.0,Diploma,Travel_Frequently,30,1.0,3,5.0,,,,,True
+1354,Neha Yadav,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Riya Kapoor,2022-02-18,3.47,45312.0,Bachelor'S,Travel_Frequently,8,5.0,3,2.0,,,2025-08-09,Not Specified,False
+1355,Gaurav Agarwal,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Nisha Malhotra,2010-06-02,16.13,72024.0,High School,Travel_Frequently,21,1.0,4,1.0,Present,1.0,,,True
+1356,Rajesh Malhotra,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Sanjay Agarwal,2021-11-03,4.71,59011.0,Master'S,Non-Travel,40,2.0,1,4.0,,,,,True
+1357,Sunita Singh,Female,IT,System Admin,Jaipur,Rajasthan,India,Pooja Reddy,2017-04-09,9.28,78742.0,Phd,Travel_Rarely,8,4.0,2,,,,,,True
+1358,Nikhil Sharma,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Nisha Agarwal,2022-06-05,4.12,43842.0,Phd,Non-Travel,24,4.0,4,2.0,,,,,True
+1359,Preeti Kapoor,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Sanjay Joshi,2020-06-03,6.12,56742.0,Master'S,Travel_Frequently,14,,2,4.0,Present,0.0,,,True
+1360,Sanjay Gupta,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Kirti Chopra,2022-06-25,4.07,39452.0,Master'S,Non-Travel,43,3.0,3,4.0,Work From Home,2.0,,,True
+1361,Priya Kumar,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Kavya Bansal,2010-03-20,16.33,70000.0,High School,Non-Travel,54,,1,1.0,Work From Home,1.5,,,True
+1362,Sakshi Joshi,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Vikram Nair,2012-10-19,13.75,65000.0,High School,Travel_Frequently,20,2.0,1,3.0,Work From Home,3.0,,,True
+1363,Ananya Nair,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Vikram Nair,2023-08-05,1.29,38531.0,Phd,Travel_Frequently,12,5.0,5,1.0,,,2024-11-18,Not Specified,False
+1364,Kirti Iyer,Female,Finance,Accountant,Mumbai,Maharashtra,India,Sanjay Joshi,2010-07-09,16.03,80000.0,High School,Travel_Rarely,55,5.0,1,4.0,,,,,True
+1365,Swati Joshi,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Suresh Reddy,2016-03-26,10.31,65969.0,Master'S,Non-Travel,13,2.0,4,1.0,Present,1.5,,,True
+1366,Rohan Bansal,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Riya Kapoor,2024-01-18,2.5,40509.0,Diploma,Travel_Frequently,40,5.0,4,2.0,,,,,True
+1367,Vivaan Verma,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Preeti Sharma,2025-07-21,0.54,48251.0,Phd,Travel_Rarely,55,,2,4.0,,,2026-02-04,Personal Reasons,False
+1368,Ashok Yadav,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Shreya Chopra,2020-05-30,6.14,54277.0,Diploma,Non-Travel,1,2.0,3,4.0,,,,,True
+1369,Gaurav Kumar,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Kavya Bansal,2020-10-18,5.75,64378.0,Bachelor'S,Travel_Frequently,35,4.0,2,4.0,Present,1.0,,,True
+1370,Shreya Joshi,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Suresh Patel,2015-04-29,11.22,55628.0,Bachelor'S,Travel_Frequently,31,1.0,3,4.0,Work From Home,0.0,,,True
+1371,Kirti Tiwari,Female,IT,IT Manager,Jaipur,Rajasthan,India,Deepak Rao,2017-05-16,6.33,78934.0,Diploma,Travel_Frequently,14,5.0,4,,Present,1.5,2023-09-15,Not Specified,False
+1372,Sunita Reddy,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Vikram Nair,2010-03-23,16.32,65000.0,Diploma,Non-Travel,15,5.0,2,5.0,Present,1.5,,,True
+1373,Karan Reddy,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Preeti Sharma,2015-11-15,10.67,60790.0,Diploma,Travel_Rarely,43,2.0,5,4.0,Present,0.0,,,True
+1374,Neha Singh,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Shreya Chopra,2014-04-03,12.29,85000.0,Diploma,Travel_Rarely,51,1.0,2,4.0,Absent,0.0,,,True
+1375,Kavya Agarwal,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Kirti Malhotra,2011-10-29,14.72,60000.0,Master'S,Travel_Rarely,46,5.0,5,1.0,Leave,0.0,,,True
+1376,Swati Nair,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Ritu Rao,2010-10-27,15.73,57433.0,Bachelor'S,Travel_Frequently,6,2.0,2,2.0,Present,1.0,,,True
+1377,Sneha Tiwari,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Suresh Reddy,2023-12-07,2.61,55870.0,Bachelor'S,Travel_Rarely,6,4.0,1,3.0,,,,,True
+1378,Amit Iyer,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Ananya Reddy,2022-04-01,2.07,49885.0,Diploma,Travel_Rarely,1,2.0,4,,,,2024-04-27,Personal Reasons,False
+1379,Sunita Tiwari,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Riya Kapoor,2021-07-01,5.05,70000.0,Phd,Travel_Frequently,53,2.0,4,3.0,,,,,True
+1380,Manish Malhotra,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Preeti Kapoor,2022-07-11,4.02,47537.0,Diploma,Travel_Rarely,44,3.0,1,1.0,,,,,True
+1381,Anjali Tiwari,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Amit Patel,2013-06-13,13.1,57909.0,Master'S,Travel_Frequently,25,1.0,3,3.0,Present,2.0,,,True
+1382,Shreya Gupta,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Ashok Tiwari,2022-05-27,4.15,61393.0,Diploma,Travel_Rarely,43,4.0,1,2.0,Present,2.0,,,True
+1383,Karan Mehta,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Neha Mehta,2022-01-12,4.51,32000.0,Master'S,Travel_Frequently,37,1.0,2,4.0,,,,,True
+1384,Divya Reddy,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Shreya Mehta,2011-06-09,15.11,63441.0,High School,Travel_Frequently,30,3.0,4,5.0,,,,,True
+1385,Sakshi Patel,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Sanjay Yadav,2019-09-10,6.87,44184.0,Phd,Travel_Frequently,5,1.0,1,1.0,,,2026-07-26,Relocation,False
+1386,Kavita Saxena,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Deepak Rao,2012-05-11,14.19,64466.0,Master'S,Travel_Rarely,48,4.0,1,2.0,Leave,2.0,,,True
+1387,Pooja Kumar,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Nisha Sharma,2020-05-07,6.2,77005.0,High School,Non-Travel,12,2.0,1,5.0,Present,0.0,,,True
+1388,Rohan Nair,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Neha Mehta,2013-12-28,12.56,85000.0,High School,Travel_Frequently,20,2.0,1,2.0,Present,1.0,,,True
+1389,Riya Iyer,Female,IT,System Admin,Jaipur,Rajasthan,India,Rahul Chopra,2012-01-19,14.5,78742.0,Diploma,Travel_Rarely,33,4.0,2,3.0,Present,0.0,,,True
+1390,Ashok Reddy,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Rohan Joshi,2014-10-18,11.75,52990.0,Bachelor'S,Travel_Rarely,3,3.0,2,2.0,,,,,True
+1391,Pooja Saxena,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Sanjay Yadav,2023-06-16,3.09,57419.0,Bachelor'S,Non-Travel,22,2.0,1,5.0,Work From Home,0.0,,,True
+1392,Siddharth Tiwari,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Ashok Tiwari,2023-10-29,2.72,52987.0,Diploma,Travel_Rarely,14,2.0,2,3.0,Present,1.5,,,True
+1393,Anjali Kumar,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Shreya Kapoor,2010-11-21,15.66,67907.0,High School,Travel_Frequently,45,2.0,2,1.0,,,,,True
+1394,Isha Kapoor,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Ritu Rao,2011-07-28,14.98,70000.0,Diploma,Travel_Frequently,6,5.0,1,1.0,Present,0.0,,,True
+1395,Rahul Malhotra,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Nisha Malhotra,2016-05-26,10.15,84632.0,Master'S,Travel_Frequently,48,4.0,5,5.0,A,3.0,,,True
+1396,Priya Chopra,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Preeti Kapoor,2022-01-18,4.5,42965.0,Diploma,Non-Travel,10,5.0,1,4.0,,,,,True
+1397,Swati Chopra,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Vikram Nair,2018-08-13,7.93,38167.0,Master'S,Travel_Frequently,23,4.0,5,,Work From Home,1.0,,,True
+1398,Anil Malhotra,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Preeti Sharma,2010-10-10,15.77,73000.0,Diploma,Non-Travel,39,2.0,1,,,,,,True
+1399,Vivaan Chopra,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Sanjay Agarwal,2014-03-27,12.31,57531.0,Master'S,Non-Travel,41,,4,5.0,Leave,2.0,,,True
+1400,Riya Chopra,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Rohan Kapoor,2021-01-11,5.52,80000.0,Diploma,Travel_Rarely,12,5.0,2,1.0,Present,3.0,,,True
+1401,Karan Reddy,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Manish Kumar,2014-04-21,9.57,50589.0,High School,Non-Travel,22,3.0,1,1.0,,,2023-11-16,Not Specified,False
+1402,Rohan Verma,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Ritu Rao,2023-01-24,3.48,55399.0,Master'S,Travel_Rarely,39,1.0,5,3.0,,,,,True
+1403,Sneha Joshi,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Kirti Malhotra,2017-05-29,9.14,53913.0,Bachelor'S,Travel_Rarely,29,3.0,2,3.0,,,,,True
+1404,Riya Sharma,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Vikram Bansal,2018-01-29,5.38,78053.0,Bachelor'S,Travel_Rarely,43,5.0,5,2.0,Present,1.0,2023-06-17,Retirement,False
+1405,Sakshi Reddy,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Kavita Saxena,2021-03-03,2.6,64437.0,Phd,Non-Travel,14,5.0,2,1.0,,,2023-10-08,Personal Reasons,False
+1406,Manish Sharma,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Pooja Reddy,2016-04-15,10.26,80348.0,High School,Non-Travel,37,2.0,4,2.0,Present,0.0,,,True
+1407,Sunita Saxena,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Sneha Kumar,2012-08-05,13.95,52368.0,Master'S,Travel_Frequently,1,3.0,4,4.0,Present,0.0,,,True
+1408,Kavita Mehta,Female,IT,System Admin,Jaipur,Rajasthan,India,Suresh Reddy,2024-11-20,1.66,66318.0,Master'S,Non-Travel,39,4.0,1,1.0,,,,,True
+1409,Ashok Mehta,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Rohan Joshi,2025-11-05,0.41,56981.0,Diploma,Travel_Frequently,48,2.0,5,2.0,,,2026-04-04,Personal Reasons,False
+1410,Sunita Rao,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Ritu Rao,2018-10-19,4.69,75712.0,Diploma,Travel_Rarely,7,3.0,4,5.0,Present,0.0,2023-06-28,Relocation,False
+1411,Sanjay Kapoor,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Amit Tiwari,2025-08-11,0.94,67065.0,High School,Travel_Rarely,28,3.0,4,4.0,Present,1.5,,,True
+1412,Swati Patel,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Rohan Kapoor,2024-07-31,0.45,38920.0,Master'S,Travel_Rarely,53,3.0,1,3.0,Present,2.0,2025-01-10,Not Specified,False
+1413,Priya Singh,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Rohan Kapoor,2024-12-31,1.55,34000.0,Master'S,Travel_Frequently,45,5.0,1,4.0,Wfh,0.0,,,True
+1414,Varun Patel,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Riya Singh,2022-06-22,4.07,56303.0,Diploma,Non-Travel,39,5.0,1,5.0,Present,3.0,,,True
+1415,Pooja Verma,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Suresh Saxena,2013-08-13,12.93,82035.0,High School,Travel_Rarely,3,3.0,3,5.0,,,,,True
+1416,Kavya Tiwari,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Vikram Nair,2021-09-21,3.64,36220.0,Diploma,Non-Travel,9,3.0,3,4.0,Present,2.0,2025-05-14,Personal Reasons,False
+1417,Ashok Malhotra,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Aditya Verma,2024-07-28,1.97,57339.0,Bachelor'S,Travel_Frequently,24,4.0,3,1.0,,,,,True
+1418,Manish Kumar,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Preeti Saxena,2010-08-01,15.96,89855.0,Bachelor'S,Non-Travel,52,4.0,5,4.0,,,,,True
+1419,Anil Singh,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Kirti Chopra,2020-12-24,2.26,59756.0,Master'S,Travel_Rarely,52,5.0,4,5.0,,,2023-03-29,Compensation,False
+1420,Swati Tiwari,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Pooja Singh,2025-05-27,1.46,62225.0,Diploma,Travel_Rarely,46,1.0,1,4.0,Present,0.0,2026-11-13,Better Opportunity,False
+1421,Ritu Rao,Female,Finance,Auditor,Mumbai,Maharashtra,India,Amit Patel,2015-02-18,11.41,80000.0,High School,Travel_Frequently,4,4.0,1,5.0,Present,0.0,,,True
+1422,Manish Agarwal,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Priya Chopra,2021-07-20,5.0,81509.0,Master'S,Travel_Frequently,23,3.0,5,3.0,,,,,True
+1423,Ashok Kapoor,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Riya Singh,2011-09-08,14.86,80282.0,Bachelor'S,Travel_Frequently,55,3.0,2,2.0,Present,3.0,,,True
+1424,Divya Reddy,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Vivaan Verma,2016-11-02,5.47,67312.0,Phd,Travel_Rarely,20,3.0,1,3.0,Present,1.5,2022-04-22,Compensation,False
+1425,Anil Joshi,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Suresh Reddy,2021-01-13,5.51,58402.0,Master'S,Travel_Rarely,20,4.0,2,1.0,,,,,True
+1426,Pooja Kapoor,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Shreya Mehta,2017-12-07,8.61,49879.0,Bachelor'S,Non-Travel,43,5.0,3,4.0,Present,2.0,,,True
+1427,Pooja Malhotra,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Riya Singh,2025-04-16,1.26,29134.0,High School,Non-Travel,10,5.0,4,2.0,,,,,True
+1428,Rajesh Malhotra,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Kavya Bansal,2016-06-29,10.05,65545.0,Bachelor'S,Travel_Frequently,53,2.0,1,1.0,,,,,True
+1429,Siddharth Yadav,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Vikram Bansal,2024-02-09,1.97,72096.0,High School,Travel_Rarely,34,2.0,1,2.0,,,2026-01-28,Personal Reasons,False
+1430,Kavita Bansal,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Vivaan Verma,2011-02-28,15.39,53993.0,High School,Non-Travel,19,1.0,3,1.0,,,,,True
+1431,Amit Bansal,Male,IT,IT Manager,Jaipur,Rajasthan,India,Shreya Chopra,2012-07-02,14.05,79623.0,Phd,Travel_Rarely,16,5.0,3,1.0,,,,,True
+1432,Vikram Yadav,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Aditya Verma,2025-10-21,0.74,34000.0,Diploma,Non-Travel,13,5.0,3,3.0,,,,,True
+1433,Meera Kapoor,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Preeti Sharma,2019-05-26,6.89,50542.0,Diploma,Travel_Rarely,44,5.0,1,1.0,,,2026-04-14,Not Specified,False
+1434,Ritu Chopra,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Aditya Verma,2014-02-16,12.42,65000.0,Phd,Travel_Rarely,55,3.0,1,2.0,,,,,True
+1435,Rahul Verma,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Amit Patel,2024-05-06,2.2,63290.0,Phd,Non-Travel,42,2.0,5,3.0,,,,,True
+1436,Varun Nair,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Shreya Kapoor,2016-08-12,9.93,75469.0,Phd,Travel_Frequently,48,,4,2.0,Present,1.5,,,True
+1437,Deepak Iyer,Male,IT,IT Manager,Jaipur,Rajasthan,India,Vikram Bansal,2023-01-17,3.5,83252.0,Master'S,Travel_Rarely,12,5.0,5,2.0,Present,1.0,,,True
+1438,Sanjay Sharma,Male,Finance,Accountant,Mumbai,Maharashtra,India,Aditya Verma,2018-11-04,7.7,55490.0,High School,Non-Travel,25,3.0,4,2.0,Present,2.0,,,True
+1439,Vikram Iyer,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Ashok Nair,2010-03-18,16.34,52861.0,Master'S,Travel_Rarely,22,2.0,4,1.0,,,,,True
+1440,Preeti Singh,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Rahul Chopra,2022-03-20,1.61,51024.0,Bachelor'S,Travel_Frequently,25,5.0,3,1.0,,,2023-10-30,Relocation,False
+1441,Isha Singh,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Kirti Malhotra,2018-01-06,8.53,63845.0,Bachelor'S,Non-Travel,44,3.0,5,5.0,,,,,True
+1442,Meera Singh,Female,Finance,Auditor,Mumbai,Maharashtra,India,Shreya Malhotra,2018-04-12,8.27,67116.0,Master'S,Travel_Frequently,51,5.0,3,5.0,Present,2.0,,,True
+1443,Divya Kumar,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Kavya Bansal,2018-08-21,7.91,37300.0,Diploma,Travel_Rarely,36,,2,4.0,Work From Home,0.0,,,True
+1444,Anil Gupta,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Rahul Chopra,2014-12-02,11.63,56707.0,Bachelor'S,Travel_Rarely,30,1.0,5,5.0,P,1.0,,,True
+1445,Sneha Reddy,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Suresh Patel,2013-02-02,13.46,57729.0,Master'S,Non-Travel,2,4.0,4,3.0,,,,,True
+1446,Gaurav Malhotra,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,,2013-02-21,8.88,85000.0,High School,Non-Travel,42,1.0,4,4.0,Present,1.0,2022-01-10,Personal Reasons,False
+1447,Anil Malhotra,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Sneha Gupta,2015-10-15,10.76,54050.0,Diploma,Travel_Frequently,4,,4,3.0,,,,,True
+1448,Deepak Bansal,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Preeti Kapoor,2018-07-14,8.01,69476.0,High School,Travel_Rarely,11,4.0,3,,Present,1.5,,,True
+1449,Riya Saxena,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Rahul Chopra,2016-01-15,10.51,59628.0,Bachelor'S,Travel_Frequently,13,,4,5.0,,,,,True
+1450,Aditya Mehta,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Preeti Sharma,2021-04-06,5.28,39424.0,High School,Travel_Frequently,15,5.0,5,1.0,Present,2.0,,,True
+1451,Siddharth Agarwal,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Ritu Nair,2012-12-10,13.6,84886.0,Phd,Non-Travel,37,3.0,1,,Present,3.0,,,True
+1452,Sanjay Saxena,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Kavita Saxena,2013-10-22,12.74,67000.0,Bachelor'S,Travel_Frequently,9,2.0,1,5.0,Present,0.0,,,True
+1453,Shreya Chopra,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Sanjay Joshi,2019-11-21,6.66,42075.0,High School,Travel_Frequently,4,2.0,4,4.0,,,,,True
+1454,Vikram Singh,Male,Finance,Auditor,Mumbai,Maharashtra,India,Rohan Joshi,2022-10-15,3.76,64641.0,Master'S,Non-Travel,12,2.0,2,2.0,,,,,True
+1455,Riya Chopra,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Shreya Malhotra,2017-09-06,8.87,74031.0,Diploma,Travel_Frequently,3,5.0,2,5.0,,,,,True
+1456,Kavita Bansal,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Kavya Bansal,2010-07-07,16.03,65689.0,Master'S,Travel_Frequently,14,1.0,4,3.0,,,,,True
+1457,Manish Mehta,Male,Finance,Accountant,Mumbai,Maharashtra,India,Manish Kumar,2017-11-01,8.71,67187.0,High School,Travel_Frequently,13,4.0,5,3.0,,,,,True
+1458,Anjali Sharma,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Nisha Agarwal,2021-03-15,5.34,59707.0,Diploma,Travel_Frequently,38,5.0,3,4.0,Present,1.0,,,True
+1459,Preeti Patel,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Deepak Rao,2025-03-30,1.3,53913.0,Master'S,Travel_Rarely,27,1.0,4,2.0,,,,,True
+1460,Pooja Patel,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Ritu Nair,2013-12-20,12.73,44263.0,High School,Non-Travel,6,2.0,2,1.0,,,2026-09-11,Health Reasons,False
+1461,Sakshi Saxena,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Riya Kapoor,2016-07-02,10.05,67000.0,Master'S,Travel_Frequently,46,5.0,4,1.0,Present,0.0,,,True
+1462,Siddharth Rao,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Rohan Joshi,2019-04-21,7.24,70617.0,Phd,Travel_Rarely,22,2.0,3,3.0,Present,1.5,,,True
+1463,Riya Yadav,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Rajesh Iyer,2012-11-21,13.66,54867.0,Diploma,Non-Travel,41,,1,5.0,,,,,True
+1464,Preeti Patel,Female,IT,System Admin,Jaipur,Rajasthan,India,Manish Kumar,2012-02-04,14.45,78742.0,High School,Travel_Rarely,41,,3,5.0,,,,,True
+1465,Sanjay Reddy,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Ritu Rao,2015-11-04,10.7,63136.0,Phd,Non-Travel,10,4.0,3,3.0,,,,,True
+1466,Meera Reddy,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Rohan Kapoor,2011-08-26,14.9,60559.0,Bachelor'S,Non-Travel,43,3.0,4,4.0,Present,1.5,,,True
+1467,Meera Bansal,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Amit Patel,2015-09-16,10.84,66150.0,High School,Non-Travel,15,3.0,1,3.0,,,,,True
+1468,Swati Reddy,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Shreya Chopra,2021-02-13,1.28,56172.0,Phd,Non-Travel,51,3.0,2,4.0,Present,0.0,2022-05-27,Compensation,False
+1469,Kavita Yadav,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Amit Bansal,2012-05-31,14.13,71936.0,Bachelor'S,Travel_Rarely,19,1.0,5,3.0,,,,,True
+1470,Sunita Sharma,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Priya Chopra,2014-03-04,12.38,55935.0,Bachelor'S,Travel_Rarely,37,5.0,3,1.0,,,,,True
+1471,Shreya Yadav,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Sneha Kumar,2022-08-01,3.96,51717.0,Bachelor'S,Non-Travel,4,3.0,2,3.0,Present,3.0,,,True
+1472,Pooja Singh,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Nisha Sharma,2017-05-01,9.22,30384.0,Master'S,Travel_Frequently,34,5.0,2,,Present,0.0,,,True
+1473,Manish Rao,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Kavya Bansal,2017-10-03,8.79,56041.0,High School,Travel_Frequently,7,2.0,3,3.0,Present,1.0,,,True
+1474,Rajesh Malhotra,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Riya Kapoor,2014-04-15,12.26,73000.0,High School,Non-Travel,20,5.0,3,1.0,,,,,True
+1475,Divya Patel,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Kirti Malhotra,2012-10-31,13.71,85000.0,Diploma,Travel_Rarely,43,5.0,5,1.0,Work From Home,0.0,,,True
+1476,Sneha Gupta,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Preeti Sharma,2011-11-10,10.62,75022.0,Diploma,Travel_Frequently,14,3.0,1,5.0,,,2022-06-24,Not Specified,False
+1477,Riya Tiwari,Female,IT,IT Manager,Jaipur,Rajasthan,India,Pooja Singh,2020-03-08,6.36,79130.0,Master'S,Non-Travel,18,,3,3.0,,,,,True
+1478,Vikram Kapoor,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Shreya Malhotra,2020-05-03,6.19,52405.0,Master'S,Travel_Rarely,33,5.0,1,2.0,,,2026-07-11,Compensation,False
+1479,Anil Malhotra,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Suresh Reddy,2019-01-12,7.52,73000.0,High School,Non-Travel,37,5.0,3,1.0,Present,0.0,,,True
+1480,Ashok Chopra,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,,2025-07-07,1.03,50473.0,Diploma,Travel_Frequently,40,1.0,5,,,,,,True
+1481,Karan Mehta,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Kirti Chopra,2013-03-07,13.37,61006.0,High School,Travel_Rarely,31,1.0,3,5.0,,,,,True
+1482,Aarav Sharma,Male,Finance,Accountant,Mumbai,Maharashtra,India,Preeti Mehta,2021-04-14,5.26,55221.0,Master'S,Travel_Rarely,30,5.0,4,3.0,,,,,True
+1483,Pooja Nair,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Vikram Nair,2014-12-10,11.61,49536.0,Master'S,Travel_Rarely,41,5.0,1,5.0,Present,3.0,,,True
+1484,Amit Joshi,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Riya Kapoor,2019-05-12,7.19,77382.0,Bachelor'S,Non-Travel,1,1.0,5,4.0,Work From Home,3.0,,,True
+1485,Siddharth Rao,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Suresh Saxena,2016-06-19,10.08,69047.0,Bachelor'S,Non-Travel,17,1.0,2,2.0,Present,0.0,,,True
+1486,Vivaan Nair,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Gaurav Iyer,2023-02-16,3.42,53721.0,Bachelor'S,Travel_Frequently,20,1.0,2,4.0,Leave,2.0,,,True
+1487,Arjun Nair,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Gaurav Iyer,2014-06-23,12.07,72913.0,Diploma,Travel_Rarely,45,1.0,4,2.0,,,,,True
+1488,Meera Malhotra,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Shreya Chopra,2020-05-06,6.2,35622.0,Phd,Non-Travel,40,2.0,2,,Present,1.0,,,True
+1489,Kavya Chopra,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Kavya Bansal,2021-08-14,4.93,65861.0,High School,Travel_Frequently,38,,5,4.0,,,,,True
+1490,Siddharth Kumar,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Riya Singh,2025-02-26,1.39,44107.0,High School,Non-Travel,39,5.0,5,2.0,,,,,True
+1491,Nikhil Sharma,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Neha Mehta,2012-09-24,13.82,55640.0,Phd,Travel_Rarely,10,2.0,1,1.0,Absent,0.0,,,True
+1492,Karan Agarwal,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Sanjay Singh,2016-07-03,10.04,73000.0,Master'S,Non-Travel,19,,3,2.0,,,,,True
+1493,Ananya Yadav,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Kirti Malhotra,2013-02-15,10.27,55731.0,Master'S,Non-Travel,12,5.0,2,4.0,Present,0.0,2023-05-25,Not Specified,False
+1494,Nisha Kumar,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Neha Mehta,2011-07-13,15.02,70617.0,Phd,Non-Travel,45,1.0,4,3.0,,,,,True
+1495,Neha Verma,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Amit Patel,2012-03-01,14.38,70000.0,High School,Travel_Frequently,25,2.0,4,4.0,,,,,True
+1496,Pooja Verma,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Preeti Mehta,2024-02-28,2.39,49861.0,Master'S,Travel_Frequently,19,4.0,1,5.0,,,,,True
+1497,Vivaan Tiwari,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Suresh Rao,2010-09-30,12.86,60385.0,Phd,Non-Travel,54,1.0,1,,,,2023-08-11,Relocation,False
+1498,Sakshi Saxena,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Ananya Reddy,2019-08-04,7.33,68886.0,Phd,Non-Travel,15,3.0,5,3.0,P,1.5,2026-12-01,Retirement,False
+1499,Meera Gupta,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Shreya Chopra,2021-12-26,4.56,59808.0,Master'S,Travel_Frequently,2,1.0,2,5.0,,,,,True
+1500,Vikram Reddy,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Sanjay Singh,2021-01-26,5.48,62123.0,Phd,Non-Travel,36,4.0,2,1.0,Present,0.0,,,True
+1501,Aarav Bansal,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Vikram Nair,2020-09-17,5.83,64134.0,Phd,Travel_Rarely,44,4.0,5,5.0,Present,1.5,,,True
+1502,Sunita Kumar,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Vikram Bansal,2012-08-04,13.95,65000.0,Phd,Non-Travel,27,2.0,2,2.0,Absent,1.5,,,True
+1503,Rohan Iyer,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Neha Mehta,2012-11-04,13.7,54347.0,High School,Non-Travel,17,5.0,5,5.0,Absent,3.0,,,True
+1504,Sneha Kapoor,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Sanjay Singh,2022-05-15,4.18,65742.0,Phd,Travel_Rarely,6,2.0,5,,Present,1.0,,,True
+1505,Sanjay Saxena,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,,2013-03-08,13.36,62820.0,Bachelor'S,Travel_Rarely,20,4.0,4,3.0,Present,1.0,,,True
+1506,Swati Sharma,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,,2014-08-13,11.93,53979.0,Phd,Travel_Rarely,52,5.0,5,3.0,,,,,True
+1507,Kavita Verma,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Sneha Gupta,2020-05-25,4.75,46458.0,High School,Travel_Frequently,18,5.0,1,5.0,,,2025-02-24,Retirement,False
+1508,Kirti Chopra,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Nisha Agarwal,2016-01-11,10.52,53844.0,Diploma,Travel_Rarely,2,1.0,2,3.0,Present,0.0,,,True
+1509,Preeti Reddy,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Kavya Kapoor,2023-09-09,2.86,44645.0,Diploma,Travel_Frequently,42,3.0,3,1.0,Present,3.0,,,True
+1510,Kirti Mehta,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Suresh Patel,2015-10-24,10.74,60790.0,Phd,Non-Travel,33,5.0,2,1.0,,,,,True
+1511,Neha Malhotra,Female,Finance,Accountant,Mumbai,Maharashtra,India,Kavya Iyer,2017-04-29,9.22,70971.0,Bachelor'S,Travel_Frequently,2,2.0,3,3.0,,,,,True
+1512,Riya Chopra,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Shreya Kapoor,2024-07-24,2.21,47544.0,High School,Non-Travel,39,3.0,2,1.0,Leave,3.0,2026-10-09,Not Specified,False
+1513,Riya Tiwari,Female,Finance,Accountant,Mumbai,Maharashtra,India,Sanjay Yadav,2015-06-15,11.09,69707.0,Master'S,Non-Travel,23,2.0,1,5.0,Present,0.0,,,True
+1514,Sakshi Iyer,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Preeti Mehta,2022-10-09,0.7,33373.0,Bachelor'S,Travel_Rarely,8,5.0,4,,,,2023-06-21,Health Reasons,False
+1515,Riya Patel,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,,2012-09-16,13.84,51122.0,Diploma,Non-Travel,33,2.0,1,3.0,,,,,True
+1516,Kavya Chopra,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Nisha Malhotra,2017-07-22,8.99,67506.0,Master'S,Travel_Frequently,54,2.0,3,1.0,Present,0.0,,,True
+1517,Gaurav Agarwal,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Suresh Reddy,2023-04-21,3.24,50844.0,Bachelor'S,Travel_Rarely,4,2.0,3,3.0,,,,,True
+1518,Shreya Mehta,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Rahul Chopra,2010-12-10,15.61,55571.0,Bachelor'S,Non-Travel,19,,5,5.0,,,,,True
+1519,Divya Yadav,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2012-02-26,14.39,64365.0,Diploma,Travel_Rarely,54,2.0,5,4.0,Present,0.0,,,True
+1520,Nisha Agarwal,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Riya Singh,2012-06-16,14.09,85000.0,Bachelor'S,Travel_Frequently,51,2.0,3,3.0,,,,,True
+1521,Divya Kapoor,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,,2019-09-21,2.38,38857.0,High School,Non-Travel,38,3.0,1,4.0,,,2022-02-06,Retirement,False
+1522,Swati Kumar,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Pooja Reddy,2021-02-21,5.4,47426.0,Phd,Non-Travel,46,2.0,5,1.0,,,,,True
+1523,Kirti Iyer,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Rahul Chopra,2024-09-25,1.81,62386.0,Phd,Travel_Rarely,7,1.0,2,3.0,,,,,True
+1524,Kavita Kapoor,Female,IT,System Admin,Jaipur,Rajasthan,India,Nisha Sharma,2019-07-13,3.94,80064.0,Master'S,Travel_Rarely,44,3.0,4,4.0,Present,3.0,2023-06-22,Retirement,False
+1525,Ananya Saxena,Female,IT,IT Manager,Jaipur,Rajasthan,India,Rohan Joshi,2017-02-14,9.42,73006.0,High School,Travel_Rarely,27,1.0,3,3.0,Work From Home,1.0,,,True
+1526,Ashok Yadav,Male,IT,System Admin,Jaipur,Rajasthan,India,Kavya Bansal,2022-02-08,4.44,57193.0,High School,Non-Travel,24,5.0,5,2.0,,,,,True
+1527,Sneha Rao,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Amit Bansal,2019-04-10,7.27,57865.0,Master'S,Non-Travel,11,5.0,1,4.0,,,,,True
+1528,Aarav Nair,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Divya Saxena,2018-12-27,7.12,53698.0,High School,Travel_Frequently,10,4.0,3,2.0,Present,1.0,2026-02-09,Health Reasons,False
+1529,Anjali Malhotra,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Suresh Malhotra,2020-04-17,6.25,56431.0,Master'S,Travel_Frequently,35,4.0,5,1.0,,,,,True
+1530,Meera Saxena,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Kavya Bansal,2015-03-17,11.34,51754.0,Master'S,Non-Travel,6,2.0,1,3.0,,,,,True
+1531,Aarav Bansal,Male,Finance,Auditor,Mumbai,Maharashtra,India,Riya Kapoor,2017-07-30,8.97,73538.0,Master'S,Travel_Rarely,21,4.0,5,4.0,,,,,True
+1532,Ritu Saxena,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Rahul Chopra,2011-09-27,14.81,50903.0,Phd,Non-Travel,48,4.0,3,5.0,,,,,True
+1533,Manish Rao,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Kavita Saxena,2018-05-03,8.21,66763.0,Master'S,Travel_Rarely,48,2.0,2,5.0,Present,0.0,,,True
+1534,Priya Mehta,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Suresh Patel,2010-02-15,15.77,54928.0,Bachelor'S,Non-Travel,23,5.0,2,1.0,Present,2.0,2025-11-23,Health Reasons,False
+1535,Kirti Rao,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Rajesh Iyer,2022-08-02,3.96,65699.0,Phd,Travel_Frequently,50,5.0,2,3.0,,,,,True
+1536,Sakshi Bansal,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Preeti Sharma,2015-03-15,11.35,65376.0,Diploma,Travel_Rarely,28,1.0,5,3.0,,,,,True
+1537,Rahul Saxena,Male,Operations,Operations Manager,Chennai,Tamil Nadu,India,Nisha Sharma,2020-08-22,5.91,41948.0,Bachelor'S,Travel_Rarely,36,4.0,4,2.0,Present,3.0,,,True
+1538,Varun Malhotra,Male,IT,System Admin,Jaipur,Rajasthan,India,Shreya Mehta,2018-03-15,8.34,74416.0,High School,Travel_Rarely,24,3.0,1,1.0,Present,1.0,,,True
+1539,Suresh Nair,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Ritu Rao,2024-07-08,2.03,56062.0,Master'S,Travel_Frequently,30,1.0,2,3.0,Present,1.5,,,True
+1540,Aarav Joshi,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Nisha Agarwal,2013-12-20,12.58,59231.0,Phd,Non-Travel,42,2.0,1,2.0,Present,0.0,,,True
+1541,Isha Tiwari,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Kavya Iyer,2019-01-16,7.5,82917.0,Bachelor'S,Non-Travel,45,5.0,3,5.0,,,,,True
+1542,Sanjay Nair,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Sneha Kumar,2020-06-16,6.09,65069.0,Phd,Non-Travel,51,3.0,3,1.0,Present,3.0,,,True
+1543,Sanjay Reddy,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Ashok Tiwari,2018-07-05,8.04,76271.0,Bachelor'S,Travel_Rarely,6,2.0,3,4.0,,,,,True
+1544,Isha Verma,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Suresh Malhotra,2025-10-01,0.8,52695.0,High School,Non-Travel,17,1.0,4,5.0,Present,3.0,,,True
+1545,Nikhil Kumar,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2018-05-08,8.2,27498.0,Master'S,Travel_Rarely,22,4.0,4,1.0,Present,2.0,,,True
+1546,Isha Kapoor,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Kavita Saxena,2023-10-31,2.72,57668.0,Master'S,Non-Travel,15,2.0,1,5.0,Present,0.0,,,True
+1547,Kavita Nair,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Preeti Kapoor,2013-09-25,12.81,63816.0,High School,Travel_Rarely,51,1.0,4,4.0,,,,,True
+1548,Deepak Sharma,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Preeti Saxena,2016-10-04,9.79,73034.0,High School,Non-Travel,23,,4,4.0,Present,0.0,,,True
+1549,Nikhil Chopra,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Suresh Saxena,2012-02-24,14.4,59548.0,Phd,Travel_Frequently,5,5.0,1,4.0,,,,,True
+1550,Rahul Yadav,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Kavya Iyer,2018-02-15,4.33,67776.0,Diploma,Travel_Rarely,6,4.0,4,3.0,Present,2.0,2022-06-15,Better Opportunity,False
+1551,Shreya Chopra,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Kavya Bansal,2019-06-17,7.09,46299.0,Master'S,Non-Travel,21,2.0,3,2.0,Work From Home,1.0,,,True
+1552,Nikhil Chopra,Male,Operations,Operations Manager,Chennai,Tamil Nadu,India,Shreya Kapoor,2015-10-20,6.8,54851.0,Bachelor'S,Non-Travel,28,4.0,1,2.0,Present,1.0,2022-08-07,Health Reasons,False
+1553,Rohan Mehta,Male,Finance,Accountant,Mumbai,Maharashtra,India,Ananya Reddy,2023-10-14,2.76,68455.0,Bachelor'S,Travel_Rarely,22,4.0,1,1.0,,,,,True
+1554,Isha Rao,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Shreya Kapoor,2020-01-08,6.53,76799.0,High School,Travel_Frequently,10,,2,2.0,Present,2.0,,,True
+1555,Sakshi Iyer,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Preeti Kapoor,2017-04-29,9.22,51509.0,Bachelor'S,Travel_Rarely,2,4.0,4,1.0,,,,,True
+1556,Manish Singh,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Suresh Malhotra,2023-10-22,2.74,48785.0,Diploma,Travel_Frequently,43,3.0,2,2.0,Present,0.0,,,True
+1557,Divya Sharma,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Suresh Patel,2012-11-29,13.63,56532.0,Phd,Travel_Frequently,46,,1,3.0,Present,3.0,,,True
+1558,Preeti Chopra,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Manish Kumar,2017-09-10,8.85,44797.0,Bachelor'S,Non-Travel,43,2.0,3,2.0,Present,0.0,,,True
+1559,Neha Reddy,Female,IT,IT Manager,Jaipur,Rajasthan,India,,2017-01-27,9.47,82341.0,Bachelor'S,Travel_Frequently,32,1.0,1,3.0,,,,,True
+1560,Sakshi Singh,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Sanjay Singh,2022-10-20,3.75,44221.0,Phd,Travel_Rarely,50,,1,3.0,Present,2.0,,,True
+1561,Ritu Saxena,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Rohan Kapoor,2020-05-28,6.14,51503.0,High School,Travel_Frequently,42,1.0,2,2.0,Present,0.0,,,True
+1562,Ashok Iyer,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Divya Saxena,2022-10-19,3.75,82196.0,Phd,Travel_Frequently,33,2.0,3,4.0,,,,,True
+1563,Sneha Patel,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Preeti Sharma,2017-03-28,9.31,55908.0,Phd,Travel_Frequently,54,5.0,4,5.0,Leave,2.0,,,True
+1564,Neha Sharma,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Shreya Kapoor,2020-07-18,6.0,51367.0,High School,Travel_Rarely,53,5.0,5,5.0,,,,,True
+1565,Suresh Chopra,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Preeti Kapoor,2012-10-13,13.76,60000.0,Diploma,Travel_Rarely,14,3.0,2,3.0,Work From Home,0.0,,,True
+1566,Swati Iyer,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Divya Saxena,2025-06-16,1.09,53338.0,Diploma,Travel_Frequently,24,5.0,4,4.0,Work From Home,3.0,,,True
+1567,Swati Kapoor,Female,Finance,Accountant,Mumbai,Maharashtra,India,Vivaan Verma,2025-08-04,0.96,47000.0,Bachelor'S,Travel_Frequently,33,4.0,4,5.0,,,,,True
+1568,Suresh Kumar,Male,IT,IT Manager,Jaipur,Rajasthan,India,Sanjay Agarwal,2020-11-19,5.66,65401.0,Diploma,Non-Travel,18,2.0,1,4.0,Present,3.0,,,True
+1569,Suresh Bansal,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,,2010-04-10,16.27,44428.0,High School,Travel_Frequently,5,4.0,1,4.0,Work From Home,0.0,,,True
+1570,Aarav Kapoor,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Suresh Malhotra,2014-02-05,12.45,63841.0,High School,Travel_Frequently,54,,1,4.0,,,,,True
+1571,Ananya Reddy,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Riya Singh,2023-01-14,3.51,53382.0,Master'S,Travel_Rarely,13,,3,2.0,Absent,1.5,,,True
+1572,Kirti Sharma,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Suresh Malhotra,2019-12-06,6.62,63311.0,Master'S,Travel_Rarely,33,,4,4.0,,,,,True
+1573,Preeti Iyer,Female,IT,IT Manager,Jaipur,Rajasthan,India,Suresh Patel,2022-08-03,3.96,73525.0,Master'S,Non-Travel,29,3.0,3,2.0,Leave,1.0,,,True
+1574,Aditya Iyer,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Pooja Singh,2016-11-06,9.7,60770.0,Master'S,Non-Travel,40,5.0,4,5.0,Leave,1.5,,,True
+1575,Sakshi Malhotra,Female,Finance,Accountant,Mumbai,Maharashtra,India,Suresh Saxena,2020-08-02,3.0,70548.0,Phd,Travel_Rarely,1,2.0,1,3.0,,,2023-08-04,Relocation,False
+1576,Kavya Kapoor,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Nisha Singh,2025-10-18,0.75,47000.0,Diploma,Travel_Frequently,33,3.0,5,4.0,Present,2.0,,,True
+1577,Rajesh Bansal,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Kavya Kapoor,2024-10-15,1.76,39490.0,Bachelor'S,Travel_Frequently,24,2.0,1,2.0,,,,,True
+1578,Rajesh Malhotra,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Ashok Tiwari,2016-09-14,6.44,80908.0,High School,Non-Travel,51,1.0,5,1.0,,,2023-02-24,Career Growth,False
+1579,Nisha Reddy,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Kavya Bansal,2015-02-09,11.44,65308.0,Master'S,Travel_Rarely,52,5.0,4,4.0,,,,,True
+1580,Priya Tiwari,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Riya Singh,2017-05-03,9.21,62941.0,Phd,Travel_Frequently,55,3.0,4,2.0,,,,,True
+1581,Vivaan Malhotra,Male,Finance,Auditor,Mumbai,Maharashtra,India,Sanjay Yadav,2013-05-31,13.13,77388.0,High School,Travel_Frequently,19,1.0,3,1.0,,,,,True
+1582,Rajesh Malhotra,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Priya Chopra,2023-02-09,2.5,61806.0,Phd,Non-Travel,50,1.0,3,4.0,Present,1.5,2025-08-09,Health Reasons,False
+1583,Vikram Saxena,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Rahul Chopra,2017-01-27,9.47,84248.0,High School,Travel_Rarely,8,4.0,1,4.0,,,,,True
+1584,Anil Verma,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Kirti Chopra,2014-06-16,12.09,60000.0,Diploma,Travel_Rarely,48,3.0,2,5.0,Present,0.0,,,True
+1585,Arjun Gupta,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Suresh Patel,2021-05-30,5.14,74131.0,Master'S,Non-Travel,45,2.0,3,4.0,,,,,True
+1586,Priya Nair,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Kavya Bansal,2015-08-02,10.96,78828.0,Bachelor'S,Travel_Frequently,27,5.0,5,2.0,,,,,True
+1587,Karan Joshi,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,,2014-07-30,11.97,56259.0,Master'S,Travel_Frequently,10,5.0,1,1.0,Present,1.5,,,True
+1588,Karan Singh,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Rajesh Iyer,2012-01-25,11.82,59903.0,High School,Travel_Rarely,31,,5,1.0,Present,0.0,2023-11-22,Better Opportunity,False
+1589,Sakshi Singh,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Ritu Nair,2022-10-24,3.73,47215.0,High School,Non-Travel,17,1.0,2,2.0,,,,,True
+1590,Kirti Agarwal,Female,Finance,Accountant,Mumbai,Maharashtra,India,Vikram Nair,2019-06-20,7.08,58745.0,Diploma,Non-Travel,41,2.0,3,5.0,,,,,True
+1591,Priya Tiwari,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Shreya Mehta,2014-03-19,12.33,54053.0,Bachelor'S,Travel_Rarely,22,2.0,5,5.0,Present,1.5,,,True
+1592,Preeti Kapoor,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Preeti Sharma,2021-08-23,1.43,45506.0,High School,Travel_Frequently,46,2.0,3,4.0,,,2023-01-27,Retirement,False
+1593,Preeti Gupta,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Pooja Singh,2021-06-17,5.09,71434.0,Diploma,Travel_Frequently,34,3.0,4,4.0,Work From Home,1.5,,,True
+1594,Suresh Patel,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Sanjay Singh,2013-05-30,13.14,64354.0,Master'S,Travel_Rarely,9,3.0,4,5.0,Present,0.0,,,True
+1595,Riya Yadav,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Sneha Gupta,2013-03-23,12.4,67000.0,Phd,Non-Travel,54,5.0,3,1.0,Present,0.0,2025-08-16,Not Specified,False
+1596,Anil Singh,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Neha Mehta,2013-03-12,10.43,75929.0,Master'S,Non-Travel,35,1.0,1,2.0,Present,2.0,2023-08-17,Health Reasons,False
+1597,Divya Verma,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Vikram Bansal,2024-01-23,2.49,41539.0,Phd,Travel_Rarely,16,4.0,5,2.0,,,,,True
+1598,Kavita Verma,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2016-03-09,10.36,49687.0,Master'S,Travel_Frequently,32,3.0,4,2.0,Present,1.5,,,True
+1599,Preeti Yadav,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Shreya Chopra,2010-12-11,15.6,59833.0,Phd,Travel_Rarely,46,3.0,3,5.0,Present,0.0,,,True
+1600,Kirti Agarwal,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Suresh Rao,2024-02-02,2.1,51675.0,Master'S,Travel_Frequently,30,2.0,5,2.0,,,2026-03-11,Not Specified,False
+1601,Meera Iyer,Female,Finance,Auditor,Mumbai,Maharashtra,India,Sneha Kumar,2011-01-27,15.47,80000.0,Master'S,Non-Travel,55,,3,2.0,Present,0.0,,,True
+1602,Rajesh Rao,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Ashok Nair,2019-02-09,7.44,45755.0,Bachelor'S,Non-Travel,21,2.0,2,,,,,,True
+1603,Preeti Saxena,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Rahul Chopra,2025-08-08,0.94,68341.0,Master'S,Travel_Rarely,7,4.0,5,3.0,Leave,1.5,,,True
+1604,Sakshi Tiwari,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Amit Patel,2010-12-01,15.63,67000.0,Diploma,Travel_Frequently,52,2.0,1,5.0,,,,,True
+1605,Ashok Bansal,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Preeti Saxena,2022-05-13,4.18,44554.0,Bachelor'S,Travel_Rarely,24,2.0,5,3.0,Present,1.0,,,True
+1606,Neha Kumar,Female,IT,System Admin,Jaipur,Rajasthan,India,Ananya Reddy,2022-01-27,4.47,86696.0,Diploma,Travel_Frequently,45,5.0,2,2.0,Work From Home,3.0,,,True
+1607,Divya Tiwari,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Kavita Saxena,2019-10-28,6.32,48869.0,Diploma,Travel_Frequently,23,1.0,2,,,,2026-02-23,Compensation,False
+1608,Ashok Bansal,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Shreya Malhotra,2014-10-29,11.72,47603.0,Phd,Travel_Rarely,1,5.0,2,2.0,,,,,True
+1609,Vivaan Yadav,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Preeti Kapoor,2014-05-14,12.18,46020.0,High School,Travel_Rarely,37,2.0,4,1.0,,,,,True
+1610,Swati Kumar,Female,IT,System Admin,Jaipur,Rajasthan,India,Kavya Bansal,2016-12-24,9.57,90000.0,High School,Travel_Rarely,49,2.0,4,2.0,Present,1.5,,,True
+1611,Varun Verma,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Rohan Kapoor,2010-01-15,16.51,90000.0,Diploma,Travel_Rarely,12,1.0,1,3.0,,,,,True
+1612,Ashok Joshi,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Sanjay Agarwal,2013-12-25,12.56,78381.0,Bachelor'S,Travel_Rarely,44,1.0,1,2.0,Present,1.5,,,True
+1613,Riya Yadav,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Rohan Joshi,2024-10-08,1.78,64873.0,Master'S,Travel_Rarely,3,3.0,1,1.0,,,,,True
+1614,Siddharth Gupta,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Divya Saxena,2022-04-03,4.29,62407.0,Master'S,Travel_Rarely,36,1.0,2,3.0,Present,0.0,,,True
+1615,Ananya Agarwal,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Sanjay Agarwal,2016-11-20,9.66,70000.0,Master'S,Travel_Rarely,35,5.0,2,2.0,Present,2.0,,,True
+1616,Siddharth Joshi,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Kavya Iyer,2020-04-03,6.29,55444.0,Master'S,Travel_Frequently,8,4.0,5,4.0,,,,,True
+1617,Isha Chopra,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Ashok Nair,2019-01-06,7.53,60147.0,Bachelor'S,Travel_Frequently,48,1.0,3,5.0,Present,0.0,,,True
+1618,Sunita Nair,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Ashok Nair,2023-06-18,3.09,73000.0,Master'S,Non-Travel,35,2.0,1,,,,,,True
+1619,Shreya Saxena,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Kirti Malhotra,2015-11-13,10.68,74846.0,High School,Travel_Rarely,7,1.0,5,2.0,Present,1.5,,,True
+1620,Vivaan Iyer,Male,Operations,Operations Manager,Chennai,Tamil Nadu,India,Amit Tiwari,2013-03-15,13.34,61788.0,High School,Travel_Rarely,17,1.0,5,4.0,,,,,True
+1621,Anil Chopra,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Kirti Malhotra,2011-06-06,10.77,76336.0,Bachelor'S,Non-Travel,10,4.0,4,2.0,,,2022-03-15,Retirement,False
+1622,Manish Agarwal,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Pooja Singh,2017-03-20,9.33,62744.0,Phd,Non-Travel,49,,5,4.0,Present,3.0,,,True
+1623,Kirti Chopra,Female,Finance,Auditor,Mumbai,Maharashtra,India,Suresh Reddy,2015-05-01,11.22,80000.0,Diploma,Travel_Frequently,47,4.0,5,1.0,,,,,True
+1624,Suresh Sharma,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Sanjay Singh,2020-04-25,5.54,60083.0,Master'S,Travel_Frequently,29,4.0,4,1.0,,,2025-11-08,Not Specified,False
+1625,Sunita Kumar,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Sanjay Singh,2025-12-25,0.56,61559.0,Bachelor'S,Non-Travel,26,,1,4.0,,,,,True
+1626,Sakshi Malhotra,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Amit Tiwari,2017-07-29,4.84,54344.0,Diploma,Travel_Frequently,44,3.0,4,2.0,,,2022-05-30,Career Growth,False
+1627,Vikram Malhotra,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Riya Kapoor,2012-12-05,13.62,77491.0,High School,Non-Travel,1,5.0,1,5.0,,,,,True
+1628,Rajesh Joshi,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Sanjay Agarwal,2016-11-24,9.65,61443.0,High School,Non-Travel,10,3.0,3,2.0,Present,0.0,,,True
+1629,Isha Saxena,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Manish Kumar,2025-06-23,1.07,37019.0,Master'S,Non-Travel,38,1.0,5,5.0,,,,,True
+1630,Deepak Sharma,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Riya Singh,2017-09-17,8.84,56982.0,Diploma,Travel_Rarely,46,4.0,2,2.0,,,,,True
+1631,Priya Yadav,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Amit Patel,2014-04-23,12.24,44797.0,Bachelor'S,Travel_Rarely,28,5.0,3,,Present,0.0,,,True
+1632,Neha Mehta,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Manish Kumar,2010-03-29,16.31,60790.0,Bachelor'S,Travel_Frequently,55,3.0,1,3.0,,,,,True
+1633,Suresh Nair,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,,2015-12-25,10.57,62561.0,Diploma,Non-Travel,5,3.0,2,4.0,,,,,True
+1634,Vivaan Gupta,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Priya Chopra,2017-08-26,8.9,54904.0,Diploma,Travel_Frequently,6,1.0,2,4.0,Work From Home,0.0,,,True
+1635,Sneha Reddy,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Sanjay Joshi,2017-03-09,9.36,50920.0,Phd,Travel_Rarely,12,1.0,4,,,,,,True
+1636,Kavya Saxena,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Amit Bansal,2011-09-13,14.85,57014.0,Bachelor'S,Travel_Rarely,17,1.0,5,1.0,,,,,True
+1637,Shreya Patel,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Pooja Singh,2011-05-10,15.19,67000.0,Bachelor'S,Travel_Frequently,5,,2,4.0,,,,,True
+1638,Swati Joshi,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Sneha Kumar,2020-12-20,5.58,43924.0,Master'S,Travel_Rarely,29,5.0,4,5.0,P,1.0,,,True
+1639,Vikram Mehta,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,,2018-12-17,7.59,41035.0,Master'S,Travel_Rarely,22,1.0,5,4.0,Present,0.0,,,True
+1640,Sneha Reddy,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Shreya Malhotra,2021-03-12,5.48,32640.0,Diploma,Travel_Rarely,52,5.0,2,5.0,,,2026-09-03,Health Reasons,False
+1641,Rajesh Rao,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Sanjay Singh,2021-11-17,4.67,44287.0,Diploma,Travel_Rarely,45,2.0,3,4.0,P,0.0,,,True
+1642,Divya Saxena,Female,IT,IT Manager,Jaipur,Rajasthan,India,Rohan Joshi,2014-05-12,12.19,90000.0,Diploma,Travel_Frequently,31,5.0,1,5.0,Present,1.5,,,True
+1643,Kavya Yadav,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Suresh Malhotra,2021-01-04,5.54,71199.0,Diploma,Non-Travel,31,3.0,1,1.0,,,,,True
+1644,Preeti Kumar,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Preeti Sharma,2017-01-17,9.5,57202.0,Diploma,Travel_Frequently,19,5.0,5,3.0,,,,,True
+1645,Sanjay Nair,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Rahul Chopra,2010-07-27,15.98,69984.0,Phd,Travel_Rarely,7,1.0,3,1.0,,,,,True
+1646,Shreya Patel,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Kavya Bansal,2012-10-12,12.41,78448.0,Bachelor'S,Non-Travel,21,3.0,4,2.0,Present,1.0,2025-03-11,Not Specified,False
+1647,Kirti Tiwari,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Rahul Chopra,2012-12-16,13.59,43787.0,Bachelor'S,Travel_Rarely,22,1.0,4,3.0,,,,,True
+1648,Sunita Kumar,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Nisha Sharma,2012-08-02,13.96,62487.0,Diploma,Non-Travel,3,2.0,3,3.0,,,,,True
+1649,Siddharth Mehta,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Vikram Nair,2024-03-24,2.32,77005.0,Phd,Non-Travel,15,4.0,5,2.0,Present,0.0,,,True
+1650,Ritu Patel,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Vikram Nair,2024-01-29,2.46,49243.0,Bachelor'S,Travel_Rarely,8,4.0,4,5.0,Absent,1.5,2026-07-15,Career Growth,False
+1651,Riya Patel,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Preeti Sharma,2014-08-12,11.93,67000.0,Diploma,Travel_Rarely,14,5.0,4,2.0,Present,0.0,,,True
+1652,Rajesh Reddy,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Nisha Agarwal,2017-05-05,9.2,57796.0,Diploma,Travel_Frequently,7,5.0,3,2.0,,,,,True
+1653,Amit Sharma,Male,Finance,Auditor,Mumbai,Maharashtra,India,Sanjay Singh,2022-09-28,3.81,58528.0,High School,Non-Travel,8,4.0,5,1.0,Present,2.0,,,True
+1654,Aditya Sharma,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Suresh Patel,2012-07-11,14.02,47160.0,Diploma,Non-Travel,26,3.0,5,5.0,,,,,True
+1655,Kavita Patel,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Kavya Bansal,2011-06-01,15.13,70000.0,Diploma,Travel_Frequently,29,5.0,5,5.0,,,,,True
+1656,Preeti Bansal,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Sneha Kumar,2018-03-02,8.38,61020.0,Bachelor'S,Non-Travel,38,4.0,4,1.0,,,,,True
+1657,Kavya Bansal,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Kavya Iyer,2023-07-04,3.04,44644.0,Bachelor'S,Travel_Frequently,10,4.0,1,3.0,,,,,True
+1658,Gaurav Kumar,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Rahul Chopra,2019-05-26,7.15,58504.0,Diploma,Travel_Rarely,8,5.0,1,1.0,Leave,2.0,,,True
+1659,Ritu Chopra,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Vivaan Verma,2019-02-25,7.39,60651.0,Phd,Travel_Rarely,10,3.0,3,2.0,,,,,True
+1660,Shreya Reddy,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Sneha Gupta,2010-05-13,16.18,65104.0,High School,Travel_Rarely,22,5.0,2,3.0,Present,1.5,,,True
+1661,Sakshi Tiwari,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Shreya Chopra,2021-03-19,5.33,48383.0,Phd,Travel_Frequently,32,4.0,2,5.0,Present,1.0,,,True
+1662,Nikhil Nair,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Nisha Malhotra,2018-07-09,8.03,49641.0,Diploma,Travel_Rarely,7,5.0,5,4.0,,,,,True
+1663,Siddharth Kapoor,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Ashok Nair,2025-08-20,0.91,43073.0,Master'S,Non-Travel,3,5.0,5,1.0,Present,1.5,,,True
+1664,Vivaan Reddy,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Sanjay Joshi,2010-02-16,16.42,55264.0,Phd,Non-Travel,46,1.0,5,2.0,,,,,True
+1665,Karan Kumar,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Deepak Rao,2021-02-16,5.42,62397.0,Master'S,Non-Travel,6,1.0,1,1.0,,,,,True
+1666,Ritu Iyer,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Riya Singh,2013-08-20,12.91,80199.0,Phd,Non-Travel,13,4.0,1,2.0,,,,,True
+1667,Suresh Verma,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Vikram Nair,2024-12-08,1.09,45343.0,Master'S,Travel_Rarely,14,3.0,2,3.0,,,2026-01-11,Retirement,False
+1668,Vikram Kumar,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Kirti Chopra,2021-07-07,5.03,79552.0,Master'S,Travel_Rarely,50,4.0,3,5.0,,,,,True
+1669,Sunita Kapoor,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Pooja Singh,2023-10-17,2.75,40000.0,High School,Travel_Frequently,2,,1,1.0,,,,,True
+1670,Aarav Joshi,Male,Finance,Auditor,Mumbai,Maharashtra,India,Pooja Reddy,2020-06-02,4.08,72896.0,Master'S,Travel_Frequently,36,3.0,2,4.0,,,2024-06-30,Not Specified,False
+1671,Nikhil Mehta,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Ashok Nair,2021-08-06,4.95,59365.0,Bachelor'S,Travel_Frequently,13,1.0,2,,Leave,0.0,,,True
+1672,Divya Nair,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Amit Patel,2023-10-02,2.8,32000.0,Master'S,Travel_Frequently,12,1.0,2,5.0,Present,0.0,,,True
+1673,Arjun Yadav,Male,IT,System Admin,Jaipur,Rajasthan,India,Preeti Mehta,2021-02-23,5.4,70329.0,High School,Travel_Frequently,26,5.0,1,,Leave,0.0,,,True
+1674,Nisha Saxena,Female,Finance,Auditor,Mumbai,Maharashtra,India,Riya Singh,2015-12-17,10.59,67887.0,Bachelor'S,Non-Travel,55,1.0,4,4.0,,,,,True
+1675,Aditya Malhotra,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Amit Tiwari,2022-09-16,3.84,42468.0,Bachelor'S,Travel_Rarely,54,2.0,2,3.0,Present,3.0,,,True
+1676,Karan Chopra,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Preeti Sharma,2012-01-17,14.5,63513.0,Phd,Non-Travel,15,3.0,3,5.0,,,,,True
+1677,Kirti Yadav,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Sanjay Yadav,2011-11-03,14.71,53159.0,Master'S,Travel_Frequently,22,5.0,5,2.0,,,,,True
+1678,Sakshi Reddy,Female,IT,System Admin,Jaipur,Rajasthan,India,Priya Chopra,2011-09-26,14.81,90000.0,Bachelor'S,Travel_Rarely,39,4.0,3,5.0,,,,,True
+1679,Vivaan Kapoor,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Preeti Saxena,2017-09-28,8.8,60344.0,Bachelor'S,Non-Travel,11,5.0,5,5.0,P,0.0,,,True
+1680,Aarav Chopra,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Nisha Agarwal,2015-02-16,11.42,90000.0,Master'S,Non-Travel,15,,4,3.0,,,,,True
+1681,Ashok Verma,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Suresh Malhotra,2020-07-19,6.0,74744.0,Diploma,Non-Travel,50,1.0,2,4.0,Present,1.0,,,True
+1682,Varun Patel,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Kavya Bansal,2013-11-08,12.69,57986.0,Phd,Travel_Frequently,51,2.0,2,3.0,Present,0.0,,,True
+1683,Rahul Patel,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Preeti Sharma,2013-01-18,13.5,70000.0,Phd,Travel_Frequently,37,3.0,4,5.0,,,,,True
+1684,Isha Agarwal,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Divya Saxena,2010-10-26,15.73,60000.0,Bachelor'S,Non-Travel,49,4.0,4,,,,,,True
+1685,Deepak Tiwari,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Preeti Sharma,2015-06-26,11.06,66796.0,Diploma,Non-Travel,16,1.0,2,5.0,,,,,True
+1686,Meera Verma,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Kavita Saxena,2024-08-27,1.89,73510.0,High School,Travel_Rarely,13,1.0,2,,,,,,True
+1687,Vikram Saxena,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Preeti Sharma,2021-06-05,5.12,60729.0,Phd,Non-Travel,29,5.0,5,5.0,,,,,True
+1688,Vikram Chopra,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Vivaan Verma,2024-03-31,2.3,65420.0,Diploma,Travel_Rarely,37,5.0,4,2.0,,,,,True
+1689,Preeti Tiwari,Female,Finance,Accountant,Mumbai,Maharashtra,India,Vikram Bansal,2011-06-27,15.06,80000.0,Master'S,Travel_Frequently,47,1.0,1,1.0,Present,2.0,,,True
+1690,Kirti Saxena,Female,IT,IT Manager,Jaipur,Rajasthan,India,Divya Saxena,2013-06-28,13.06,88119.0,Master'S,Travel_Rarely,22,,3,5.0,,,,,True
+1691,Ananya Tiwari,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Amit Bansal,2013-04-27,13.23,71932.0,Bachelor'S,Travel_Frequently,26,1.0,1,,,,,,True
+1692,Ashok Bansal,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Sanjay Yadav,2019-02-08,7.44,62411.0,Master'S,Travel_Frequently,14,4.0,2,2.0,Present,0.0,,,True
+1693,Rajesh Patel,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Preeti Sharma,2012-04-04,14.29,77766.0,High School,Non-Travel,3,1.0,1,2.0,Present,1.0,,,True
+1694,Kirti Gupta,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Rohan Joshi,2017-05-28,9.14,63616.0,Master'S,Travel_Rarely,38,2.0,3,3.0,,,,,True
+1695,Kavya Gupta,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Rajesh Iyer,2013-07-13,13.02,59248.0,Master'S,Travel_Frequently,20,4.0,3,4.0,,,,,True
+1696,Sanjay Mehta,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Pooja Singh,2013-05-03,13.21,65319.0,Bachelor'S,Travel_Frequently,16,2.0,3,1.0,,,,,True
+1697,Riya Bansal,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Priya Chopra,2018-10-07,7.78,59255.0,Bachelor'S,Non-Travel,53,1.0,1,4.0,,,,,True
+1698,Kirti Patel,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Suresh Malhotra,2019-04-30,7.22,45795.0,Diploma,Travel_Rarely,3,5.0,3,3.0,,,,,True
+1699,Anjali Sharma,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Ritu Nair,2013-04-25,13.23,67000.0,Diploma,Travel_Frequently,52,1.0,2,3.0,,,,,True
+1700,Preeti Kapoor,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Suresh Reddy,2010-05-27,16.15,67722.0,Bachelor'S,Non-Travel,29,1.0,4,5.0,Leave,0.0,,,True
+1701,Gaurav Nair,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Suresh Malhotra,2010-11-29,15.64,59255.0,Phd,Travel_Rarely,2,,2,1.0,Present,1.5,,,True
+1702,Sakshi Verma,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Vikram Nair,2021-12-24,4.57,50213.0,High School,Non-Travel,22,3.0,4,4.0,,,,,True
+1703,Amit Patel,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Suresh Patel,2013-08-18,11.1,68721.0,Diploma,Non-Travel,16,3.0,1,5.0,Present,1.0,2024-09-25,Retirement,False
+1704,Isha Singh,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Vikram Bansal,2021-03-23,5.32,31688.0,Bachelor'S,Travel_Rarely,52,3.0,5,,,,,,True
+1705,Vivaan Patel,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Kirti Chopra,2021-09-16,4.84,54775.0,Master'S,Travel_Frequently,50,2.0,1,5.0,Present,0.0,,,True
+1706,Kirti Gupta,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Neha Mehta,2020-04-08,6.28,62238.0,Bachelor'S,Travel_Rarely,48,5.0,1,3.0,,,,,True
+1707,Vikram Singh,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Shreya Kapoor,2022-06-01,4.13,37925.0,Master'S,Non-Travel,55,3.0,2,2.0,,,,,True
+1708,Amit Chopra,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Sneha Kumar,2019-03-30,7.3,84969.0,Diploma,Non-Travel,34,5.0,2,4.0,,,,,True
+1709,Amit Mehta,Male,IT,Software Engineer,Jaipur,Rajasthan,India,Vikram Bansal,2022-12-05,3.62,57000.0,Phd,Travel_Frequently,35,5.0,3,,Present,3.0,,,True
+1710,Ananya Rao,Female,Operations,Operations Manager,Chennai,Tamil Nadu,India,Sneha Gupta,2011-03-03,15.38,65000.0,Phd,Travel_Rarely,11,2.0,3,4.0,,,,,True
+1711,Rajesh Patel,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Aditya Verma,2010-05-18,14.23,85000.0,Diploma,Travel_Frequently,16,5.0,4,5.0,,,2024-08-11,Better Opportunity,False
+1712,Siddharth Rao,Male,IT,System Admin,Jaipur,Rajasthan,India,Pooja Reddy,2023-04-02,3.29,69141.0,High School,Travel_Rarely,38,1.0,4,3.0,,,2026-07-15,Retirement,False
+1713,Gaurav Singh,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Vivaan Verma,2010-11-26,15.64,67089.0,Diploma,Travel_Frequently,1,4.0,3,3.0,Present,0.0,,,True
+1714,Aditya Joshi,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Nisha Agarwal,2024-10-16,1.75,70794.0,Diploma,Travel_Rarely,18,4.0,3,3.0,Present,0.0,,,True
+1715,Aarav Verma,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Shreya Chopra,2014-07-28,7.55,52641.0,Master'S,Travel_Rarely,42,2.0,3,5.0,Present,3.0,2022-02-15,Compensation,False
+1716,Sunita Nair,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Riya Singh,2019-10-30,6.72,71902.0,Bachelor'S,Travel_Frequently,17,3.0,5,5.0,,,,,True
+1717,Sunita Sharma,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Rohan Kapoor,2016-05-05,10.2,58197.0,Master'S,Non-Travel,10,4.0,4,1.0,,,,,True
+1718,Kirti Mehta,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Nisha Sharma,2014-03-15,12.34,64699.0,Phd,Travel_Frequently,23,4.0,2,2.0,Present,0.0,,,True
+1719,Rajesh Verma,Male,IT,IT Manager,Jaipur,Rajasthan,India,Sanjay Singh,2015-05-30,11.14,78776.0,High School,Travel_Rarely,27,2.0,2,5.0,,,,,True
+1720,Kavya Iyer,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Vikram Bansal,2012-03-04,14.37,65089.0,Bachelor'S,Travel_Frequently,8,4.0,1,5.0,,,,,True
+1721,Aarav Bansal,Male,Finance,Accountant,Mumbai,Maharashtra,India,Suresh Reddy,2025-08-10,0.94,58839.0,Phd,Non-Travel,28,2.0,3,2.0,,,,,True
+1722,Rohan Singh,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Nisha Malhotra,2013-11-10,9.55,50329.0,Diploma,Non-Travel,3,2.0,4,4.0,Present,0.0,2023-05-30,Not Specified,False
+1723,Kavita Kumar,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Suresh Patel,2018-06-25,8.07,67000.0,Diploma,Non-Travel,28,3.0,3,5.0,,,,,True
+1724,Nisha Patel,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Vikram Nair,2013-11-11,12.68,72952.0,Master'S,Travel_Rarely,50,3.0,4,3.0,Present,2.0,,,True
+1725,Vikram Verma,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Sneha Gupta,2020-10-01,5.8,58034.0,Diploma,Travel_Frequently,55,2.0,1,1.0,Present,2.0,,,True
+1726,Rajesh Agarwal,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Kirti Malhotra,2013-01-20,13.49,60747.0,Diploma,Travel_Rarely,5,2.0,3,1.0,Present,1.5,,,True
+1727,Nisha Patel,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Kirti Chopra,2010-09-29,15.8,78835.0,Phd,Non-Travel,45,5.0,3,2.0,Present,1.0,,,True
+1728,Ananya Yadav,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Shreya Malhotra,2017-01-06,9.53,62053.0,Phd,Travel_Frequently,31,2.0,4,,Present,0.0,,,True
+1729,Karan Rao,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Kavya Kapoor,2020-07-08,6.03,49698.0,Bachelor'S,Travel_Rarely,47,5.0,5,2.0,Work From Home,0.0,,,True
+1730,Rahul Malhotra,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Kavya Iyer,2015-02-10,11.44,70906.0,Master'S,Travel_Rarely,14,2.0,3,2.0,,,,,True
+1731,Sakshi Joshi,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Kirti Malhotra,2011-06-13,10.66,69198.0,High School,Travel_Frequently,47,,2,1.0,Present,0.0,2022-02-10,Not Specified,False
+1732,Swati Iyer,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Aditya Verma,2014-03-18,12.34,58657.0,Diploma,Travel_Frequently,42,1.0,4,2.0,Present,0.0,,,True
+1733,Rohan Iyer,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Kavya Kapoor,2021-11-07,4.7,50281.0,Master'S,Travel_Rarely,49,5.0,2,2.0,,,,,True
+1734,Anil Iyer,Male,IT,IT Manager,Jaipur,Rajasthan,India,Suresh Malhotra,2025-04-28,1.22,57000.0,Bachelor'S,Travel_Frequently,53,2.0,1,3.0,Present,3.0,,,True
+1735,Aditya Joshi,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Kavya Kapoor,2016-03-06,10.66,71763.0,High School,Non-Travel,14,2.0,2,4.0,Present,3.0,2026-11-01,Health Reasons,False
+1736,Riya Agarwal,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Riya Kapoor,2012-09-27,13.81,79472.0,High School,Non-Travel,39,1.0,5,5.0,,,,,True
+1737,Nikhil Reddy,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Ritu Nair,2017-03-31,9.7,75975.0,Phd,Travel_Rarely,25,2.0,3,5.0,,,2026-12-13,Better Opportunity,False
+1738,Rohan Patel,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Manish Kumar,2010-08-29,15.89,73000.0,Bachelor'S,Travel_Frequently,45,4.0,4,5.0,,,,,True
+1739,Manish Sharma,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Gaurav Iyer,2023-09-05,2.87,65597.0,Phd,Non-Travel,15,4.0,2,3.0,Present,0.0,,,True
+1740,Manish Reddy,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Deepak Rao,2023-08-10,2.94,72495.0,Bachelor'S,Travel_Frequently,35,3.0,4,4.0,,,,,True
+1741,Rajesh Iyer,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,,2019-10-07,6.78,30419.0,High School,Non-Travel,34,2.0,2,5.0,Present,0.0,,,True
+1742,Rohan Chopra,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Amit Bansal,2017-03-09,9.36,63781.0,Phd,Travel_Rarely,37,1.0,1,1.0,,,,,True
+1743,Ashok Reddy,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Kavita Saxena,2010-11-27,15.64,73446.0,Phd,Non-Travel,27,,4,2.0,,,,,True
+1744,Aarav Singh,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Rohan Kapoor,2025-07-25,0.7,66651.0,High School,Travel_Rarely,38,5.0,1,2.0,,,2026-04-06,Career Growth,False
+1745,Sakshi Tiwari,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Shreya Malhotra,2022-05-25,4.15,50338.0,Phd,Travel_Frequently,25,,5,5.0,,,,,True
+1746,Sanjay Sharma,Male,Finance,Accountant,Mumbai,Maharashtra,India,Nisha Singh,2014-04-09,12.28,67588.0,High School,Travel_Frequently,45,5.0,3,4.0,Present,3.0,,,True
+1747,Deepak Malhotra,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Kavya Bansal,2014-11-04,11.7,64029.0,Diploma,Non-Travel,43,1.0,4,1.0,,,,,True
+1748,Priya Joshi,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Suresh Malhotra,2025-08-04,0.96,35358.0,High School,Travel_Rarely,37,1.0,4,2.0,,,,,True
+1749,Rohan Saxena,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Preeti Mehta,2025-01-27,1.47,32285.0,Diploma,Travel_Rarely,35,1.0,1,1.0,,,,,True
+1750,Ananya Sharma,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Nisha Sharma,2015-01-07,8.08,85000.0,Master'S,Non-Travel,5,,1,1.0,,,2023-02-05,Better Opportunity,False
+1751,Aarav Gupta,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Kirti Malhotra,2016-04-06,10.28,48016.0,Diploma,Travel_Rarely,42,1.0,3,2.0,,,,,True
+1752,Amit Nair,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Ananya Reddy,2019-12-06,6.62,44086.0,Diploma,Non-Travel,36,5.0,3,5.0,Present,3.0,,,True
+1753,Sunita Verma,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Ritu Rao,2015-11-29,10.64,68125.0,Diploma,Travel_Rarely,46,1.0,4,2.0,Present,0.0,,,True
+1754,Pooja Kapoor,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Sneha Gupta,2025-03-17,1.34,52405.0,Master'S,Travel_Frequently,37,4.0,1,5.0,Present,3.0,,,True
+1755,Neha Saxena,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Rohan Joshi,2023-04-17,3.26,52258.0,High School,Travel_Rarely,19,5.0,3,4.0,Work From Home,0.0,,,True
+1756,Pooja Chopra,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Vikram Bansal,2013-03-07,13.37,60000.0,Master'S,Travel_Frequently,53,4.0,3,1.0,,,,,True
+1757,Isha Tiwari,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Amit Bansal,2025-05-28,1.14,70627.0,Diploma,Travel_Frequently,21,2.0,5,2.0,Present,1.0,,,True
+1758,Priya Bansal,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Vivaan Verma,2020-09-23,5.82,50178.0,Bachelor'S,Travel_Rarely,35,1.0,5,1.0,,,,,True
+1759,Suresh Mehta,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Shreya Malhotra,2025-03-23,1.32,55085.0,High School,Travel_Frequently,50,1.0,5,3.0,,,,,True
+1760,Kirti Chopra,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Rahul Chopra,2022-07-04,4.04,46635.0,Diploma,Travel_Rarely,52,3.0,1,4.0,Present,0.0,,,True
+1761,Sakshi Nair,Female,Finance,Accountant,Mumbai,Maharashtra,India,Amit Bansal,2023-08-02,2.96,54808.0,Master'S,Travel_Frequently,42,4.0,1,2.0,,,,,True
+1762,Nisha Chopra,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Preeti Sharma,2024-09-23,1.82,38671.0,Master'S,Travel_Frequently,32,3.0,4,2.0,,,,,True
+1763,Ritu Bansal,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Rohan Kapoor,2021-07-30,4.97,85000.0,Diploma,Non-Travel,45,1.0,1,5.0,,,,,True
+1764,Sunita Chopra,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Rohan Kapoor,2010-11-10,15.58,87746.0,Phd,Travel_Rarely,38,3.0,5,4.0,,,2026-06-10,Compensation,False
+1765,Isha Iyer,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Rahul Chopra,2018-10-12,7.77,80820.0,Bachelor'S,Travel_Frequently,44,3.0,4,2.0,Present,1.0,,,True
+1766,Isha Mehta,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Amit Bansal,2019-01-20,6.9,45589.0,High School,Travel_Frequently,26,4.0,5,5.0,,,2025-12-13,Not Specified,False
+1767,Sunita Saxena,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Sanjay Joshi,2017-03-10,9.36,78733.0,Phd,Non-Travel,54,2.0,2,1.0,,,,,True
+1768,Arjun Agarwal,Male,IT,System Admin,Jaipur,Rajasthan,India,Gaurav Iyer,2010-11-05,15.7,90000.0,Diploma,Travel_Rarely,40,3.0,4,5.0,,,,,True
+1769,Rahul Malhotra,Male,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Vikram Bansal,2010-05-12,16.19,54247.0,High School,Non-Travel,30,1.0,3,,Present,0.0,,,True
+1770,Preeti Verma,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Preeti Kapoor,2016-02-04,10.45,85000.0,Phd,Travel_Rarely,4,1.0,2,2.0,Work From Home,0.0,,,True
+1771,Nisha Saxena,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Shreya Chopra,2013-10-04,12.79,59825.0,Master'S,Travel_Rarely,51,5.0,3,2.0,,,,,True
+1772,Sanjay Yadav,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Shreya Chopra,2010-07-28,15.98,61446.0,Diploma,Non-Travel,9,5.0,5,4.0,,,,,True
+1773,Rajesh Mehta,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Kirti Malhotra,2020-10-11,5.77,55685.0,Phd,Travel_Rarely,25,3.0,3,3.0,,,,,True
+1774,Sneha Malhotra,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Suresh Rao,2019-11-23,6.65,52733.0,Bachelor'S,Non-Travel,5,3.0,5,2.0,,,,,True
+1775,Vikram Reddy,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Rahul Chopra,2024-06-21,2.08,67000.0,Diploma,Travel_Rarely,23,5.0,2,5.0,,,,,True
+1776,Deepak Patel,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Kavya Iyer,2020-05-31,6.13,56610.0,Bachelor'S,Travel_Frequently,6,5.0,1,5.0,,,,,True
+1777,Sunita Saxena,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Nisha Malhotra,2011-03-11,13.94,65200.0,Diploma,Travel_Frequently,38,4.0,5,2.0,Work From Home,0.0,2025-02-17,Career Growth,False
+1778,Isha Patel,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Nisha Singh,2019-03-29,7.31,68955.0,Phd,Non-Travel,11,2.0,2,4.0,,,,,True
+1779,Rajesh Saxena,Male,Finance,Finance Manager,Mumbai,Maharashtra,India,Divya Saxena,2012-09-27,13.81,75096.0,Phd,Travel_Rarely,17,3.0,4,3.0,,,,,True
+1780,Karan Kapoor,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Riya Singh,2022-10-22,0.84,45546.0,Diploma,Travel_Frequently,53,3.0,4,2.0,Present,3.0,2023-08-25,Not Specified,False
+1781,Vikram Kumar,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Ananya Reddy,2018-03-04,8.38,58959.0,Master'S,Travel_Frequently,33,,3,3.0,,,,,True
+1782,Ritu Joshi,Female,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,,2021-12-31,2.19,56110.0,Bachelor'S,Travel_Rarely,42,2.0,1,3.0,Present,0.0,2024-03-11,Personal Reasons,False
+1783,Pooja Kapoor,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Neha Mehta,2022-10-18,1.16,50638.0,High School,Travel_Rarely,13,5.0,3,1.0,,,2023-12-15,Retirement,False
+1784,Aarav Yadav,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Shreya Malhotra,2019-04-28,7.23,63697.0,Diploma,Non-Travel,11,4.0,4,4.0,Present,0.0,,,True
+1785,Kavita Kapoor,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Kavya Iyer,2023-08-04,2.96,68883.0,Master'S,Travel_Frequently,22,3.0,4,3.0,,,,,True
+1786,Arjun Yadav,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2022-10-29,3.72,62198.0,Bachelor'S,Non-Travel,10,1.0,5,4.0,,,,,True
+1787,Priya Saxena,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Preeti Saxena,2010-03-13,16.35,65000.0,Bachelor'S,Non-Travel,52,4.0,2,4.0,,,,,True
+1788,Gaurav Yadav,Male,IT,System Admin,Jaipur,Rajasthan,India,Rahul Chopra,2025-07-30,0.61,70095.0,Phd,Travel_Frequently,24,1.0,5,1.0,,,2026-03-09,Relocation,False
+1789,Amit Gupta,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Ritu Nair,2020-10-22,3.78,68019.0,High School,Travel_Frequently,47,1.0,4,2.0,,,2024-08-02,Compensation,False
+1790,Manish Iyer,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Vivaan Verma,2021-11-29,4.64,53636.0,Diploma,Non-Travel,16,2.0,4,4.0,Present,1.5,,,True
+1791,Swati Tiwari,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Amit Patel,2016-11-30,5.68,52861.0,Bachelor'S,Non-Travel,9,3.0,4,3.0,Present,2.0,2022-08-04,Better Opportunity,False
+1792,Aarav Saxena,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Kirti Chopra,2021-07-14,5.01,54153.0,High School,Non-Travel,28,5.0,3,3.0,Present,1.5,,,True
+1793,Nisha Singh,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Priya Chopra,2012-06-05,14.12,83332.0,Diploma,Non-Travel,4,3.0,5,1.0,,,,,True
+1794,Swati Rao,Female,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Priya Chopra,2012-07-24,13.98,62848.5,Master'S,Travel_Rarely,32,1.0,5,3.0,,,,,True
+1795,Arjun Yadav,Male,Operations,Operations Manager,Chennai,Tamil Nadu,India,Divya Saxena,2019-10-24,6.74,41428.0,High School,Travel_Rarely,26,,3,3.0,Present,0.0,,,True
+1796,Vivaan Singh,Male,Sales,Sales Associate,Bangalore,Karnataka,India,Pooja Singh,2020-11-22,5.65,61878.0,Phd,Travel_Frequently,37,1.0,2,2.0,Present,1.5,,,True
+1797,Kirti Sharma,Female,IT,System Admin,Jaipur,Rajasthan,India,Suresh Rao,2025-11-15,1.02,65661.0,Master'S,Travel_Frequently,32,1.0,5,2.0,Present,3.0,2026-11-22,Personal Reasons,False
+1798,Pooja Malhotra,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Suresh Reddy,2012-04-16,10.36,65000.0,Diploma,Travel_Rarely,12,1.0,5,3.0,,,2022-08-25,Retirement,False
+1799,Kirti Tiwari,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Preeti Sharma,2010-05-01,16.22,66534.0,Phd,Travel_Frequently,55,3.0,3,2.0,Work From Home,2.0,,,True
+1800,Rohan Nair,Male,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Ashok Nair,2018-04-14,8.26,54607.0,High School,Travel_Rarely,2,4.0,2,4.0,,,,,True
+1801,Ritu Sharma,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Amit Bansal,2016-10-27,9.72,64070.0,Bachelor'S,Non-Travel,35,1.0,1,2.0,Leave,1.0,,,True
+1802,Manish Bansal,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Rahul Chopra,2012-02-07,14.44,82520.0,Phd,Travel_Frequently,53,3.0,5,3.0,Work From Home,3.0,,,True
+1803,Preeti Agarwal,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Priya Chopra,2018-10-18,7.75,72370.0,High School,Non-Travel,51,4.0,2,3.0,Present,3.0,,,True
+1804,Preeti Iyer,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Rajesh Iyer,2025-02-13,1.43,58410.0,Master'S,Travel_Rarely,41,1.0,1,2.0,Present,0.0,,,True
+1805,Sakshi Chopra,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Shreya Malhotra,2023-09-21,2.83,40732.0,Diploma,Travel_Frequently,49,2.0,4,4.0,,,,,True
+1806,Rohan Agarwal,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Kirti Chopra,2018-12-22,7.57,56860.0,Phd,Travel_Frequently,37,2.0,3,,,,,,True
+1807,Sanjay Gupta,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Amit Patel,2015-07-27,10.98,66223.0,Master'S,Non-Travel,22,5.0,4,4.0,Present,2.0,,,True
+1808,Preeti Agarwal,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Kavya Bansal,2018-01-30,8.47,50843.0,Diploma,Travel_Rarely,2,2.0,5,1.0,Present,0.0,,,True
+1809,Swati Gupta,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Nisha Malhotra,2022-01-27,4.47,76728.0,Bachelor'S,Travel_Frequently,55,,1,1.0,,,,,True
+1810,Anil Chopra,Male,Finance,Auditor,Mumbai,Maharashtra,India,Amit Bansal,2024-11-15,1.67,50321.0,Master'S,Travel_Rarely,45,3.0,4,5.0,Present,1.5,,,True
+1811,Anjali Verma,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Kavya Iyer,2023-06-09,3.11,45140.0,Bachelor'S,Non-Travel,31,1.0,5,1.0,Present,0.0,,,True
+1812,Riya Malhotra,Female,IT,System Admin,Jaipur,Rajasthan,India,Ananya Reddy,2025-11-29,0.64,62402.0,Phd,Non-Travel,20,3.0,5,4.0,,,,,True
+1813,Sunita Chopra,Female,Finance,Auditor,Mumbai,Maharashtra,India,Pooja Reddy,2021-02-27,5.39,74630.0,Master'S,Travel_Frequently,2,5.0,5,2.0,,,,,True
+1814,Sneha Reddy,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Deepak Rao,2015-06-10,11.11,63212.0,Bachelor'S,Non-Travel,26,1.0,3,4.0,Present,1.5,,,True
+1815,Rohan Malhotra,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Sneha Gupta,2013-12-03,12.62,85000.0,Diploma,Travel_Frequently,5,4.0,2,5.0,Present,0.0,,,True
+1816,Vivaan Joshi,Male,Finance,Auditor,Mumbai,Maharashtra,India,Sneha Gupta,2010-02-20,15.34,67711.0,Diploma,Non-Travel,37,,3,2.0,,,2025-06-23,Career Growth,False
+1817,Amit Kapoor,Male,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Suresh Reddy,2015-11-26,10.64,78081.0,Master'S,Non-Travel,28,3.0,3,3.0,,,,,True
+1818,Deepak Saxena,Male,IT,System Admin,Jaipur,Rajasthan,India,Suresh Malhotra,2015-12-09,10.61,88008.0,High School,Travel_Frequently,28,4.0,3,1.0,,,,,True
+1819,Anjali Kumar,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Pooja Reddy,2013-02-20,13.41,68750.0,Phd,Travel_Rarely,29,3.0,2,5.0,Present,3.0,,,True
+1820,Isha Bansal,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Nisha Agarwal,2022-06-14,4.1,74638.0,High School,Travel_Rarely,16,4.0,1,1.0,Present,1.5,,,True
+1821,Aarav Chopra,Male,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Kavya Bansal,2022-03-26,2.81,50305.0,High School,Non-Travel,46,2.0,5,5.0,,,2025-01-17,Compensation,False
+1822,Manish Joshi,Male,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Deepak Rao,2015-09-15,9.71,85000.0,High School,Travel_Frequently,40,3.0,3,3.0,Present,0.0,2025-06-02,Not Specified,False
+1823,Rajesh Iyer,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Pooja Singh,2021-06-30,5.05,67000.0,Diploma,Non-Travel,20,2.0,2,1.0,,,,,True
+1824,Nikhil Singh,Male,Finance,Auditor,Mumbai,Maharashtra,India,Preeti Mehta,2013-01-31,13.46,72271.0,Diploma,Non-Travel,14,4.0,5,2.0,,,,,True
+1825,Siddharth Iyer,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Kavya Bansal,2012-07-12,14.02,65444.0,Phd,Travel_Frequently,37,3.0,2,1.0,Present,3.0,,,True
+1826,Aditya Sharma,Male,Research & Development,Lab Technician,Chennai,Tamil Nadu,India,Neha Mehta,2010-01-18,16.5,85000.0,Phd,Travel_Frequently,25,,1,,,,,,True
+1827,Suresh Chopra,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Riya Kapoor,2016-06-28,9.31,67000.0,Phd,Non-Travel,21,4.0,2,3.0,,,2025-10-20,Relocation,False
+1828,Aarav Sharma,Male,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Suresh Patel,2019-01-25,7.48,61609.0,Bachelor'S,Travel_Frequently,3,,5,4.0,,,,,True
+1829,Divya Gupta,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Sneha Kumar,2016-09-16,9.84,53371.0,High School,Travel_Frequently,53,3.0,5,5.0,Present,0.0,,,True
+1830,Ananya Agarwal,Female,Sales,Territory Manager,Bangalore,Karnataka,India,Sneha Gupta,2022-08-07,3.95,48638.0,Diploma,Travel_Frequently,30,3.0,3,1.0,,,,,True
+1831,Nikhil Agarwal,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Deepak Rao,2018-03-02,8.38,36790.0,Phd,Non-Travel,2,4.0,2,1.0,,,,,True
+1832,Nisha Agarwal,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Sneha Kumar,2016-10-15,9.76,67264.0,High School,Travel_Rarely,30,3.0,5,3.0,Present,1.5,,,True
+1833,Shreya Chopra,Female,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Suresh Malhotra,2022-02-25,4.39,58529.0,Diploma,Non-Travel,39,2.0,1,5.0,,,,,True
+1834,Ananya Nair,Female,IT,IT Manager,Jaipur,Rajasthan,India,Vivaan Verma,2012-05-12,14.18,80116.0,Phd,Non-Travel,55,1.0,2,4.0,,,,,True
+1835,Aarav Gupta,Male,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Ritu Nair,2019-03-13,6.69,50723.0,Bachelor'S,Non-Travel,4,3.0,2,2.0,,,2025-11-18,Better Opportunity,False
+1836,Karan Nair,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Preeti Sharma,2013-01-21,13.49,57088.0,Bachelor'S,Travel_Frequently,45,2.0,4,4.0,,,,,True
+1837,Priya Yadav,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Rohan Joshi,2012-06-13,12.53,85000.0,Master'S,Travel_Frequently,9,5.0,1,1.0,,,2024-12-22,Better Opportunity,False
+1838,Kirti Mehta,Female,Sales,Sales Executive,Bangalore,Karnataka,India,Ashok Tiwari,2015-10-02,10.8,53184.0,Diploma,Travel_Frequently,34,3.0,2,1.0,Absent,2.0,,,True
+1839,Meera Kumar,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Sanjay Agarwal,2012-08-04,13.95,80000.0,Phd,Non-Travel,50,3.0,5,4.0,Present,1.0,,,True
+1840,Vikram Joshi,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Amit Patel,2020-07-03,6.04,47325.0,Bachelor'S,Travel_Rarely,34,4.0,4,5.0,,,,,True
+1841,Ananya Malhotra,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Sneha Kumar,2022-04-16,1.3,40961.0,Diploma,Travel_Frequently,55,2.0,3,3.0,,,2023-08-03,Compensation,False
+1842,Anjali Verma,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Aditya Verma,2025-10-21,0.74,41479.0,High School,Non-Travel,35,2.0,4,,Present,1.5,,,True
+1843,Nikhil Rao,Male,Sales,Sales Executive,Bangalore,Karnataka,India,,2012-03-27,14.31,57466.0,Bachelor'S,Travel_Frequently,29,2.0,4,1.0,,,,,True
+1844,Rohan Chopra,Male,IT,System Admin,Jaipur,Rajasthan,India,Riya Kapoor,2016-01-05,9.4,83840.0,Phd,Non-Travel,1,1.0,3,5.0,Present,0.0,2025-05-31,Not Specified,False
+1845,Vivaan Mehta,Male,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Pooja Reddy,2024-09-07,1.86,46093.0,High School,Travel_Frequently,13,4.0,3,3.0,,,,,True
+1846,Kirti Joshi,Female,Sales,Sales Manager,Bangalore,Karnataka,India,,2011-06-23,15.07,70000.0,Phd,Non-Travel,18,2.0,1,4.0,P,1.0,,,True
+1847,Ananya Agarwal,Female,Finance,Financial Analyst,Mumbai,Maharashtra,India,Shreya Kapoor,2022-03-05,4.37,63843.0,Bachelor'S,Non-Travel,24,,5,4.0,,,,,True
+1848,Neha Verma,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Priya Chopra,2022-10-09,3.78,60344.0,Master'S,Travel_Rarely,3,1.0,3,4.0,Present,1.0,,,True
+1849,Kavya Reddy,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Nisha Agarwal,2023-01-12,3.52,48141.0,Diploma,Travel_Rarely,1,3.0,4,2.0,,,,,True
+1850,Nikhil Reddy,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Shreya Malhotra,2014-02-13,12.43,54372.0,Diploma,Travel_Rarely,22,1.0,5,2.0,Present,0.0,,,True
+1851,Gaurav Verma,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,Riya Singh,2015-06-25,11.07,65000.0,High School,Travel_Rarely,29,3.0,5,2.0,,,,,True
+1852,Anjali Kapoor,Female,IT,Qa Engineer,Jaipur,Rajasthan,India,Nisha Sharma,2022-09-08,3.86,66317.0,Diploma,Travel_Frequently,52,2.0,2,4.0,Present,0.0,,,True
+1853,Deepak Joshi,Male,IT,System Admin,Jaipur,Rajasthan,India,Nisha Sharma,2015-09-27,10.81,76092.0,Diploma,Travel_Frequently,49,5.0,2,4.0,,,,,True
+1854,Aditya Yadav,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Riya Singh,2021-10-06,4.78,76658.0,Phd,Non-Travel,35,3.0,2,2.0,,,,,True
+1855,Kirti Kapoor,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Deepak Rao,2025-06-29,1.05,47913.0,Phd,Non-Travel,36,2.0,1,1.0,Present,1.5,,,True
+1856,Isha Agarwal,Female,Finance,Finance Manager,Mumbai,Maharashtra,India,Sneha Gupta,2011-03-14,15.35,73439.0,Diploma,Travel_Frequently,10,1.0,3,2.0,Present,3.0,,,True
+1857,Riya Kumar,Female,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Preeti Sharma,2023-07-07,3.03,39861.0,Bachelor'S,Non-Travel,55,3.0,5,2.0,,,,,True
+1858,Aditya Iyer,Male,IT,System Admin,Jaipur,Rajasthan,India,Rahul Chopra,2012-12-06,12.35,89175.0,Phd,Travel_Rarely,30,4.0,3,2.0,,,2025-04-12,Not Specified,False
+1859,Vikram Gupta,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Rahul Chopra,2012-01-05,14.54,62367.0,Phd,Non-Travel,8,2.0,5,4.0,,,,,True
+1860,Neha Yadav,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Preeti Saxena,2011-10-27,14.73,65000.0,Master'S,Travel_Rarely,49,5.0,5,,,,,,True
+1861,Kavya Gupta,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Sanjay Agarwal,2023-01-14,1.31,46859.0,Phd,Travel_Frequently,15,,3,2.0,Absent,0.0,2024-05-06,Career Growth,False
+1862,Isha Kapoor,Female,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Sneha Gupta,2013-10-15,12.76,54991.0,Bachelor'S,Travel_Frequently,21,4.0,4,3.0,Present,3.0,,,True
+1863,Varun Bansal,Male,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Nisha Singh,2024-05-05,2.2,57655.0,Bachelor'S,Non-Travel,47,2.0,1,3.0,Present,2.0,,,True
+1864,Suresh Verma,Male,IT,System Admin,Jaipur,Rajasthan,India,Neha Mehta,2015-07-05,11.04,90000.0,Phd,Travel_Rarely,2,5.0,4,3.0,,,,,True
+1865,Sunita Tiwari,Female,Finance,Auditor,Mumbai,Maharashtra,India,Amit Patel,2020-03-04,6.37,59631.0,Master'S,Travel_Frequently,31,2.0,2,3.0,Present,2.0,,,True
+1866,Neha Malhotra,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Vikram Bansal,2011-10-10,14.77,67040.0,Bachelor'S,Travel_Rarely,39,4.0,2,5.0,Present,3.0,,,True
+1867,Sunita Rao,Female,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Manish Kumar,2015-05-17,11.17,60000.0,High School,Non-Travel,43,4.0,1,3.0,,,,,True
+1868,Karan Malhotra,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Ashok Nair,2014-10-15,11.76,62293.0,High School,Travel_Frequently,42,2.0,4,2.0,,,,,True
+1869,Isha Kumar,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Rajesh Iyer,2022-06-29,4.05,53321.0,Master'S,Travel_Rarely,55,4.0,4,2.0,Present,0.0,,,True
+1870,Nikhil Reddy,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Sneha Gupta,2021-11-12,2.93,83076.0,Bachelor'S,Non-Travel,13,2.0,5,3.0,,,2024-10-16,Career Growth,False
+1871,Suresh Kumar,Male,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Sanjay Joshi,2010-07-21,15.99,57559.0,Diploma,Non-Travel,20,2.0,5,4.0,,,,,True
+1872,Aditya Malhotra,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Rahul Chopra,2022-11-13,3.68,44104.0,High School,Non-Travel,13,1.0,4,4.0,,,,,True
+1873,Isha Sharma,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,Shreya Malhotra,2015-07-10,11.03,65481.0,Diploma,Travel_Frequently,45,5.0,2,5.0,,,,,True
+1874,Siddharth Yadav,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Suresh Saxena,2018-02-26,8.39,66715.0,High School,Travel_Rarely,3,,2,5.0,,,,,True
+1875,Ananya Agarwal,Female,Research & Development,Data Scientist,Chennai,Tamil Nadu,India,,2021-03-02,5.38,67777.0,High School,Travel_Rarely,7,3.0,5,3.0,,,,,True
+1876,Varun Saxena,Male,Research & Development,Research Scientist,Chennai,Tamil Nadu,India,Sneha Kumar,2024-12-10,1.6,76731.0,Master'S,Non-Travel,10,2.0,3,5.0,,,,,True
+1877,Vikram Patel,Male,Sales,Sales Executive,Bangalore,Karnataka,India,Sanjay Joshi,2023-08-17,2.92,45211.0,Diploma,Travel_Frequently,23,2.0,2,5.0,,,,,True
+1878,Riya Joshi,Female,Sales,Sales Associate,Bangalore,Karnataka,India,Riya Kapoor,2024-04-02,2.29,50201.0,Master'S,Non-Travel,53,2.0,5,3.0,,,,,True
+1879,Pooja Saxena,Female,IT,System Admin,Jaipur,Rajasthan,India,Kavita Saxena,2024-10-20,1.74,67453.0,Bachelor'S,Non-Travel,21,,3,,,,,,True
+1880,Divya Tiwari,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Aditya Verma,2011-12-10,14.61,67000.0,Master'S,Non-Travel,38,2.0,4,3.0,,,,,True
+1881,Aarav Bansal,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Vikram Bansal,2015-09-09,10.86,70000.0,Diploma,Non-Travel,13,4.0,5,3.0,Work From Home,3.0,,,True
+1882,Nisha Saxena,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Rohan Kapoor,2022-09-14,3.84,36490.0,Diploma,Travel_Frequently,25,3.0,2,2.0,,,,,True
+1883,Preeti Malhotra,Female,IT,System Admin,Jaipur,Rajasthan,India,Kavya Kapoor,2024-04-18,1.47,64429.0,Master'S,Travel_Rarely,13,3.0,4,1.0,Present,0.0,2025-10-07,Not Specified,False
+1884,Isha Iyer,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Suresh Rao,2023-02-23,2.03,55424.0,Bachelor'S,Non-Travel,46,3.0,3,4.0,,,2025-03-07,Not Specified,False
+1885,Sunita Rao,Female,Finance,Auditor,Mumbai,Maharashtra,India,Rahul Chopra,2018-12-29,7.55,71760.0,Master'S,Travel_Rarely,55,1.0,5,5.0,Leave,2.0,,,True
+1886,Sneha Bansal,Female,Marketing,Marketing Executive,Lucknow,Uttar Pradesh,India,Rahul Chopra,2018-08-30,7.89,73000.0,Diploma,Travel_Frequently,25,1.0,2,5.0,,,,,True
+1887,Priya Patel,Female,IT,IT Manager,Jaipur,Rajasthan,India,Suresh Rao,2013-08-16,12.92,89035.0,Phd,Travel_Frequently,54,5.0,1,,,,,,True
+1888,Kavita Malhotra,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Ritu Nair,2015-11-15,10.67,61116.0,High School,Travel_Frequently,39,4.0,4,5.0,,,,,True
+1889,Divya Tiwari,Female,Customer Support,Support Team Lead,Noida,Uttar Pradesh,India,Suresh Reddy,2022-11-23,3.65,45174.0,High School,Travel_Rarely,33,2.0,5,2.0,Present,0.0,,,True
+1890,Gaurav Saxena,Male,Finance,Financial Analyst,Mumbai,Maharashtra,India,Kirti Chopra,2013-07-15,8.93,64307.0,High School,Travel_Rarely,20,1.0,5,1.0,,,2022-06-19,Not Specified,False
+1891,Meera Mehta,Female,Customer Support,Customer Success Manager,Noida,Uttar Pradesh,India,Ritu Nair,2012-10-26,13.73,44797.0,Diploma,Non-Travel,53,1.0,5,2.0,,,,,True
+1892,Vikram Singh,Male,Marketing,Seo Specialist,Lucknow,Uttar Pradesh,India,Vivaan Verma,2018-10-29,7.72,63614.0,Phd,Non-Travel,37,2.0,4,2.0,,,,,True
+1893,Preeti Rao,Female,Marketing,Content Strategist,Lucknow,Uttar Pradesh,India,Nisha Sharma,2017-05-04,9.21,70321.0,Master'S,Travel_Frequently,48,1.0,5,4.0,,,,,True
+1894,Shreya Patel,Female,Finance,Auditor,Mumbai,Maharashtra,India,Sneha Gupta,2024-09-18,1.83,67070.0,Phd,Non-Travel,36,3.0,2,3.0,,,,,True
+1895,Gaurav Nair,Male,Operations,Operations Executive,Chennai,Tamil Nadu,India,,2024-08-31,1.88,53847.0,Diploma,Non-Travel,10,2.0,3,1.0,,,,,True
+1896,Karan Patel,Male,Finance,Auditor,Mumbai,Maharashtra,India,Shreya Malhotra,2017-08-03,8.96,73603.0,Phd,Non-Travel,9,5.0,1,3.0,,,,,True
+1897,Arjun Reddy,Male,Sales,Sales Manager,Bangalore,Karnataka,India,Rohan Joshi,2014-12-03,11.62,61079.0,High School,Travel_Rarely,10,3.0,1,,Present,0.0,,,True
+1898,Sneha Verma,Female,Research & Development,R&D Manager,Chennai,Tamil Nadu,India,Rahul Chopra,2018-04-21,8.24,73514.0,Diploma,Non-Travel,18,3.0,5,4.0,,,,,True
+1899,Varun Rao,Male,Customer Support,Support Executive,Noida,Uttar Pradesh,India,Neha Mehta,2023-01-16,3.5,49879.0,Diploma,Non-Travel,24,1.0,4,3.0,,,,,True
+1900,Preeti Kapoor,Female,Human Resources,HR Business Partner,Lucknow,Uttar Pradesh,India,Preeti Mehta,2024-04-07,2.28,38854.0,High School,Travel_Rarely,41,3.0,4,5.0,,,,,True
+1901,Meera Sharma,Female,IT,IT Manager,Jaipur,Rajasthan,India,Rohan Joshi,2016-04-15,10.26,84156.0,Bachelor'S,Travel_Frequently,27,3.0,1,5.0,,,,,True
+1902,Preeti Agarwal,Female,Human Resources,HR Executive,Lucknow,Uttar Pradesh,India,Kavya Bansal,2018-01-30,8.47,50843.0,Diploma,Travel_Rarely,2,2.0,4,4.0,Present,0.0,,,True
+1903,Kirti Gupta,Female,Sales,Sales Manager,Bangalore,Karnataka,India,Rohan Joshi,2017-05-28,7.83,63616.0,Master'S,Travel_Rarely,38,1.0,4,4.0,,,2025-03-27,Retirement,False
+1904,Karan Mehta,Male,Human Resources,Recruiter,Lucknow,Uttar Pradesh,India,Kirti Chopra,2013-03-07,13.37,61006.0,High School,Travel_Rarely,31,2.0,5,5.0,,,,,True
+1905,Sanjay Nair,Male,Marketing,Marketing Manager,Lucknow,Uttar Pradesh,India,Rahul Chopra,2010-07-27,13.85,69984.0,Phd,Travel_Rarely,7,,2,3.0,,,2024-06-02,Retirement,False
+1906,Isha Verma,Female,Human Resources,HR Manager,Lucknow,Uttar Pradesh,India,Nisha Sharma,2025-08-21,0.91,46103.0,Master'S,Non-Travel,24,1.0,2,2.0,Present,0.0,,,True
+1907,Sanjay Gupta,Male,Sales,Territory Manager,Bangalore,Karnataka,India,Divya Saxena,2012-10-29,13.72,54300.0,Phd,Travel_Rarely,16,3.0,5,4.0,,,,,True
+1908,Shreya Mehta,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Rahul Chopra,2010-12-10,15.61,55571.0,Bachelor'S,Non-Travel,19,2.0,1,1.0,,,,,True
+1909,Shreya Patel,Female,Finance,Auditor,Mumbai,Maharashtra,India,Sneha Gupta,2024-09-18,1.83,67070.0,Phd,Non-Travel,36,5.0,2,5.0,Present,2.0,,,True
+1910,Pooja Saxena,Female,Operations,Logistics Coordinator,Chennai,Tamil Nadu,India,Ananya Reddy,2023-07-09,3.03,55362.0,High School,Travel_Frequently,25,2.0,2,,P,2.0,,,True
+1911,Swati Tiwari,Female,IT,Software Engineer,Jaipur,Rajasthan,India,Suresh Reddy,2025-11-15,0.67,64190.0,Diploma,Travel_Rarely,24,3.0,5,5.0,Present,2.0,,,True
+1912,Meera Kapoor,Female,Operations,Operations Executive,Chennai,Tamil Nadu,India,Ashok Nair,2010-09-08,15.86,65000.0,Bachelor'S,Travel_Rarely,2,4.0,1,5.0,,,,,True
+1913,Deepak Reddy,Male,Finance,Accountant,Mumbai,Maharashtra,India,Suresh Rao,2018-12-30,7.55,58253.0,Master'S,Non-Travel,15,3.0,5,4.0,,,,,True
+1914,Siddharth Gupta,Male,IT,Qa Engineer,Jaipur,Rajasthan,India,Divya Saxena,2022-04-03,4.29,62407.0,Master'S,Travel_Rarely,36,4.0,2,3.0,,,,,True
+1915,Kavya Bansal,Female,Sales,Sales Manager,Bangalore,Karnataka,India,,2023-03-28,3.31,51306.0,Master'S,Non-Travel,31,3.0,3,2.0,Present,0.0,,,True

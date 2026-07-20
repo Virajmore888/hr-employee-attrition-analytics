@@ -1,0 +1,147 @@
+employee_id,employee_name,hire_date,exit_date,exit_reason,job_title,department_name,city,salary
+1001,Vivaan Verma,2015-03-23,2023-08-06,Not Specified,Content Strategist,Marketing,Lucknow,68938.0
+1004,Preeti Sharma,2024-05-17,2025-01-24,Better Opportunity,Recruiter,Human Resources,Lucknow,57410.0
+1009,Sneha Gupta,2011-02-19,2023-06-09,Retirement,Customer Success Manager,Customer Support,Noida,54344.0
+1014,Amit Patel,2019-08-05,2024-07-31,Relocation,Customer Success Manager,Customer Support,Noida,30099.0
+1021,Sneha Kumar,2019-07-15,2023-09-06,Personal Reasons,Sales Executive,Sales,Bangalore,67216.0
+1022,Preeti Kapoor,2015-10-25,2025-01-13,Not Specified,Data Scientist,Research & Development,Chennai,74270.0
+1036,Nisha Singh,2025-09-11,2026-01-04,Better Opportunity,Customer Success Manager,Customer Support,Noida,27000.0
+1041,Kavya Kapoor,2022-05-19,2026-02-19,Health Reasons,Support Team Lead,Customer Support,Noida,47129.0
+1064,Ananya Verma,2024-06-17,2025-11-11,Career Growth,IT Manager,IT,Jaipur,58528.0
+1072,Rahul Malhotra,2021-03-18,2022-10-18,Career Growth,Support Executive,Customer Support,Noida,49879.0
+1075,Rajesh Nair,2019-11-12,2022-04-26,Retirement,HR Business Partner,Human Resources,Lucknow,34000.0
+1085,Arjun Tiwari,2016-04-23,2022-05-04,Not Specified,Software Engineer,IT,Jaipur,73864.0
+1088,Manish Tiwari,2020-08-23,2022-11-16,Health Reasons,Financial Analyst,Finance,Mumbai,66457.0
+1090,Preeti Mehta,2020-11-10,2022-10-17,Relocation,IT Manager,IT,Jaipur,77608.0
+1092,Aditya Yadav,2025-01-09,2026-07-21,Better Opportunity,Marketing Manager,Marketing,Lucknow,58001.0
+1093,Sanjay Mehta,2012-01-03,2026-03-09,Retirement,Financial Analyst,Finance,Mumbai,71176.0
+1105,Sneha Yadav,2022-05-20,2023-08-13,Better Opportunity,Seo Specialist,Marketing,Lucknow,52927.0
+1120,Varun Patel,2015-03-15,2024-05-21,Career Growth,Qa Engineer,IT,Jaipur,88012.0
+1137,Varun Malhotra,2019-05-03,2026-11-09,Personal Reasons,Content Strategist,Marketing,Lucknow,52525.0
+1140,Siddharth Kumar,2019-10-04,2023-03-20,Career Growth,Logistics Coordinator,Operations,Chennai,40311.0
+1148,Siddharth Joshi,2012-04-07,2026-05-12,Career Growth,HR Business Partner,Human Resources,Lucknow,52839.0
+1152,Isha Verma,2025-08-21,2026-06-06,Not Specified,HR Manager,Human Resources,Lucknow,46103.0
+1156,Riya Kumar,2011-07-03,2023-12-26,Personal Reasons,Finance Manager,Finance,Mumbai,71834.0
+1158,Meera Sharma,2016-04-15,2026-04-11,Personal Reasons,IT Manager,IT,Jaipur,84156.0
+1159,Swati Agarwal,2013-07-26,2025-09-04,Better Opportunity,Software Engineer,IT,Jaipur,74920.0
+1161,Rahul Iyer,2019-03-09,2024-01-15,Better Opportunity,Content Strategist,Marketing,Lucknow,51220.0
+1165,Preeti Patel,2017-12-20,2024-02-12,Personal Reasons,Software Engineer,IT,Jaipur,85549.0
+1166,Ritu Rao,2014-06-29,2023-12-04,Career Growth,Operations Executive,Operations,Chennai,61363.0
+1169,Priya Iyer,2010-06-29,2023-04-30,Better Opportunity,Marketing Manager,Marketing,Lucknow,70102.0
+1172,Aditya Nair,2015-12-04,2025-12-20,Health Reasons,Seo Specialist,Marketing,Lucknow,57385.0
+1179,Deepak Kapoor,2021-11-23,2022-04-29,Retirement,Data Scientist,Research & Development,Chennai,64832.0
+1206,Siddharth Nair,2022-08-19,2026-10-29,Career Growth,Auditor,Finance,Mumbai,53341.0
+1207,Kavita Joshi,2016-06-11,2024-12-17,Not Specified,Territory Manager,Sales,Bangalore,64251.0
+1208,Rahul Nair,2015-08-08,2023-04-20,Better Opportunity,Marketing Manager,Marketing,Lucknow,68507.0
+1211,Aditya Nair,2014-05-26,2023-12-12,Retirement,Seo Specialist,Marketing,Lucknow,70768.0
+1213,Sanjay Joshi,2020-01-10,2024-10-29,Not Specified,Qa Engineer,IT,Jaipur,82388.0
+1216,Swati Kapoor,2025-08-24,2026-05-24,Not Specified,Auditor,Finance,Mumbai,62390.0
+1231,Ashok Rao,2011-04-04,2025-10-12,Career Growth,Sales Associate,Sales,Bangalore,62076.0
+1233,Divya Gupta,2013-01-09,2025-08-19,Personal Reasons,Logistics Coordinator,Operations,Chennai,60628.0
+1244,Deepak Kapoor,2023-02-17,2025-01-23,Career Growth,HR Executive,Human Resources,Lucknow,54021.0
+1245,Vivaan Singh,2011-11-30,2022-07-31,Not Specified,Customer Success Manager,Customer Support,Noida,47330.0
+1255,Arjun Verma,2021-09-19,2023-03-18,Retirement,Support Team Lead,Customer Support,Noida,30061.0
+1263,Preeti Verma,2016-04-30,2025-11-30,Health Reasons,Territory Manager,Sales,Bangalore,37000.0
+1265,Sunita Joshi,2023-07-24,2026-09-02,Better Opportunity,Marketing Manager,Marketing,Lucknow,73000.0
+1270,Anil Chopra,2021-11-24,2022-11-23,Not Specified,Support Team Lead,Customer Support,Noida,47215.0
+1285,Nisha Malhotra,2016-08-14,2023-09-24,Health Reasons,R&D Manager,Research & Development,Chennai,85000.0
+1293,Vikram Joshi,2023-11-16,2024-05-15,Relocation,Auditor,Finance,Mumbai,54263.0
+1296,Vivaan Saxena,2011-12-17,2023-07-20,Compensation,Customer Success Manager,Customer Support,Noida,51319.0
+1303,Sakshi Agarwal,2016-10-31,2024-08-04,Career Growth,System Admin,IT,Jaipur,85526.0
+1316,Rohan Agarwal,2024-10-27,2026-08-11,Better Opportunity,Data Scientist,Research & Development,Chennai,62724.0
+1317,Kavita Malhotra,2014-07-26,2022-07-14,Personal Reasons,Software Engineer,IT,Jaipur,88406.0
+1330,Nikhil Verma,2022-07-31,2023-03-18,Career Growth,Support Team Lead,Customer Support,Noida,45948.0
+1333,Divya Patel,2010-06-18,2022-09-22,Retirement,Seo Specialist,Marketing,Lucknow,72717.0
+1336,Kirti Gupta,2024-11-02,2026-02-25,Compensation,Sales Executive,Sales,Bangalore,46355.0
+1337,Arjun Patel,2012-05-21,2026-09-16,Career Growth,Recruiter,Human Resources,Lucknow,56172.0
+1343,Vivaan Mehta,2022-08-09,2026-07-31,Better Opportunity,Operations Executive,Operations,Chennai,47844.0
+1354,Neha Yadav,2022-02-18,2025-08-09,Not Specified,Operations Manager,Operations,Chennai,45312.0
+1363,Ananya Nair,2023-08-05,2024-11-18,Not Specified,Customer Success Manager,Customer Support,Noida,38531.0
+1367,Vivaan Verma,2025-07-21,2026-02-04,Personal Reasons,Sales Associate,Sales,Bangalore,48251.0
+1371,Kirti Tiwari,2017-05-16,2023-09-15,Not Specified,IT Manager,IT,Jaipur,78934.0
+1378,Amit Iyer,2022-04-01,2024-04-27,Personal Reasons,Recruiter,Human Resources,Lucknow,49885.0
+1385,Sakshi Patel,2019-09-10,2026-07-26,Relocation,Logistics Coordinator,Operations,Chennai,44184.0
+1401,Karan Reddy,2014-04-21,2023-11-16,Not Specified,Sales Manager,Sales,Bangalore,50589.0
+1404,Riya Sharma,2018-01-29,2023-06-17,Retirement,Software Engineer,IT,Jaipur,78053.0
+1405,Sakshi Reddy,2021-03-03,2023-10-08,Personal Reasons,Research Scientist,Research & Development,Chennai,64437.0
+1409,Ashok Mehta,2025-11-05,2026-04-04,Personal Reasons,Financial Analyst,Finance,Mumbai,56981.0
+1410,Sunita Rao,2018-10-19,2023-06-28,Relocation,Research Scientist,Research & Development,Chennai,75712.0
+1412,Swati Patel,2024-07-31,2025-01-10,Not Specified,Sales Executive,Sales,Bangalore,38920.0
+1416,Kavya Tiwari,2021-09-21,2025-05-14,Personal Reasons,Customer Success Manager,Customer Support,Noida,36220.0
+1419,Anil Singh,2020-12-24,2023-03-29,Compensation,Recruiter,Human Resources,Lucknow,59756.0
+1420,Swati Tiwari,2025-05-27,2026-11-13,Better Opportunity,R&D Manager,Research & Development,Chennai,62225.0
+1424,Divya Reddy,2016-11-02,2022-04-22,Compensation,Sales Associate,Sales,Bangalore,67312.0
+1429,Siddharth Yadav,2024-02-09,2026-01-28,Personal Reasons,Lab Technician,Research & Development,Chennai,72096.0
+1433,Meera Kapoor,2019-05-26,2026-04-14,Not Specified,HR Executive,Human Resources,Lucknow,50542.0
+1440,Preeti Singh,2022-03-20,2023-10-30,Relocation,Sales Executive,Sales,Bangalore,51024.0
+1446,Gaurav Malhotra,2013-02-21,2022-01-10,Personal Reasons,Lab Technician,Research & Development,Chennai,85000.0
+1460,Pooja Patel,2013-12-20,2026-09-11,Health Reasons,Support Team Lead,Customer Support,Noida,44263.0
+1468,Swati Reddy,2021-02-13,2022-05-27,Compensation,Recruiter,Human Resources,Lucknow,56172.0
+1476,Sneha Gupta,2011-11-10,2022-06-24,Not Specified,Finance Manager,Finance,Mumbai,75022.0
+1478,Vikram Kapoor,2020-05-03,2026-07-11,Compensation,HR Manager,Human Resources,Lucknow,52405.0
+1493,Ananya Yadav,2013-02-15,2023-05-25,Not Specified,Support Executive,Customer Support,Noida,55731.0
+1497,Vivaan Tiwari,2010-09-30,2023-08-11,Relocation,Sales Executive,Sales,Bangalore,60385.0
+1498,Sakshi Saxena,2019-08-04,2026-12-01,Retirement,Research Scientist,Research & Development,Chennai,68886.0
+1507,Kavita Verma,2020-05-25,2025-02-24,Retirement,Recruiter,Human Resources,Lucknow,46458.0
+1512,Riya Chopra,2024-07-24,2026-10-09,Not Specified,Sales Manager,Sales,Bangalore,47544.0
+1514,Sakshi Iyer,2022-10-09,2023-06-21,Health Reasons,Support Team Lead,Customer Support,Noida,33373.0
+1521,Divya Kapoor,2019-09-21,2022-02-06,Retirement,Recruiter,Human Resources,Lucknow,38857.0
+1524,Kavita Kapoor,2019-07-13,2023-06-22,Retirement,System Admin,IT,Jaipur,80064.0
+1528,Aarav Nair,2018-12-27,2026-02-09,Health Reasons,HR Business Partner,Human Resources,Lucknow,53698.0
+1534,Priya Mehta,2010-02-15,2025-11-23,Health Reasons,Operations Manager,Operations,Chennai,54928.0
+1550,Rahul Yadav,2018-02-15,2022-06-15,Better Opportunity,Lab Technician,Research & Development,Chennai,67776.0
+1552,Nikhil Chopra,2015-10-20,2022-08-07,Health Reasons,Operations Manager,Operations,Chennai,54851.0
+1575,Sakshi Malhotra,2020-08-02,2023-08-04,Relocation,Accountant,Finance,Mumbai,70548.0
+1578,Rajesh Malhotra,2016-09-14,2023-02-24,Career Growth,Lab Technician,Research & Development,Chennai,80908.0
+1582,Rajesh Malhotra,2023-02-09,2025-08-09,Health Reasons,R&D Manager,Research & Development,Chennai,61806.0
+1588,Karan Singh,2012-01-25,2023-11-22,Better Opportunity,Territory Manager,Sales,Bangalore,59903.0
+1592,Preeti Kapoor,2021-08-23,2023-01-27,Retirement,Recruiter,Human Resources,Lucknow,45506.0
+1595,Riya Yadav,2013-03-23,2025-08-16,Not Specified,HR Business Partner,Human Resources,Lucknow,67000.0
+1596,Anil Singh,2013-03-12,2023-08-17,Health Reasons,Lab Technician,Research & Development,Chennai,75929.0
+1600,Kirti Agarwal,2024-02-02,2026-03-11,Not Specified,Sales Associate,Sales,Bangalore,51675.0
+1607,Divya Tiwari,2019-10-28,2026-02-23,Compensation,Sales Associate,Sales,Bangalore,48869.0
+1621,Anil Chopra,2011-06-06,2022-03-15,Retirement,R&D Manager,Research & Development,Chennai,76336.0
+1624,Suresh Sharma,2020-04-25,2025-11-08,Not Specified,Operations Executive,Operations,Chennai,60083.0
+1626,Sakshi Malhotra,2017-07-29,2022-05-30,Career Growth,Sales Manager,Sales,Bangalore,54344.0
+1640,Sneha Reddy,2021-03-12,2026-09-03,Health Reasons,Customer Success Manager,Customer Support,Noida,32640.0
+1646,Shreya Patel,2012-10-12,2025-03-11,Not Specified,R&D Manager,Research & Development,Chennai,78448.0
+1650,Ritu Patel,2024-01-29,2026-07-15,Career Growth,Logistics Coordinator,Operations,Chennai,49243.0
+1667,Suresh Verma,2024-12-08,2026-01-11,Retirement,Sales Executive,Sales,Bangalore,45343.0
+1670,Aarav Joshi,2020-06-02,2024-06-30,Not Specified,Auditor,Finance,Mumbai,72896.0
+1703,Amit Patel,2013-08-18,2024-09-25,Retirement,Finance Manager,Finance,Mumbai,68721.0
+1711,Rajesh Patel,2010-05-18,2024-08-11,Better Opportunity,Research Scientist,Research & Development,Chennai,85000.0
+1712,Siddharth Rao,2023-04-02,2026-07-15,Retirement,System Admin,IT,Jaipur,69141.0
+1715,Aarav Verma,2014-07-28,2022-02-15,Compensation,Customer Success Manager,Customer Support,Noida,52641.0
+1722,Rohan Singh,2013-11-10,2023-05-30,Not Specified,Territory Manager,Sales,Bangalore,50329.0
+1731,Sakshi Joshi,2011-06-13,2022-02-10,Not Specified,Sales Manager,Sales,Bangalore,69198.0
+1735,Aditya Joshi,2016-03-06,2026-11-01,Health Reasons,Marketing Manager,Marketing,Lucknow,71763.0
+1737,Nikhil Reddy,2017-03-31,2026-12-13,Better Opportunity,Data Scientist,Research & Development,Chennai,75975.0
+1744,Aarav Singh,2025-07-25,2026-04-06,Career Growth,Qa Engineer,IT,Jaipur,66651.0
+1750,Ananya Sharma,2015-01-07,2023-02-05,Better Opportunity,Data Scientist,Research & Development,Chennai,85000.0
+1764,Sunita Chopra,2010-11-10,2026-06-10,Compensation,Qa Engineer,IT,Jaipur,87746.0
+1766,Isha Mehta,2019-01-20,2025-12-13,Not Specified,Logistics Coordinator,Operations,Chennai,45589.0
+1777,Sunita Saxena,2011-03-11,2025-02-17,Career Growth,Marketing Executive,Marketing,Lucknow,65200.0
+1780,Karan Kapoor,2022-10-22,2023-08-25,Not Specified,Support Executive,Customer Support,Noida,45546.0
+1782,Ritu Joshi,2021-12-31,2024-03-11,Personal Reasons,Lab Technician,Research & Development,Chennai,56110.0
+1783,Pooja Kapoor,2022-10-18,2023-12-15,Retirement,HR Manager,Human Resources,Lucknow,50638.0
+1788,Gaurav Yadav,2025-07-30,2026-03-09,Relocation,System Admin,IT,Jaipur,70095.0
+1789,Amit Gupta,2020-10-22,2024-08-02,Compensation,Research Scientist,Research & Development,Chennai,68019.0
+1791,Swati Tiwari,2016-11-30,2022-08-04,Better Opportunity,Support Team Lead,Customer Support,Noida,52861.0
+1797,Kirti Sharma,2025-11-15,2026-11-22,Personal Reasons,System Admin,IT,Jaipur,65661.0
+1798,Pooja Malhotra,2012-04-16,2022-08-25,Retirement,Logistics Coordinator,Operations,Chennai,65000.0
+1816,Vivaan Joshi,2010-02-20,2025-06-23,Career Growth,Auditor,Finance,Mumbai,67711.0
+1821,Aarav Chopra,2022-03-26,2025-01-17,Compensation,Content Strategist,Marketing,Lucknow,50305.0
+1822,Manish Joshi,2015-09-15,2025-06-02,Not Specified,R&D Manager,Research & Development,Chennai,85000.0
+1827,Suresh Chopra,2016-06-28,2025-10-20,Relocation,HR Manager,Human Resources,Lucknow,67000.0
+1835,Aarav Gupta,2019-03-13,2025-11-18,Better Opportunity,Logistics Coordinator,Operations,Chennai,50723.0
+1837,Priya Yadav,2012-06-13,2024-12-22,Better Opportunity,Data Scientist,Research & Development,Chennai,85000.0
+1841,Ananya Malhotra,2022-04-16,2023-08-03,Compensation,Support Executive,Customer Support,Noida,40961.0
+1844,Rohan Chopra,2016-01-05,2025-05-31,Not Specified,System Admin,IT,Jaipur,83840.0
+1858,Aditya Iyer,2012-12-06,2025-04-12,Not Specified,System Admin,IT,Jaipur,89175.0
+1861,Kavya Gupta,2023-01-14,2024-05-06,Career Growth,Operations Executive,Operations,Chennai,46859.0
+1870,Nikhil Reddy,2021-11-12,2024-10-16,Career Growth,Research Scientist,Research & Development,Chennai,83076.0
+1883,Preeti Malhotra,2024-04-18,2025-10-07,Not Specified,System Admin,IT,Jaipur,64429.0
+1884,Isha Iyer,2023-02-23,2025-03-07,Not Specified,HR Manager,Human Resources,Lucknow,55424.0
+1890,Gaurav Saxena,2013-07-15,2022-06-19,Not Specified,Financial Analyst,Finance,Mumbai,64307.0
+1903,Kirti Gupta,2017-05-28,2025-03-27,Retirement,Sales Manager,Sales,Bangalore,63616.0
+1905,Sanjay Nair,2010-07-27,2024-06-02,Retirement,Marketing Manager,Marketing,Lucknow,69984.0
