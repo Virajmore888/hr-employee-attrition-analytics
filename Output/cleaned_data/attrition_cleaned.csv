@@ -1,0 +1,147 @@
+attrition_id,employee_id,exit_date,reason,is_active
+1,1244,2025-01-23,Career Growth,0
+2,1837,2024-12-22,Better Opportunity,0
+3,1105,2023-08-13,Better Opportunity,0
+4,1433,2026-04-14,Not Specified,0
+5,1737,2026-12-13,Better Opportunity,0
+6,1780,2023-08-25,Not Specified,0
+7,1789,2024-08-02,Compensation,0
+8,1285,2023-09-24,Health Reasons,0
+9,1731,2022-02-10,Not Specified,0
+10,1419,2023-03-29,Compensation,0
+11,1041,2026-02-19,Health Reasons,0
+12,1410,2023-06-28,Relocation,0
+13,1703,2024-09-25,Retirement,0
+14,1412,2025-01-10,Not Specified,0
+15,1650,2026-07-15,Career Growth,0
+16,1317,2022-07-14,Personal Reasons,0
+17,1578,2023-02-24,Career Growth,0
+18,1798,2022-08-25,Retirement,0
+19,1206,2026-10-29,Career Growth,0
+20,1883,2025-10-07,Not Specified,0
+21,1165,2024-02-12,Personal Reasons,0
+22,1245,2022-07-31,Not Specified,0
+23,1497,2023-08-11,Relocation,0
+24,1343,2026-07-31,Better Opportunity,0
+25,1337,2026-09-16,Career Growth,0
+26,1712,2026-07-15,Retirement,0
+27,1841,2023-08-03,Compensation,0
+28,1552,2022-08-07,Health Reasons,0
+29,1216,2026-05-24,Not Specified,0
+30,1528,2026-02-09,Health Reasons,0
+31,1534,2025-11-23,Health Reasons,0
+32,1207,2024-12-17,Not Specified,0
+33,1744,2026-04-06,Career Growth,0
+34,1822,2025-06-02,Not Specified,0
+35,1231,2025-10-12,Career Growth,0
+36,1233,2025-08-19,Personal Reasons,0
+37,1670,2024-06-30,Not Specified,0
+38,1092,2026-07-21,Better Opportunity,0
+39,1270,2022-11-23,Not Specified,0
+40,1596,2023-08-17,Health Reasons,0
+41,1255,2023-03-18,Retirement,0
+42,1667,2026-01-11,Retirement,0
+43,1159,2025-09-04,Better Opportunity,0
+44,1367,2026-02-04,Personal Reasons,0
+45,1293,2024-05-15,Relocation,0
+46,1524,2023-06-22,Retirement,0
+47,1333,2022-09-22,Retirement,0
+48,1592,2023-01-27,Retirement,0
+49,1903,2025-03-27,Retirement,0
+50,1169,2023-04-30,Better Opportunity,0
+51,1514,2023-06-21,Health Reasons,0
+52,1821,2025-01-17,Compensation,0
+53,1646,2025-03-11,Not Specified,0
+54,1179,2022-04-29,Retirement,0
+55,1764,2026-06-10,Compensation,0
+56,1009,2023-06-09,Retirement,0
+57,1827,2025-10-20,Relocation,0
+58,1404,2023-06-17,Retirement,0
+59,1440,2023-10-30,Relocation,0
+60,1446,2022-01-10,Personal Reasons,0
+61,1330,2023-03-18,Career Growth,0
+62,1213,2024-10-29,Not Specified,0
+63,1265,2026-09-02,Better Opportunity,0
+64,1512,2026-10-09,Not Specified,0
+65,1626,2022-05-30,Career Growth,0
+66,1460,2026-09-11,Health Reasons,0
+67,1715,2022-02-15,Compensation,0
+68,1788,2026-03-09,Relocation,0
+69,1090,2022-10-17,Relocation,0
+70,1036,2026-01-04,Better Opportunity,0
+71,1582,2025-08-09,Health Reasons,0
+72,1022,2025-01-13,Not Specified,0
+73,1844,2025-05-31,Not Specified,0
+74,1156,2023-12-26,Personal Reasons,0
+75,1550,2022-06-15,Better Opportunity,0
+76,1085,2022-05-04,Not Specified,0
+77,1001,2023-08-06,Not Specified,0
+78,1905,2024-06-02,Retirement,0
+79,1021,2023-09-06,Personal Reasons,0
+80,1211,2023-12-12,Retirement,0
+81,1172,2025-12-20,Health Reasons,0
+82,1766,2025-12-13,Not Specified,0
+83,1429,2026-01-28,Personal Reasons,0
+84,1409,2026-04-04,Personal Reasons,0
+85,1420,2026-11-13,Better Opportunity,0
+86,1093,2026-03-09,Retirement,0
+87,1478,2026-07-11,Compensation,0
+88,1575,2023-08-04,Relocation,0
+89,1014,2024-07-31,Relocation,0
+90,1521,2022-02-06,Retirement,0
+91,1735,2026-11-01,Health Reasons,0
+92,1870,2024-10-16,Career Growth,0
+93,1416,2025-05-14,Personal Reasons,0
+94,1816,2025-06-23,Career Growth,0
+95,1263,2025-11-30,Health Reasons,0
+96,1316,2026-08-11,Better Opportunity,0
+97,1711,2024-08-11,Better Opportunity,0
+98,1640,2026-09-03,Health Reasons,0
+99,1722,2023-05-30,Not Specified,0
+100,1595,2025-08-16,Not Specified,0
+101,1072,2022-10-18,Career Growth,0
+102,1401,2023-11-16,Not Specified,0
+103,1148,2026-05-12,Career Growth,0
+104,1507,2025-02-24,Retirement,0
+105,1890,2022-06-19,Not Specified,0
+106,1498,2026-12-01,Retirement,0
+107,1797,2026-11-22,Personal Reasons,0
+108,1424,2022-04-22,Compensation,0
+109,1354,2025-08-09,Not Specified,0
+110,1004,2025-01-24,Better Opportunity,0
+111,1152,2026-06-06,Not Specified,0
+112,1750,2023-02-05,Better Opportunity,0
+113,1624,2025-11-08,Not Specified,0
+114,1782,2024-03-11,Personal Reasons,0
+115,1303,2024-08-04,Career Growth,0
+116,1783,2023-12-15,Retirement,0
+117,1166,2023-12-04,Career Growth,0
+118,1363,2024-11-18,Not Specified,0
+119,1064,2025-11-11,Career Growth,0
+120,1777,2025-02-17,Career Growth,0
+121,1088,2022-11-16,Health Reasons,0
+122,1158,2026-04-11,Personal Reasons,0
+123,1137,2026-11-09,Personal Reasons,0
+124,1588,2023-11-22,Better Opportunity,0
+125,1120,2024-05-21,Career Growth,0
+126,1371,2023-09-15,Not Specified,0
+127,1884,2025-03-07,Not Specified,0
+128,1378,2024-04-27,Personal Reasons,0
+129,1208,2023-04-20,Better Opportunity,0
+130,1468,2022-05-27,Compensation,0
+131,1336,2026-02-25,Compensation,0
+132,1600,2026-03-11,Not Specified,0
+133,1161,2024-01-15,Better Opportunity,0
+134,1493,2023-05-25,Not Specified,0
+135,1075,2022-04-26,Retirement,0
+136,1607,2026-02-23,Compensation,0
+137,1476,2022-06-24,Not Specified,0
+138,1405,2023-10-08,Personal Reasons,0
+139,1861,2024-05-06,Career Growth,0
+140,1858,2025-04-12,Not Specified,0
+141,1791,2022-08-04,Better Opportunity,0
+142,1385,2026-07-26,Relocation,0
+143,1835,2025-11-18,Better Opportunity,0
+144,1296,2023-07-20,Compensation,0
+145,1140,2023-03-20,Career Growth,0
+146,1621,2022-03-15,Retirement,0

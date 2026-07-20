@@ -1,0 +1,31 @@
+job_id,job_title,min_salary,max_salary
+1,Sales Executive,37000.0,70000.0
+2,Sales Manager,37000.0,70000.0
+3,Territory Manager,37000.0,70000.0
+4,Sales Associate,37000.0,70000.0
+5,HR Executive,34000.0,67000.0
+6,HR Manager,34000.0,67000.0
+7,Recruiter,34000.0,67000.0
+8,HR Business Partner,34000.0,67000.0
+9,Research Scientist,52000.0,85000.0
+10,Lab Technician,52000.0,85000.0
+11,R&D Manager,52000.0,85000.0
+12,Data Scientist,52000.0,85000.0
+13,Marketing Executive,40000.0,73000.0
+14,Marketing Manager,40000.0,73000.0
+15,Content Strategist,40000.0,73000.0
+16,Seo Specialist,40000.0,73000.0
+17,Financial Analyst,47000.0,80000.0
+18,Accountant,47000.0,80000.0
+19,Finance Manager,47000.0,80000.0
+20,Auditor,47000.0,80000.0
+21,Software Engineer,57000.0,90000.0
+22,System Admin,57000.0,90000.0
+23,IT Manager,57000.0,90000.0
+24,Qa Engineer,57000.0,90000.0
+25,Operations Executive,32000.0,65000.0
+26,Operations Manager,32000.0,65000.0
+27,Logistics Coordinator,32000.0,65000.0
+28,Support Executive,27000.0,60000.0
+29,Support Team Lead,27000.0,60000.0
+30,Customer Success Manager,27000.0,60000.0

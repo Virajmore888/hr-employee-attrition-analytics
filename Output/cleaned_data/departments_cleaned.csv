@@ -1,0 +1,9 @@
+department_id,department_name,location_id
+1,Sales,3
+3,Research & Development,6
+4,Marketing,10
+5,Finance,1
+6,IT,9
+8,Customer Support,11
+9,Human Resources,10
+10,Operations,6
